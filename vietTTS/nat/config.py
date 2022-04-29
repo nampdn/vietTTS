@@ -15,15 +15,14 @@ class FLAGS(Namespace):
     acoustic_encoder_dim = 256
 
     # dataset
-    max_phoneme_seq_len = 256 * 1
-    assert max_phoneme_seq_len % 256 == 0  # prevent compilation error on Colab T4 GPU
+    max_phoneme_seq_len = 128 * 3
     max_wave_len = 1024 * 64 * 3
 
     # Montreal Forced Aligner
-    special_phonemes = ["sil", "sp", "spn", " "]  # [sil], [sp] [spn] [word end]
+    special_phonemes = ["sil", "sp", "spn", ""]  # [sil], [sp] [spn] [word end]
     sil_index = special_phonemes.index("sil")
     sp_index = special_phonemes.index("sp")
-    word_end_index = special_phonemes.index(" ")
+    word_end_index = special_phonemes.index("")
 
     # dsp
     mel_dim = 80
@@ -40,8 +39,8 @@ class FLAGS(Namespace):
     weight_decay = 1e-4
 
     # ckpt
-    ckpt_dir = Path("assets/infore/nat")
-    data_dir = Path("assets/infore/data")
+    ckpt_dir = Path("assets/vietTTS_data/nat")
+    data_dir = Path("assets/vietTTS_data/data")
     data_dir = Path("train_data")
 
 
