@@ -61,13 +61,22 @@ def textgrid_data_loader(data_dir: Path, seq_len: int, batch_size: int, mode: st
         tg_files = tg_files[L:]
 
     data = []
+    count = 0
+    print(len(tg_files))
     for fn in tg_files:
+        
         ps, ds = zip(*load_textgrid(fn))
         ps = [phonemes.index(p) for p in ps]
         l = len(ps)
-        ps = pad_seq(ps, seq_len, 0)
-        ds = pad_seq(ds, seq_len, 0)
-        data.append((ps, ds, l))
+        
+        try:
+          ps = pad_seq(ps, seq_len, 0)
+          ds = pad_seq(ds, seq_len, 0)
+          data.append((ps, ds, l))
+        except AssertionError:
+          count+=1
+          print("ERROR file:", count, fn)
+        
 
     batch = []
     while True:
