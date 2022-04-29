@@ -2,6 +2,6 @@ data_root="./train_data" # modify this
 pushd .
 mkdir -p $data_root
 cd $data_root
-gdown --id 1Pe-5lKT_lZsliv2WxQDai2mjhI9ZMFlj -O infore.zip
-unzip -q infore.zip 
+gdown 1iRYyAQP9A_afd3MRhceGPqI532UGSvnm -O aligned.zip
+unzip -q aligned.zip 
 popd
