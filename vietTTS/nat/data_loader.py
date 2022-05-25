@@ -94,6 +94,7 @@ def load_textgrid_wav(
 ):
     """load wav and textgrid files to memory."""
     tg_files = sorted(data_dir.glob("*.TextGrid"))
+    tg_files = tg_files[1:round(len(tg_files)/2)]
     random.Random(42).shuffle(tg_files)
     L = len(tg_files) * 95 // 100
     assert mode in ["train", "val", "gta"]
