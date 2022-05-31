@@ -9,13 +9,14 @@ class FLAGS(Namespace):
     duration_lstm_dim = 256
     vocab_size = 256
     duration_embed_dropout_rate = 0.5
-    num_training_steps = 200_000
+    num_training_steps = 1_200_000
     postnet_dim = 512
     acoustic_decoder_dim = 512
     acoustic_encoder_dim = 256
 
     # dataset
-    max_phoneme_seq_len = 128 * 3
+    max_phoneme_seq_len = 256 * 1
+    assert max_phoneme_seq_len % 256 == 0  # prevent compilation error on Colab T4 GPU
     max_wave_len = 1024 * 64 * 3
 
     # Montreal Forced Aligner
@@ -39,8 +40,8 @@ class FLAGS(Namespace):
     weight_decay = 1e-4
 
     # ckpt
-    ckpt_dir = Path("assets/vietTTS_data/nat")
-    data_dir = Path("assets/vietTTS_data/data")
+    ckpt_dir = Path("assets/infore/nat")
+    data_dir = Path("assets/infore/data")
     data_dir = Path("train_data")
 
 
