@@ -8,8 +8,14 @@ from scipy.io import wavfile
 from .config import FLAGS, AcousticInput, DurationInput
 
 
-def load_phonemes_set():
-    S = FLAGS.special_phonemes + FLAGS._normal_phonemes
+def load_phonemes_set_from_lexicon_file(fn: Path):
+    S = set()
+    for line in open(fn, "r").readlines():
+        word, phonemes = line.strip().lower().split("\t")
+        phonemes = phonemes.split()
+        S.update(phonemes)
+
+    S = FLAGS.special_phonemes + sorted(list(S))
     return S
 
 
@@ -26,7 +32,6 @@ def is_in_word(phone, word):
 
 
 def load_textgrid(fn: Path):
-    """load textgrid file"""
     tg = textgrid.TextGrid.fromFile(str(fn.resolve()))
     data = []
     words = list(tg[0])
@@ -40,27 +45,22 @@ def load_textgrid(fn: Path):
             if widx >= len(words):
                 break
             assert p in words[widx], "mismatched word vs phoneme"
-        mark = p.mark.strip().lower()
-        if len(mark) == 0:
-            mark = "sil"
-        data.append((mark, p.duration()))
+        data.append((p.mark.strip().lower(), p.duration()))
     return data
 
 
 def textgrid_data_loader(data_dir: Path, seq_len: int, batch_size: int, mode: str):
-    """load all textgrid files in the directory"""
     tg_files = sorted(data_dir.glob("*.TextGrid"))
     random.Random(42).shuffle(tg_files)
     L = len(tg_files) * 95 // 100
     assert mode in ["train", "val"]
-    phonemes = load_phonemes_set()
+    phonemes = load_phonemes_set_from_lexicon_file(data_dir / "lexicon.txt")
     if mode == "train":
         tg_files = tg_files[:L]
     if mode == "val":
         tg_files = tg_files[L:]
 
     data = []
-    count = 0
     for fn in tg_files:
       try:
         ps, ds = zip(*load_textgrid(fn))
@@ -69,11 +69,8 @@ def textgrid_data_loader(data_dir: Path, seq_len: int, batch_size: int, mode: st
         ps = pad_seq(ps, seq_len, 0)
         ds = pad_seq(ds, seq_len, 0)
         data.append((ps, ds, l))
-      except AssertionError:
-        count+=1
-        print("AssertionError file:", count, fn)
-      except ValueError:
-        print("ValueError file:", count, fn)
+      except:
+        print("textgrid_data_loader - Skip error file: ", fn)
 
     batch = []
     while True:
@@ -92,13 +89,11 @@ def textgrid_data_loader(data_dir: Path, seq_len: int, batch_size: int, mode: st
 def load_textgrid_wav(
     data_dir: Path, token_seq_len: int, batch_size, pad_wav_len, mode: str
 ):
-    """load wav and textgrid files to memory."""
     tg_files = sorted(data_dir.glob("*.TextGrid"))
-    tg_files = tg_files[1:round(len(tg_files)/2)]
     random.Random(42).shuffle(tg_files)
     L = len(tg_files) * 95 // 100
     assert mode in ["train", "val", "gta"]
-    phonemes = load_phonemes_set()
+    phonemes = load_phonemes_set_from_lexicon_file(data_dir / "lexicon.txt")
     if mode == "gta":
         tg_files = tg_files  # all files
     elif mode == "train":
@@ -107,18 +102,13 @@ def load_textgrid_wav(
         tg_files = tg_files[L:]
 
     data = []
-    count = 0
     for fn in tg_files:
       try:
         ps, ds = zip(*load_textgrid(fn))
-        # print(ps)
         ps = [phonemes.index(p) for p in ps]
         l = len(ps)
-
         ps = pad_seq(ps, token_seq_len, 0)
         ds = pad_seq(ds, token_seq_len, 0)
-          #print("GOOD file:", count, fn)
-
 
         wav_file = data_dir / f"{fn.stem}.wav"
         sr, y = wavfile.read(wav_file)
@@ -136,22 +126,11 @@ def load_textgrid_wav(
 
         if len(y) > pad_wav_len:
             y = y[:pad_wav_len]
-
-        # # normalize to match hifigan preprocessing
-        # y = y.astype(np.float32)
-        # y = y / np.max(np.abs(y))
-        # y = y * 0.95
-        # y = y * (2 ** 15)
-        # y = y.astype(np.int16)
-
         wav_length = len(y)
         y = np.pad(y, (0, pad_wav_len - len(y)))
         data.append((fn.stem, ps, ds, l, y, wav_length))
-      except AssertionError:
-        count+=1
-        print("AssertionError file:", count, fn)
-      except ValueError:
-        print("ValueError file:", count, fn)
+      except:
+        print("load_textgrid_wav - Skip error file: ", fn)
 
     batch = []
     while True:
@@ -163,7 +142,7 @@ def load_textgrid_wav(
                 ps = np.array(ps, dtype=np.int32)
                 ds = np.array(ds, dtype=np.float32)
                 lengths = np.array(lengths, dtype=np.int32)
-                wavs = np.array(wavs, dtype=np.int16)
+                wavs = np.array(wavs)
                 wav_lengths = np.array(wav_lengths, dtype=np.int32)
                 if mode == "gta":
                     yield names, AcousticInput(ps, lengths, ds, wavs, wav_lengths, None)
