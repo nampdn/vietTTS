@@ -26,11 +26,13 @@ def predict_duration(tokens):
     forward_fn = jax.jit(hk.transform_with_state(fwd_).apply)
     with open(FLAGS.ckpt_dir / "duration_latest_ckpt.pickle", "rb") as f:
         dic = pickle.load(f)
+        print("Duration steps:", dic["step"])
     x = DurationInput(
         np.array(tokens, dtype=np.int32)[None, :],
         np.array([len(tokens)], dtype=np.int32),
         None,
     )
+    
     return forward_fn(dic["params"], dic["aux"], dic["rng"], x)[0]
 
 
@@ -60,6 +62,7 @@ def text2tokens(text, lexicon_fn):
 
 def predict_mel(tokens, durations):
     ckpt_fn = FLAGS.ckpt_dir / "acoustic_latest_ckpt.pickle"
+    print(ckpt_fn)
     with open(ckpt_fn, "rb") as f:
         dic = pickle.load(f)
         last_step, params, aux, rng, optim_state = (
@@ -69,6 +72,7 @@ def predict_mel(tokens, durations):
             dic["rng"],
             dic["optim_state"],
         )
+        print("Acoustic steps:", last_step)
 
     @hk.transform_with_state
     def forward(tokens, durations, n_frames):
@@ -96,10 +100,21 @@ def text2mel(
         np.array(tokens)[None, :] == FLAGS.word_end_index, 0.0, durations
     )
     mels = predict_mel(tokens, durations)
+
     if tokens[-1] == FLAGS.sp_index:
         end_silence = durations[0, -1].item()
         silence_frame = int(end_silence * FLAGS.sample_rate / (FLAGS.n_fft // 4))
         mels = mels[:, : (mels.shape[1] - silence_frame)]
+
+    # PLOT:
+    plotfile = "mel_interfere.png"
+    plt.figure(figsize=(10, 5))
+    plt.imshow(mels[0].T, origin="lower", aspect="auto")
+    plt.savefig(str(plotfile))
+    plt.close()
+    # mel = jax.device_get(mels)
+    # mel.tofile(plotfile)
+
     return mels
 
 
@@ -114,4 +129,4 @@ if __name__ == "__main__":
     plt.savefig(str(args.output))
     plt.close()
     mel = jax.device_get(mel)
-    mel.tofile("clip.mel")
+    mel.tofile("mel.png")
