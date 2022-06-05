@@ -28,9 +28,9 @@ class FLAGS(Namespace):
     # dsp
     mel_dim = 80
     n_fft = 1024
-    sample_rate = 16000
-    fmin = 0.0
-    fmax = 8000
+    sample_rate = 44100
+    fmin = 20
+    fmax = 11025
 
     # training
     batch_size = 64
