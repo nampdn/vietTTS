@@ -1,1072 +1,4343 @@
-a	a
-ai	a i
-am	a m
-an	a n
-anh	a nh
-ba	b a
-ban	b a n
-bao	b a o
-ben	b e n
-bi	b i
-bia	b i a
-binh	b i nh
-biên	b i ê n
-biến	b i ế n
-biết	b i ế t
-biện	b i ệ n
-biệt	b i ệ t
-bu	b u
-buổi	b u ổ i
-by	b y
-bà	b à
-bài	b à i
-bàn	b à n
-bánh	b á nh
-báo	b á o
-báp	b á p
-bát	b á t
-bé	b é
-bê	b ê
-bên	b ê n
-bình	b ì nh
-bò	b ò
-bói	b ó i
-bóng	b ó ng
-bô	b ô
-bú	b ú
-bước	b ư ớ c
-bạc	b ạ c
-bại	b ạ i
-bạo	b ạ o
-bản	b ả n
-bảo	b ả o
-bảy	b ả y
-bất	b ấ t
-bầu	b ầ u
-bẩn	b ẩ n
-bật	b ậ t
-bắt	b ắ t
-bằng	b ằ ng
-bến	b ế n
-bếp	b ế p
-bể	b ể
-bệ	b ệ
-bệnh	b ệ nh
-bị	b ị
-bọn	b ọ n
-bỏ	b ỏ
-bố	b ố
-bốn	b ố n
-bộ	b ộ
-bội	b ộ i
-bờ	b ờ
-bụi	b ụ i
-bức	b ứ c
-bữa	b ữ a
-ca	c a
-cai	c a i
-can	c a n
-canh	c a nh
-cao	c a o
-cha	ch a
-chan	ch a n
-che	ch e
-chem	ch e m
-chia	ch i a
-chim	ch i m
-chinh	ch i nh
-chiên	ch i ê n
-chiến	ch i ế n
-chiếu	ch i ế u
-cho	ch o
-chu	ch u
-chung	ch u ng
-chuyển	ch u y ể n
-chuyện	ch u y ệ n
-chuẩn	ch u ẩ n
-chuộc	ch u ộ c
-chào	ch à o
-chân	ch â n
-châu	ch â u
-chè	ch è
-chén	ch é n
-chí	ch í
-chính	ch í nh
-chúa	ch ú a
-chúc	ch ú c
-chúng	ch ú ng
-chăm	ch ă m
-chưa	ch ư a
-chương	ch ư ơ ng
-chạm	ch ạ m
-chạy	ch ạ y
-chảy	ch ả y
-chấp	ch ấ p
-chất	ch ấ t
-chấu	ch ấ u
-chật	ch ậ t
-chắc	ch ắ c
-chẳng	ch ẳ ng
-chết	ch ế t
-chỉ	ch ỉ
-chị	ch ị
-chịu	ch ị u
-chốc	ch ố c
-chối	ch ố i
-chống	ch ố ng
-chớp	ch ớ p
-chờ	ch ờ
-chở	ch ở
-chủ	ch ủ
-chứ	ch ứ
-chức	ch ứ c
-chứng	ch ứ ng
-chừng	ch ừ ng
-chữa	ch ữ a
-con	c o n
-cung	c u ng
-cuối	c u ố i
-cuốn	c u ố n
-cuộc	c u ộ c
-cuộn	c u ộ n
-cà	c à
-càng	c à ng
-cá	c á
-các	c á c
-cách	c á ch
-cái	c á i
-cám	c á m
-cát	c á t
-cân	c â n
-cãi	c ã i
-còn	c ò n
-có	c ó
-cô	c ô
-công	c ô ng
-cùng	c ù ng
-cúi	c ú i
-căn	c ă n
-căng	c ă ng
-cũng	c ũ ng
-cơ	c ơ
-cơn	c ơ n
-cư	c ư
-cưu	c ư u
-cưới	c ư ớ i
-cưỡi	c ư ỡ i
-cạn	c ạ n
-cả	c ả
-cải	c ả i
-cảm	c ả m
-cản	c ả n
-cầu	c ầ u
-cập	c ậ p
-cắm	c ắ m
-cắp	c ắ p
-cốp	c ố p
-cổng	c ổ ng
-cột	c ộ t
-của	c ủ a
-củi	c ủ i
-cứ	c ứ
-cứu	c ứ u
-cửa	c ử a
-danh	d a nh
-dinh	d i nh
-diệt	d i ệ t
-do	d o
-dài	d à i
-dành	d à nh
-dám	d á m
-dâm	d â m
-dân	d â n
-dâng	d â ng
-dâu	d â u
-dây	d â y
-dép	d é p
-dê	d ê
-dòng	d ò ng
-dõi	d õ i
-dù	d ù
-dùng	d ù ng
-dũng	d ũ ng
-dại	d ạ i
-dạy	d ạ y
-dấu	d ấ u
-dầu	d ầ u
-dẫn	d ẫ n
-dẫu	d ẫ u
-dậy	d ậ y
-dắt	d ắ t
-dặn	d ặ n
-dẹp	d ẹ p
-dọc	d ọ c
-dọn	d ọ n
-dối	d ố i
-dồn	d ồ n
-dỗ	d ỗ
-dội	d ộ i
-dừng	d ừ ng
-dựng	d ự ng
-e	e
-em	e m
-ga	g a
-gam	g a m
-ghen	gh e n
-ghi	gh i
-ghét	gh é t
-ghê	gh ê
-gia	gi a
-giam	gi a m
-gian	gi a n
-giao	gi a o
-gieo	gi e o
-giu	gi u
-giàu	gi à u
-giày	gi à y
-giám	gi á m
-giáo	gi á o
-giép	gi é p
-giê	gi ê
-gióp	gi ó p
-giô	gi ô
-giúp	gi ú p
-giăng	gi ă ng
-giường	gi ư ờ ng
-giả	gi ả
-giải	gi ả i
-giảng	gi ả ng
-giấc	gi ấ c
-giận	gi ậ n
-giếng	gi ế ng
-giết	gi ế t
-giốc	gi ố c
-giới	gi ớ i
-giờ	gi ờ
-giữ	gi ữ
-giữa	gi ữ a
-gác	g á c
-gãy	g ã y
-gì	g ì
-góc	g ó c
-gươm	g ư ơ m
-gạt	g ạ t
-gấu	g ấ u
-gần	g ầ n
-gặp	g ặ p
-gặt	g ặ t
-gọi	g ọ i
-gốm	g ố m
-gỗ	g ỗ
-gửi	g ử i
-ha	h a
-hai	h a i
-ham	h a m
-hay	h a y
-hi	h i
-hiền	h i ề n
-hiểm	h i ể m
-hiểu	h i ể u
-hiện	h i ệ n
-hiệu	h i ệ u
-hoàn	h o à n
-hoặc	h o ặ c
-hu	h u
-hum	h u m
-hung	h u ng
-huệ	h u ệ
-hành	h à nh
-hào	h à o
-hát	h á t
-hãi	h ã i
-hãnh	h ã nh
-hãy	h ã y
-hê	h ê
-hình	h ì nh
-hòa	h ò a
-hòm	h ò m
-hô	h ô
-hôm	h ô m
-hơn	h ơ n
-hương	h ư ơ ng
-hướng	h ư ớ ng
-hưởng	h ư ở ng
-hạ	h ạ
-hại	h ạ i
-hạng	h ạ ng
-hải	h ả i
-hắn	h ắ n
-hằng	h ằ ng
-hết	h ế t
-hễ	h ễ
-họ	h ọ
-họa	h ọ a
-học	h ọ c
-hỏi	h ỏ i
-hồi	h ồ i
-hồng	h ồ ng
-hổ	h ổ
-hộ	h ộ
-hội	h ộ i
-hợp	h ợ p
-hủi	h ủ i
-hủy	h ủ y
-hứa	h ứ a
-hữu	h ữ u
-im	i m
-in	i n
-keo	k e o
-khi	kh i
-khinh	kh i nh
-khiêm	kh i ê m
-khiêng	kh i ê ng
-khiếm	kh i ế m
-khiết	kh i ế t
-khiển	kh i ể n
-khoa	kh o a
-khoan	kh o a n
-khoen	kh o e n
-khu	kh u
-khui	kh u i
-khuyên	kh u y ê n
-khác	kh á c
-khí	kh í
-khó	kh ó
-khóc	kh ó c
-khói	kh ó i
-khôn	kh ô n
-không	kh ô ng
-khăn	kh ă n
-khước	kh ư ớ c
-khấn	kh ấ n
-khỏi	kh ỏ i
-khốn	kh ố n
-khổ	kh ổ
-khởi	kh ở i
-kia	k i a
-kim	k i m
-kinh	k i nh
-kiêu	k i ê u
-kiến	k i ế n
-kéo	k é o
-kê	k ê
-kêu	k ê u
-kính	k í nh
-ký	k ý
-kẻ	k ẻ
-kẻo	k ẻ o
-kế	k ế
-kể	k ể
-kỷ	k ỷ
-la	l a
-lao	l a o
-lem	l e m
-li	l i
-linh	l i nh
-liu	l i u
-liền	l i ề n
-liệm	l i ệ m
-liệt	l i ệ t
-liệu	l i ệ u
-lo	l o
-loan	l o a n
-loài	l o à i
-loại	l o ạ i
-loạn	l o ạ n
-lu	l u
-luôn	l u ô n
-luận	l u ậ n
-luật	l u ậ t
-là	l à
-làm	l à m
-lành	l à nh
-lác	l á c
-lát	l á t
-lâu	l â u
-lãnh	l ã nh
-lão	l ã o
-léc	l é c
-lép	l é p
-lê	l ê
-lên	l ê n
-lìa	l ì a
-lình	l ì nh
-líp	l í p
-lít	l í t
-lò	l ò
-lòng	l ò ng
-lô	l ô
-lôn	l ô n
-lúa	l ú a
-lúc	l ú c
-lý	l ý
-lũng	l ũ ng
-lơ	l ơ
-lưng	l ư ng
-lưu	l ư u
-lương	l ư ơ ng
-lưỡi	l ư ỡ i
-lạ	l ạ
-lạc	l ạ c
-lại	l ạ i
-lạy	l ạ y
-lấy	l ấ y
-lầm	l ầ m
-lần	l ầ n
-lập	l ậ p
-lẽ	l ẽ
-lễ	l ễ
-lệ	l ệ
-lệnh	l ệ nh
-lỗi	l ỗ i
-lộn	l ộ n
-lớn	l ớ n
-lời	l ờ i
-lụt	l ụ t
-lừa	l ừ a
-lửa	l ử a
-lực	l ự c
-ma	m a
-mai	m a i
-man	m a n
-mang	m a ng
-men	m e n
-mi	m i
-mim	m i m
-min	m i n
-minh	m i nh
-miền	m i ề n
-miệng	m i ệ ng
-mu	m u
-muôn	m u ô n
-muốn	m u ố n
-my	m y
-mà	m à
-màn	m à n
-mách	m á ch
-mây	m â y
-mã	m ã
-mãi	m ã i
-mê	m ê
-mình	m ì nh
-mích	m í ch
-móc	m ó c
-món	m ó n
-mô	m ô
-môi	m ô i
-môn	m ô n
-mùa	m ù a
-mũi	m ũ i
-mưa	m ư a
-mưu	m ư u
-mươi	m ư ơ i
-mười	m ư ờ i
-mạnh	m ạ nh
-mạo	m ạ o
-mật	m ậ t
-mắc	m ắ c
-mắt	m ắ t
-mặt	m ặ t
-mẹ	m ẹ
-mẽ	m ẽ
-mệt	m ệ t
-mọi	m ọ i
-mỏi	m ỏ i
-mồi	m ồ i
-mỗi	m ỗ i
-mộ	m ộ
-mộng	m ộ ng
-một	m ộ t
-mới	m ớ i
-mời	m ờ i
-mở	m ở
-mỡ	m ỡ
-mừng	m ừ ng
-na	n a
-nay	n a y
-ngang	ng a ng
-ngay	ng a y
-nghe	ngh e
-nghiền	ngh i ề n
-nghiệp	ngh i ệ p
-nghèo	ngh è o
-nghìn	ngh ì n
-nghĩ	ngh ĩ
-nghĩa	ngh ĩ a
-ngoa	ng o a
-ngoan	ng o a n
-ngoài	ng o à i
-ngoại	ng o ạ i
-nguy	ng u y
-nguyên	ng u y ê n
-nguyền	ng u y ề n
-nguyện	ng u y ệ n
-nguyệt	ng u y ệ t
-nguồn	ng u ồ n
-ngài	ng à i
-ngàn	ng à n
-ngày	ng à y
-ngã	ng ã
-ngóng	ng ó ng
-ngăn	ng ă n
-ngươi	ng ư ơ i
-người	ng ư ờ i
-ngạc	ng ạ c
-ngạch	ng ạ ch
-ngậm	ng ậ m
-ngập	ng ậ p
-ngọn	ng ọ n
-ngọt	ng ọ t
-ngồi	ng ồ i
-ngựa	ng ự a
-nhau	nh a u
-nhiên	nh i ê n
-nhiều	nh i ề u
-nhà	nh à
-nhái	nh á i
-nháp	nh á p
-nhân	nh â n
-nhìn	nh ì n
-nhóm	nh ó m
-nhô	nh ô
-nhơ	nh ơ
-như	nh ư
-nhưng	nh ư ng
-nhường	nh ư ờ ng
-nhượng	nh ư ợ ng
-nhả	nh ả
-nhấm	nh ấ m
-nhất	nh ấ t
-nhẫn	nh ẫ n
-nhận	nh ậ n
-nhắc	nh ắ c
-nhặt	nh ặ t
-nhịn	nh ị n
-nhỏ	nh ỏ
-nhờ	nh ờ
-nhở	nh ở
-những	nh ữ ng
-ni	n i
-niêu	n i ê u
-nàng	n à ng
-nào	n à o
-này	n à y
-nát	n á t
-nép	n é p
-nê	n ê
-nên	n ê n
-nó	n ó
-nóc	n ó c
-nói	n ó i
-nô	n ô
-nôm	n ô m
-nôn	n ô n
-núi	n ú i
-năm	n ă m
-năng	n ă ng
-nơi	n ơ i
-nước	n ư ớ c
-nại	n ạ i
-nấy	n ấ y
-nắm	n ắ m
-nằm	n ằ m
-nặng	n ặ ng
-nẻo	n ẻ o
-nếu	n ế u
-nối	n ố i
-nồi	n ồ i
-nổ	n ổ
-nổi	n ổ i
-nộ	n ộ
-nợ	n ợ
-nửa	n ử a
-nữ	n ữ
-nữa	n ữ a
-ong	o ng
-pha	ph a
-phao	ph a o
-phi	ph i
-phong	ph o ng
-phàm	ph à m
-phá	ph á
-phái	ph á i
-phán	ph á n
-pháp	ph á p
-phát	ph á t
-phân	ph â n
-phê	ph ê
-phên	ph ê n
-phía	ph í a
-phòng	ph ò ng
-phô	ph ô
-phù	ph ù
-phút	ph ú t
-phương	ph ư ơ ng
-phước	ph ư ớ c
-phạm	ph ạ m
-phạt	ph ạ t
-phải	ph ả i
-phản	ph ả n
-phần	ph ầ n
-phẫn	ph ẫ n
-phố	ph ố
-phụ	ph ụ
-phục	ph ụ c
-qua	qu a
-quan	qu a n
-quanh	qu a nh
-quay	qu a y
-quy	qu y
-quyến	qu y ế n
-quyết	qu y ế t
-quá	qu á
-quát	qu á t
-quân	qu â n
-què	qu è
-quý	qu ý
-quăng	qu ă ng
-quặt	qu ặ t
-quốc	qu ố c
-quỳ	qu ỳ
-quỷ	qu ỷ
-ra	r a
-ram	r a m
-ri	r i
-rim	r i m
-riêng	r i ê ng
-ru	r u
-run	r u n
-rung	r u ng
-ruồng	r u ồ ng
-rá	r á
-rác	r á c
-rách	r á ch
-rê	r ê
-rình	r ì nh
-rít	r í t
-rôn	r ô n
-rõ	r õ
-rút	r ú t
-răn	r ă n
-rũ	r ũ
-rơ	r ơ
-rơi	r ơ i
-rượu	r ư ợ u
-rẩy	r ẩ y
-rằng	r ằ ng
-rếp	r ế p
-rốt	r ố t
-rồi	r ồ i
-rộng	r ộ ng
-rời	r ờ i
-rỡ	r ỡ
-rủa	r ủ a
-rửa	r ử a
-rực	r ự c
-sa	s a
-sai	s a i
-sam	s a m
-sang	s a ng
-sao	s a o
-sau	s a u
-se	s e
-si	s i
-sim	s i m
-sinh	s i nh
-suông	s u ô ng
-suối	s u ố i
-sàng	s à ng
-sách	s á ch
-sáng	s á ng
-sát	s á t
-sáu	s á u
-sâu	s â u
-sép	s é p
-sê	s ê
-sóc	s ó c
-sôn	s ô n
-sông	s ô ng
-săn	s ă n
-sĩ	s ĩ
-sơ	s ơ
-sư	s ư
-sưởi	s ư ở i
-sạch	s ạ ch
-sản	s ả n
-sấm	s ấ m
-sắp	s ắ p
-sắt	s ắ t
-sẵn	s ẵ n
-sẻ	s ẻ
-sẽ	s ẽ
-số	s ố
-sống	s ố ng
-sớ	s ớ
-sợ	s ợ
-sủa	s ủ a
-sứ	s ứ
-sức	s ứ c
-sửa	s ử a
-sữa	s ữ a
-sự	s ự
-ta	t a
-tai	t a i
-tam	t a m
-tan	t a n
-tay	t a y
-tem	t e m
-tha	th a
-thai	th a i
-thanh	th a nh
-thay	th a y
-theo	th e o
-thim	th i m
-thoát	th o á t
-thu	th u
-thung	th u ng
-thuyết	th u y ế t
-thuẫn	th u ẫ n
-thuốc	th u ố c
-thuộc	th u ộ c
-thuở	th u ở
-thà	th à
-thành	th à nh
-thách	th á ch
-thái	th á i
-tháng	th á ng
-thánh	th á nh
-tháo	th á o
-tháp	th á p
-thân	th â n
-thê	th ê
-thêm	th ê m
-thì	th ì
-thình	th ì nh
-thích	th í ch
-thù	th ù
-thú	th ú
-thăm	th ă m
-thơm	th ơ m
-thư	th ư
-thưa	th ư a
-thương	th ư ơ ng
-thường	th ư ờ ng
-thượng	th ư ợ ng
-thảm	th ả m
-thất	th ấ t
-thấy	th ấ y
-thần	th ầ n
-thầy	th ầ y
-thật	th ậ t
-thắng	th ắ ng
-thẳng	th ẳ ng
-thẹn	th ẹ n
-thế	th ế
-thể	th ể
-thị	th ị
-thỏa	th ỏ a
-thống	th ố ng
-thổ	th ổ
-thờ	th ờ
-thời	th ờ i
-thủng	th ủ ng
-thứ	th ứ
-thức	th ứ c
-thừa	th ừ a
-thừng	th ừ ng
-thử	th ử
-thực	th ự c
-ti	t i
-tin	t i n
-tinh	t i nh
-tiên	t i ê n
-tiêu	t i ê u
-tiến	t i ế n
-tiếng	t i ế ng
-tiếp	t i ế p
-tiền	t i ề n
-tiệc	t i ệ c
-toàn	t o à n
-trai	tr a i
-trang	tr a ng
-tranh	tr a nh
-tri	tr i
-triều	tr i ề u
-triệu	tr i ệ u
-trong	tr o ng
-trung	tr u ng
-truyền	tr u y ề n
-tràn	tr à n
-trá	tr á
-trách	tr á ch
-trái	tr á i
-trán	tr á n
-tránh	tr á nh
-trên	tr ê n
-trình	tr ì nh
-trói	tr ó i
-trô	tr ô
-trông	tr ô ng
-trú	tr ú
-trúng	tr ú ng
-trăm	tr ă m
-trưa	tr ư a
-trước	tr ư ớ c
-trường	tr ư ờ ng
-trưởng	tr ư ở ng
-trại	tr ạ i
-trấn	tr ấ n
-trần	tr ầ n
-trị	tr ị
-trọn	tr ọ n
-trộm	tr ộ m
-trời	tr ờ i
-trở	tr ở
-trợ	tr ợ
-trụ	tr ụ
-trục	tr ụ c
-trừ	tr ừ
-tu	t u
-tung	t u ng
-tuyết	t u y ế t
-tuôn	t u ô n
-tuổi	t u ổ i
-tà	t à
-tài	t à i
-tàn	t à n
-tàu	t à u
-tác	t á c
-tám	t á m
-táng	t á ng
-tâm	t â m
-tây	t â y
-té	t é
-tê	t ê
-tên	t ê n
-tìm	t ì m
-tình	t ì nh
-tín	t í n
-tính	t í nh
-tòa	t ò a
-tóp	t ó p
-tôi	t ô i
-tùng	t ù ng
-túi	t ú i
-tương	t ư ơ ng
-tướng	t ư ớ ng
-tường	t ư ờ ng
-tạ	t ạ
-tại	t ạ i
-tạm	t ạ m
-tảng	t ả ng
-tấm	t ấ m
-tấn	t ấ n
-tất	t ấ t
-tầng	t ầ ng
-tẩy	t ẩ y
-tận	t ậ n
-tập	t ậ p
-tắc	t ắ c
-tắm	t ắ m
-tế	t ế
-tối	t ố i
-tốt	t ố t
-tồn	t ồ n
-tổ	t ổ
-tổng	t ổ ng
-tộc	t ộ c
-tội	t ộ i
-tớ	t ớ
-tới	t ớ i
-tởm	t ở m
-tục	t ụ c
-từ	t ừ
-từng	t ừ ng
-tử	t ử
-tự	t ự
-u	u
-um	u m
-uế	u ế
-uống	u ố ng
-viếng	v i ế ng
-viết	v i ế t
-việc	v i ệ c
-vua	v u a
-vui	v u i
-và	v à
-vài	v à i
-vàng	v à ng
-vào	v à o
-vách	v á ch
-vâng	v â ng
-vì	v ì
-ví	v í
-vít	v í t
-vó	v ó
-vô	v ô
-võ	v õ
-vùng	v ù ng
-văn	v ă n
-vũ	v ũ
-vương	v ư ơ ng
-vượt	v ư ợ t
-vạch	v ạ ch
-vải	v ả i
-vấp	v ấ p
-vẫn	v ẫ n
-vật	v ậ t
-vậy	v ậ y
-vắng	v ắ ng
-vết	v ế t
-về	v ề
-vị	v ị
-vồ	v ồ
-vội	v ộ i
-với	v ớ i
-vợ	v ợ
-vụ	v ụ
-vừa	v ừ a
-xa	x a
-xe	x e
-xin	x i n
-xong	x o ng
-xoáy	x o á y
-xu	x u
-xung	x u ng
-xuân	x u â n
-xuất	x u ấ t
-xuống	x u ố ng
-xác	x á c
-xát	x á t
-xây	x â y
-xét	x é t
-xê	x ê
-xót	x ó t
-xô	x ô
-xúc	x ú c
-xơ	x ơ
-xảy	x ả y
-xấu	x ấ u
-xếp	x ế p
-xứ	x ứ
-xức	x ứ c
-xứng	x ứ ng
-xử	x ử
-yên	y ê n
-yêu	y ê u
-yết	y ế t
-yếu	y ế u
-ác	á c
-ách	á ch
-án	á n
-ánh	á nh
-áp	á p
-át	á t
-âm	â m
-ân	â n
-ép	é p
-ê	ê
-ên	ê n
-ít	í t
-ô	ô
-ôi	ô i
-ôn	ô n
-ông	ô ng
-ý	ý
-ăn	ă n
-đa	đ a
-đam	đ a m
-đan	đ a n
-đang	đ a ng
-đao	đ a o
-đau	đ a u
-đem	đ e m
-đeo	đ e o
-đi	đ i
-điêu	đ i ê u
-điềm	đ i ề m
-điều	đ i ề u
-điệp	đ i ệ p
-đo	đ o
-đoán	đ o á n
-đuổi	đ u ổ i
-đàn	đ à n
-đá	đ á
-đám	đ á m
-đáng	đ á ng
-đánh	đ á nh
-đáp	đ á p
-đát	đ á t
-đâm	đ â m
-đâu	đ â u
-đây	đ â y
-đã	đ ã
-đãi	đ ã i
-đèn	đ è n
-đê	đ ê
-đêm	đ ê m
-đình	đ ì nh
-đòn	đ ò n
-đó	đ ó
-đói	đ ó i
-đón	đ ó n
-đô	đ ô
-đôi	đ ô i
-đôm	đ ô m
-đông	đ ô ng
-đùa	đ ù a
-đưa	đ ư a
-đường	đ ư ờ ng
-được	đ ư ợ c
-đại	đ ạ i
-đảm	đ ả m
-đảo	đ ả o
-đất	đ ấ t
-đấu	đ ấ u
-đầu	đ ầ u
-đầy	đ ầ y
-đập	đ ậ p
-đắng	đ ắ ng
-đặc	đ ặ c
-đặt	đ ặ t
-đẹp	đ ẹ p
-đế	đ ế
-đếm	đ ế m
-đến	đ ế n
-đề	đ ề
-đền	đ ề n
-đều	đ ề u
-để	đ ể
-đệ	đ ệ
-đệm	đ ệ m
-địa	đ ị a
-định	đ ị nh
-đối	đ ố i
-đống	đ ố ng
-đốt	đ ố t
-đồ	đ ồ
-đồng	đ ồ ng
-đổ	đ ổ
-đổi	đ ổ i
-độc	đ ộ c
-động	đ ộ ng
-đời	đ ờ i
-đỡ	đ ỡ
-đợi	đ ợ i
-đủ	đ ủ
-đứa	đ ứ a
-đức	đ ứ c
-đứng	đ ứ ng
-đừng	đ ừ ng
-đực	đ ự c
-đựng	đ ự ng
-ơi	ơ i
-ước	ư ớ c
-ạt	ạ t
-ấn	ấ n
-ấy	ấ y
-ếch	ế ch
-ốm	ố m
-ốt	ố t
-ổn	ổ n
-ở	ở
+ai	 a1 j
+am	 a1 m
+an	 a1 n
+anh	 ɛ1 ɲ
+ao	 a1 w
+au	 ă1 w
+ba	 b a1
+bai	 b a1 j
+bam	 b a1 m
+ban	 b a1 n
+bang	 b a1 ŋ
+banh	 b ɛ1 ɲ
+bao	 b a1 w
+bay	 b ă1 j
+be	 b ɛ1
+ben	 b ɛ1 n
+beo	 b eo1
+bi	 b i1
+bia	 b iə1
+bim	 b i1 m
+bin	 b i1 n
+binh	 b i1 ɲ
+biên	 b iə1 n
+biếc	 b iə5 k
+biếm	 b iə5 m
+biến	 b iə5 n
+biếng	 b iə5 ŋ
+biết	 b iə5 t
+biếu	 b iə5 w
+biển	 b iə4 n
+biểu	 b iə4 w
+biện	 b iə6 n
+biệt	 b iə6 t
+bo	 b ɔ1
+bon	 b ɔ1 n
+bong	 b ɔ1 ŋ͡m
+bu	 b u1
+bua	 b uə1
+bun	 b u1 n
+buôn	 b uə1 n
+buông	 b uə1 ŋ
+buồm	 b uə2 m
+buồn	 b uə2 n
+buồng	 b uə2 ŋ
+buổi	 b uə4 j
+buộc	 b uə6 k
+buột	 b uə6 t
+by	 b i1
+bà	 b a2
+bài	 b a2 j
+bàn	 b a2 n
+bàng	 b a2 ŋ
+bành	 b ɛ2 ɲ
+bào	 b a2 w
+bày	 b ă2 j
+bá	 b a5
+bác	 b a5 k
+bách	 b a5 tʃ
+bái	 b a5 j
+bám	 b a5 m
+bán	 b a5 n
+báng	 b a5 ŋ
+bánh	 b ɛ5 ɲ
+báo	 b a5 w
+báp	 b a5 p
+bát	 b a5 t
+báu	 b ă5 w
+bâu	 b ɤ̆1 w
+bây	 b ɤ̆1 j
+bã	 b a3
+bãi	 b a3 j
+bão	 b a3 w
+bè	 b ɛ2
+bèn	 b ɛ2 n
+bèo	 b eo2
+bé	 b ɛ5
+béc	 b ɛ5 k
+bén	 b ɛ5 n
+béo	 b eo5
+bét	 b ɛ5 t
+bê	 b e1
+bên	 b e1 n
+bênh	 b e1 ɲ
+bêu	 b ɛu1
+bì	 b i2
+bình	 b i2 ɲ
+bí	 b i5
+bích	 b i5 tʃ
+bính	 b i5 ɲ
+bíp	 b i5 p
+bít	 b i5 t
+bò	 b ɔ2
+bó	 b ɔ5
+bóc	 b ɔ5 k͡p
+bói	 b ɔ5 j
+bón	 b ɔ5 n
+bóng	 b ɔ5 ŋ͡m
+bóp	 b ɔ5 p
+bô	 b o1
+bôi	 b o1 j
+bôn	 b o1 n
+bông	 b o1 ŋ͡m
+bù	 b u2
+bùa	 b uə2
+bùi	 b u2 j
+bùn	 b u2 n
+bùng	 b u2 ŋ͡m
+bú	 b u5
+búa	 b uə5
+búc	 b u5 k͡p
+búp	 b u5 p
+bút	 b u5 t
+băm	 b ă1 m
+băn	 b ă1 n
+băng	 b ă1 ŋ
+bơ	 b ɤ1
+bơi	 b ɤ1 j
+bưng	 b ɯ1 ŋ
+bước	 b ɯə5 k
+bướng	 b ɯə5 ŋ
+bướu	 b ɯə5 w
+bạ	 b a6
+bạc	 b a6 k
+bạch	 b a6 tʃ
+bại	 b a6 j
+bạn	 b a6 n
+bạo	 b a6 w
+bạt	 b a6 t
+bản	 b a4 n
+bảng	 b a4 ŋ
+bảo	 b a4 w
+bảy	 b ă4 j
+bấc	 b ɤ̆5 k
+bấn	 b ɤ̆5 n
+bấp	 b ɤ̆5 p
+bất	 b ɤ̆5 t
+bấu	 b ɤ̆5 w
+bấy	 b ɤ̆5 j
+bầm	 b ɤ̆2 m
+bần	 b ɤ̆2 n
+bầu	 b ɤ̆2 w
+bầy	 b ɤ̆2 j
+bẩm	 b ɤ̆4 m
+bẩn	 b ɤ̆4 n
+bẩy	 b ɤ̆4 j
+bẫy	 b ɤ̆3 j
+bậc	 b ɤ̆6 k
+bận	 b ɤ̆6 n
+bập	 b ɤ̆6 p
+bật	 b ɤ̆6 t
+bậy	 b ɤ̆6 j
+bắc	 b ă5 k
+bắn	 b ă5 n
+bắp	 b ă5 p
+bắt	 b ă5 t
+bằm	 b ă2 m
+bằng	 b ă2 ŋ
+bẵng	 b ă3 ŋ
+bặm	 b ă6 m
+bặt	 b ă6 t
+bẹp	 b ɛ6 p
+bẹt	 b ɛ6 t
+bẻ	 b ɛ4
+bẻm	 b ɛ4 m
+bẽ	 b ɛ3
+bẽo	 b eo3
+bế	 b e5
+bến	 b e5 n
+bếp	 b e5 p
+bết	 b e5 t
+bề	 b e2
+bền	 b e2 n
+bềnh	 b e2 ɲ
+bể	 b e4
+bễ	 b e3
+bệ	 b e6
+bện	 b e6 n
+bệnh	 b e6 ɲ
+bỉ	 b i4
+bỉnh	 b i4 ɲ
+bị	 b i6
+bịa	 b iə6
+bịch	 b i6 tʃ
+bịp	 b i6 p
+bịt	 b i6 t
+bịu	 b i6 w
+bọ	 b ɔ6
+bọc	 b ɔ6 k͡p
+bọn	 b ɔ6 n
+bọt	 b ɔ6 t
+bỏ	 b ɔ4
+bỏng	 b ɔ4 ŋ͡m
+bố	 b o5
+bốc	 b o5 k͡p
+bối	 b o5 j
+bốn	 b o5 n
+bốt	 b o5 t
+bồ	 b o2
+bồi	 b o2 j
+bồn	 b o2 n
+bồng	 b o2 ŋ͡m
+bổ	 b o4
+bổn	 b o4 n
+bổng	 b o4 ŋ͡m
+bỗng	 b o3 ŋ͡m
+bộ	 b o6
+bộc	 b o6 k͡p
+bội	 b o6 j
+bộng	 b o6 ŋ͡m
+bột	 b o6 t
+bớ	 b ɤ5
+bới	 b ɤ5 j
+bớt	 b ɤ5 t
+bờ	 b ɤ2
+bời	 b ɤ2 j
+bờm	 b ɤ2 m
+bở	 b ɤ4
+bởi	 b ɤ4 j
+bỡ	 b ɤ3
+bỡn	 b ɤ3 n
+bợ	 b ɤ6
+bợm	 b ɤ6 m
+bụa	 b uə6
+bục	 b u6 k͡p
+bụi	 b u6 j
+bụm	 b u6 m
+bụng	 b u6 ŋ͡m
+bụt	 b u6 t
+bủa	 b uə4
+bủn	 b u4 n
+bức	 b ɯ5 k
+bứng	 b ɯ5 ŋ
+bứt	 b ɯ5 t
+bừa	 b ɯə2
+bừng	 b ɯ2 ŋ
+bửa	 b ɯə4
+bửu	 b ɯ4 w
+bữa	 b ɯə3
+bực	 b ɯ6 k
+ca	 k a1
+cai	 k a1 j
+cam	 k a1 m
+can	 k a1 n
+canh	 k ɛ1 ɲ
+cao	 k a1 w
+cay	 k ă1 j
+cen	 k ɛ1 n
+cha	 c a1
+chai	 c a1 j
+cham	 c a1 m
+chan	 c a1 n
+chanh	 c ɛ1 ɲ
+chao	 c a1 w
+chay	 c ă1 j
+che	 c ɛ1
+chem	 c ɛ1 m
+chen	 c ɛ1 n
+cheo	 c eo1
+chi	 c i1
+chia	 c iə1
+chim	 c i1 m
+chinh	 c i1 ɲ
+chiêm	 c iə1 m
+chiên	 c iə1 n
+chiêng	 c iə1 ŋ
+chiêu	 c iə1 w
+chiếc	 c iə5 k
+chiếm	 c iə5 m
+chiến	 c iə5 n
+chiết	 c iə5 t
+chiếu	 c iə5 w
+chiều	 c iə2 w
+cho	 c ɔ1
+choang	 cw ʷa1 ŋ
+choàng	 cw ʷa2 ŋ
+choán	 cw ʷa5 n
+choáng	 cw ʷa5 ŋ
+choạng	 cw ʷa6 ŋ
+chu	 c u1
+chua	 c uə1
+chui	 c u1 j
+chum	 c u1 m
+chung	 c u1 ŋ͡m
+chuyên	 cw ʷiə1 n
+chuyến	 cw ʷiə5 n
+chuyền	 cw ʷiə2 n
+chuyển	 cw ʷiə4 n
+chuyện	 cw ʷiə6 n
+chuôm	 c uə1 m
+chuông	 c uə1 ŋ
+chuẩn	 cw ʷɤ̆4 n
+chuốc	 c uə5 k
+chuốt	 c uə5 t
+chuồng	 c uə2 ŋ
+chuỗi	 c uə3 j
+chuộc	 c uə6 k
+chuộng	 c uə6 ŋ
+chuột	 c uə6 t
+chy	 c i1
+chà	 c a2
+chài	 c a2 j
+chàm	 c a2 m
+chàng	 c a2 ŋ
+chào	 c a2 w
+chày	 c ă2 j
+chác	 c a5 k
+chán	 c a5 n
+chánh	 c ɛ5 ɲ
+cháo	 c a5 w
+chát	 c a5 t
+cháu	 c ă5 w
+cháy	 c ă5 j
+châm	 c ɤ̆1 m
+chân	 c ɤ̆1 n
+châu	 c ɤ̆1 w
+chãi	 c a3 j
+chè	 c ɛ2
+chèn	 c ɛ2 n
+chèo	 c eo2
+chém	 c ɛ5 m
+chén	 c ɛ5 n
+chéo	 c eo5
+chép	 c ɛ5 p
+chét	 c ɛ5 t
+chê	 c e1
+chên	 c e1 n
+chì	 c i2
+chìa	 c iə2
+chìm	 c i2 m
+chí	 c i5
+chích	 c i5 tʃ
+chín	 c i5 n
+chính	 c i5 ɲ
+chíp	 c i5 p
+chít	 c i5 t
+chòi	 c ɔ2 j
+chòm	 c ɔ2 m
+chòng	 c ɔ2 ŋ͡m
+chó	 c ɔ5
+chóc	 c ɔ5 k͡p
+chói	 c ɔ5 j
+chóng	 c ɔ5 ŋ͡m
+chóp	 c ɔ5 p
+chót	 c ɔ5 t
+chô	 c o1
+chôn	 c o1 n
+chông	 c o1 ŋ͡m
+chõ	 c ɔ3
+chõa	 cw ʷa3
+chõng	 c ɔ3 ŋ͡m
+chùi	 c u2 j
+chùm	 c u2 m
+chùn	 c u2 n
+chú	 c u5
+chúa	 c uə5
+chúc	 c u5 k͡p
+chúng	 c u5 ŋ͡m
+chút	 c u5 t
+chăm	 c ă1 m
+chăn	 c ă1 n
+chăng	 c ă1 ŋ
+chĩa	 c iə3
+chũi	 c u3 j
+chơi	 c ɤ1 j
+chư	 c ɯ1
+chưa	 c ɯə1
+chưng	 c ɯ1 ŋ
+chương	 c ɯə1 ŋ
+chước	 c ɯə5 k
+chướng	 c ɯə5 ŋ
+chường	 c ɯə2 ŋ
+chưởi	 c ɯə4 j
+chạm	 c a6 m
+chạng	 c a6 ŋ
+chạnh	 c ɛ6 ɲ
+chạp	 c a6 p
+chạy	 c ă6 j
+chải	 c a4 j
+chảo	 c a4 w
+chảy	 c ă4 j
+chấm	 c ɤ̆5 m
+chấn	 c ɤ̆5 n
+chấp	 c ɤ̆5 p
+chất	 c ɤ̆5 t
+chấu	 c ɤ̆5 w
+chầm	 c ɤ̆2 m
+chần	 c ɤ̆2 n
+chầu	 c ɤ̆2 w
+chậm	 c ɤ̆6 m
+chận	 c ɤ̆6 n
+chập	 c ɤ̆6 p
+chật	 c ɤ̆6 t
+chậu	 c ɤ̆6 w
+chắc	 c ă5 k
+chắn	 c ă5 n
+chắp	 c ă5 p
+chắt	 c ă5 t
+chằm	 c ă2 m
+chằng	 c ă2 ŋ
+chẳng	 c ă4 ŋ
+chặn	 c ă6 n
+chặng	 c ă6 ŋ
+chặp	 c ă6 p
+chặt	 c ă6 t
+chẻ	 c ɛ4
+chẽ	 c ɛ3
+chế	 c e5
+chếc	 c e5 k
+chết	 c e5 t
+chề	 c e2
+chểnh	 c e4 ɲ
+chễm	 c e3 m
+chệ	 c e6
+chệch	 c e6 tʃ
+chỉ	 c i4
+chỉnh	 c i4 ɲ
+chị	 c i6
+chịt	 c i6 t
+chịu	 c i6 w
+chọc	 c ɔ6 k͡p
+chọn	 c ɔ6 n
+chốc	 c o5 k͡p
+chối	 c o5 j
+chốn	 c o5 n
+chống	 c o5 ŋ͡m
+chốt	 c o5 t
+chồi	 c o2 j
+chồm	 c o2 m
+chồn	 c o2 n
+chồng	 c o2 ŋ͡m
+chổi	 c o4 j
+chỗ	 c o3
+chỗi	 c o3 j
+chột	 c o6 t
+chớ	 c ɤ5
+chớp	 c ɤ5 p
+chờ	 c ɤ2
+chờn	 c ɤ2 n
+chở	 c ɤ4
+chởm	 c ɤ4 m
+chợ	 c ɤ6
+chợp	 c ɤ6 p
+chợt	 c ɤ6 t
+chục	 c u6 k͡p
+chụm	 c u6 m
+chụp	 c u6 p
+chủ	 c u4
+chủng	 c u4 ŋ͡m
+chứ	 c ɯ5
+chứa	 c ɯə5
+chức	 c ɯ5 k
+chứng	 c ɯ5 ŋ
+chừ	 c ɯ2
+chừa	 c ɯə2
+chừng	 c ɯ2 ŋ
+chửa	 c ɯə4
+chửi	 c ɯ4 j
+chửng	 c ɯ4 ŋ
+chữ	 c ɯ3
+chữa	 c ɯə3
+chực	 c ɯ6 k
+co	 k ɔ1
+coi	 k ɔ1 j
+com	 k ɔ1 m
+con	 k ɔ1 n
+cong	 k ɔ1 ŋ͡m
+cu	 k u1
+cua	 k uə1
+cui	 k u1 j
+cum	 k u1 m
+cun	 k u1 n
+cung	 k u1 ŋ͡m
+cuốc	 k uə5 k
+cuối	 k uə5 j
+cuốn	 k uə5 n
+cuống	 k uə5 ŋ
+cuồn	 k uə2 n
+cuồng	 k uə2 ŋ
+cuộc	 k uə6 k
+cuội	 k uə6 j
+cuộn	 k uə6 n
+cà	 k a2
+cài	 k a2 j
+càn	 k a2 n
+càng	 k a2 ŋ
+cành	 k ɛ2 ɲ
+cào	 k a2 w
+càu	 k ă2 w
+cày	 k ă2 j
+cá	 k a5
+các	 k a5 k
+cách	 k a5 tʃ
+cái	 k a5 j
+cám	 k a5 m
+cán	 k a5 n
+cáng	 k a5 ŋ
+cánh	 k ɛ5 ɲ
+cáo	 k a5 w
+cáp	 k a5 p
+cát	 k a5 t
+cáu	 k ă5 w
+câm	 k ɤ̆1 m
+cân	 k ɤ̆1 n
+câu	 k ɤ̆1 w
+cây	 k ɤ̆1 j
+cãi	 k a3 j
+cò	 k ɔ2
+còi	 k ɔ2 j
+còm	 k ɔ2 m
+còn	 k ɔ2 n
+còng	 k ɔ2 ŋ͡m
+có	 k ɔ5
+cóc	 k ɔ5 k͡p
+cói	 k ɔ5 j
+cô	 k o1
+côi	 k o1 j
+côm	 k o1 m
+côn	 k o1 n
+công	 k o1 ŋ͡m
+cõi	 k ɔ3 j
+cõng	 k ɔ3 ŋ͡m
+cù	 k u2
+cùi	 k u2 j
+cùm	 k u2 m
+cùn	 k u2 n
+cùng	 k u2 ŋ͡m
+cú	 k u5
+cúc	 k u5 k͡p
+cúi	 k u5 j
+cúng	 k u5 ŋ͡m
+cúp	 k u5 p
+cút	 k u5 t
+căm	 k ă1 m
+căn	 k ă1 n
+căng	 k ă1 ŋ
+cũ	 k u3
+cũi	 k u3 j
+cũng	 k u3 ŋ͡m
+cơ	 k ɤ1
+cơm	 k ɤ1 m
+cơn	 k ɤ1 n
+cư	 k ɯ1
+cưa	 k ɯə1
+cưng	 k ɯ1 ŋ
+cưu	 k ɯ1 w
+cương	 k ɯə1 ŋ
+cưới	 k ɯə5 j
+cướp	 k ɯə5 p
+cười	 k ɯə2 j
+cường	 k ɯə2 ŋ
+cưỡi	 k ɯə3 j
+cưỡng	 k ɯə3 ŋ
+cạm	 k a6 m
+cạn	 k a6 n
+cạnh	 k ɛ6 ɲ
+cạo	 k a6 w
+cạp	 k a6 p
+cạt	 k a6 t
+cạy	 k ă6 j
+cả	 k a4
+cải	 k a4 j
+cảm	 k a4 m
+cản	 k a4 n
+cảng	 k a4 ŋ
+cảnh	 k ɛ4 ɲ
+cấm	 k ɤ̆5 m
+cấn	 k ɤ̆5 n
+cấp	 k ɤ̆5 p
+cất	 k ɤ̆5 t
+cấu	 k ɤ̆5 w
+cấy	 k ɤ̆5 j
+cầm	 k ɤ̆2 m
+cần	 k ɤ̆2 n
+cầu	 k ɤ̆2 w
+cẩm	 k ɤ̆4 m
+cẩn	 k ɤ̆4 n
+cẩu	 k ɤ̆4 w
+cận	 k ɤ̆6 n
+cập	 k ɤ̆6 p
+cật	 k ɤ̆6 t
+cậu	 k ɤ̆6 w
+cậy	 k ɤ̆6 j
+cắc	 k ă5 k
+cắm	 k ă5 m
+cắn	 k ă5 n
+cắp	 k ă5 p
+cắt	 k ă5 t
+cằm	 k ă2 m
+cằn	 k ă2 n
+cặm	 k ă6 m
+cặn	 k ă6 n
+cặp	 k ă6 p
+cọ	 k ɔ6
+cọc	 k ɔ6 k͡p
+cọng	 k ɔ6 ŋ͡m
+cọp	 k ɔ6 p
+cọt	 k ɔ6 t
+cỏ	 k ɔ4
+cỏi	 k ɔ4 j
+cố	 k o5
+cốc	 k o5 k͡p
+cối	 k o5 j
+cống	 k o5 ŋ͡m
+cốp	 k o5 p
+cốt	 k o5 t
+cồn	 k o2 n
+cồng	 k o2 ŋ͡m
+cổ	 k o4
+cổng	 k o4 ŋ͡m
+cỗ	 k o3
+cỗi	 k o3 j
+cộ	 k o6
+cộc	 k o6 k͡p
+cội	 k o6 j
+cộm	 k o6 m
+cộng	 k o6 ŋ͡m
+cột	 k o6 t
+cớ	 k ɤ5
+cờ	 k ɤ2
+cởi	 k ɤ4 j
+cỡ	 k ɤ3
+cỡi	 k ɤ3 j
+cỡn	 k ɤ3 n
+cợt	 k ɤ6 t
+cụ	 k u6
+cục	 k u6 k͡p
+cụi	 k u6 j
+cụm	 k u6 m
+cụt	 k u6 t
+củ	 k u4
+của	 k uə4
+củi	 k u4 j
+củng	 k u4 ŋ͡m
+cứ	 k ɯ5
+cứng	 k ɯ5 ŋ
+cứu	 k ɯ5 w
+cừu	 k ɯ2 w
+cử	 k ɯ4
+cửa	 k ɯə4
+cửi	 k ɯ4 j
+cửu	 k ɯ4 w
+cữ	 k ɯ3
+cữu	 k ɯ3 w
+cự	 k ɯ6
+cựa	 k ɯə6
+cực	 k ɯ6 k
+cựu	 k ɯ6 w
+da	 z a1
+dai	 z a1 j
+dan	 z a1 n
+dang	 z a1 ŋ
+danh	 z ɛ1 ɲ
+dao	 z a1 w
+di	 z i1
+dim	 z i1 m
+dinh	 z i1 ɲ
+diêm	 z iə1 m
+diếm	 z iə5 m
+diều	 z iə2 w
+diễm	 z iə3 m
+diễn	 z iə3 n
+diễu	 z iə3 w
+diệc	 z iə6 k
+diện	 z iə6 n
+diệt	 z iə6 t
+diệu	 z iə6 w
+do	 z ɔ1
+doanh	 zw ʷa1 ɲ
+dong	 z ɔ1 ŋ͡m
+du	 z u1
+dua	 z uə1
+dum	 z u1 m
+dung	 z u1 ŋ͡m
+duy	 zw ʷi1
+duyên	 zw ʷiə1 n
+duyệt	 zw ʷiə6 t
+duệ	 zw ʷe6
+duỗi	 z uə3 j
+dài	 z a2 j
+dàn	 z a2 n
+dàng	 z a2 ŋ
+dành	 z ɛ2 ɲ
+dào	 z a2 w
+dày	 z ă2 j
+dám	 z a5 m
+dán	 z a5 n
+dáng	 z a5 ŋ
+dát	 z a5 t
+dáy	 z ă5 j
+dâm	 z ɤ̆1 m
+dân	 z ɤ̆1 n
+dâng	 z ɤ̆1 ŋ
+dâu	 z ɤ̆1 w
+dây	 z ɤ̆1 j
+dã	 z a3
+dãi	 z a3 j
+dãy	 z ă3 j
+dè	 z ɛ2
+dép	 z ɛ5 p
+dê	 z e1
+dì	 z i2
+dìm	 z i2 m
+dìu	 z i2 w
+dích	 z i5 tʃ
+dính	 z i5 ɲ
+díp	 z i5 p
+dít	 z i5 t
+díu	 z i5 w
+dò	 z ɔ2
+dòi	 z ɔ2 j
+dòm	 z ɔ2 m
+dòn	 z ɔ2 n
+dòng	 z ɔ2 ŋ͡m
+dông	 z o1 ŋ͡m
+dõi	 z ɔ3 j
+dõng	 z ɔ3 ŋ͡m
+dù	 z u2
+dùi	 z u2 j
+dùm	 z u2 m
+dùng	 z u2 ŋ͡m
+dĩ	 z i3
+dĩa	 z iə3
+dũng	 z u3 ŋ͡m
+dơ	 z ɤ1
+dơi	 z ɤ1 j
+dư	 z ɯ1
+dưa	 z ɯə1
+dưng	 z ɯ1 ŋ
+dương	 z ɯə1 ŋ
+dưới	 z ɯə5 j
+dường	 z ɯə2 ŋ
+dưỡng	 z ɯə3 ŋ
+dược	 z ɯə6 k
+dạ	 z a6
+dạc	 z a6 k
+dại	 z a6 j
+dạn	 z a6 n
+dạng	 z a6 ŋ
+dạo	 z a6 w
+dạt	 z a6 t
+dạy	 z ă6 j
+dả	 z a4
+dải	 z a4 j
+dấm	 z ɤ̆5 m
+dấn	 z ɤ̆5 n
+dấp	 z ɤ̆5 p
+dấu	 z ɤ̆5 w
+dấy	 z ɤ̆5 j
+dầm	 z ɤ̆2 m
+dần	 z ɤ̆2 n
+dầu	 z ɤ̆2 w
+dẫm	 z ɤ̆3 m
+dẫn	 z ɤ̆3 n
+dẫu	 z ɤ̆3 w
+dẫy	 z ɤ̆3 j
+dậm	 z ɤ̆6 m
+dập	 z ɤ̆6 p
+dật	 z ɤ̆6 t
+dậu	 z ɤ̆6 w
+dậy	 z ɤ̆6 j
+dắt	 z ă5 t
+dằm	 z ă2 m
+dằn	 z ă2 n
+dẳng	 z ă4 ŋ
+dặm	 z ă6 m
+dặn	 z ă6 n
+dặt	 z ă6 t
+dẹp	 z ɛ6 p
+dẻ	 z ɛ4
+dẻo	 z eo4
+dế	 z e5
+dề	 z e2
+dể	 z e4
+dễ	 z e3
+dệt	 z e6 t
+dị	 z i6
+dịch	 z i6 tʃ
+dịp	 z i6 p
+dịu	 z i6 w
+dọ	 z ɔ6
+dọa	 zw ʷa6
+dọc	 z ɔ6 k͡p
+dọi	 z ɔ6 j
+dọn	 z ɔ6 n
+dốc	 z o5 k͡p
+dối	 z o5 j
+dốt	 z o5 t
+dồi	 z o2 j
+dồn	 z o2 n
+dỗ	 z o3
+dỗi	 z o3 j
+dội	 z o6 j
+dộp	 z o6 p
+dột	 z o6 t
+dớt	 z ɤ5 t
+dời	 z ɤ2 j
+dở	 z ɤ4
+dỡ	 z ɤ3
+dụ	 z u6
+dục	 z u6 k͡p
+dụm	 z u6 m
+dụng	 z u6 ŋ͡m
+dứt	 z ɯ5 t
+dừa	 z ɯə2
+dừng	 z ɯ2 ŋ
+dửng	 z ɯ4 ŋ
+dữ	 z ɯ3
+dự	 z ɯ6
+dựa	 z ɯə6
+dựng	 z ɯ6 ŋ
+em	 ɛ1 m
+en	 ɛ1 n
+ga	 ɣ a1
+gai	 ɣ a1 j
+gam	 ɣ a1 m
+gan	 ɣ a1 n
+gang	 ɣ a1 ŋ
+ganh	 ɣ ɛ1 ɲ
+gao	 ɣ a1 w
+gay	 ɣ ă1 j
+ghem	 ɣ ɛ1 m
+ghen	 ɣ ɛ1 n
+ghi	 ɣ i1
+ghim	 ɣ i1 m
+ghinh	 ɣ i1 ɲ
+ghiếc	 ɣ iə5 k
+ghiết	 ɣ iə5 t
+ghiệt	 ɣ iə6 t
+ghé	 ɣ ɛ5
+ghép	 ɣ ɛ5 p
+ghét	 ɣ ɛ5 t
+ghê	 ɣ e1
+ghên	 ɣ e1 n
+ghì	 ɣ i2
+ghít	 ɣ i5 t
+ghẹt	 ɣ ɛ6 t
+ghẻ	 ɣ ɛ4
+ghế	 ɣ e5
+ghết	 ɣ e5 t
+ghề	 ɣ e2
+ghềnh	 ɣ e2 ɲ
+ghồ	 ɣ o2
+gi	 z i1
+gia	 j a1
+giai	 j a1 j
+giam	 j a1 m
+gian	 j a1 n
+giang	 j a1 ŋ
+giao	 j a1 w
+gie	 j ɛ1
+gieo	 j eo1
+gim	 z i1 m
+giong	 j ɔ1 ŋ͡m
+giu	 j u1
+giun	 j u1 n
+già	 j a2
+giàn	 j a2 n
+giành	 j ɛ2 ɲ
+giàu	 j ă2 w
+giày	 j ă2 j
+giá	 j a5
+giác	 j a5 k
+giám	 j a5 m
+gián	 j a5 n
+giáng	 j a5 ŋ
+giáo	 j a5 w
+giáp	 j a5 p
+giát	 j a5 t
+giây	 j ɤ̆1 j
+giã	 j a3
+giãi	 j a3 j
+gièm	 j ɛ2 m
+gié	 j ɛ5
+giép	 j ɛ5 p
+giê	 j e1
+giêm	 j e1 m
+giêng	 j e1 ŋ
+giò	 j ɔ2
+giòi	 j ɔ2 j
+giòn	 j ɔ2 n
+gió	 j ɔ5
+gióng	 j ɔ5 ŋ͡m
+gióp	 j ɔ5 p
+giô	 j o1
+giôn	 j o1 n
+giông	 j o1 ŋ͡m
+giùm	 j u2 m
+giúc	 j u5 k͡p
+giúp	 j u5 p
+giút	 j u5 t
+giăng	 j ă1 ŋ
+giũ	 j u3
+giũa	 j uə3
+giơ	 j ɤ1
+giương	 j ɯə1 ŋ
+giường	 j ɯə2 ŋ
+giạ	 j a6
+giạt	 j a6 t
+giả	 j a4
+giải	 j a4 j
+giảm	 j a4 m
+giản	 j a4 n
+giảng	 j a4 ŋ
+giấc	 j ɤ̆5 k
+giấm	 j ɤ̆5 m
+giấu	 j ɤ̆5 w
+giấy	 j ɤ̆5 j
+giẫm	 j ɤ̆3 m
+giẫy	 j ɤ̆3 j
+giậm	 j ɤ̆6 m
+giận	 j ɤ̆6 n
+giập	 j ɤ̆6 p
+giật	 j ɤ̆6 t
+giậu	 j ɤ̆6 w
+giắc	 j ă5 k
+giằng	 j ă2 ŋ
+giặc	 j ă6 k
+giặt	 j ă6 t
+giẹo	 j eo6
+giẻ	 j ɛ4
+giếm	 j e5 m
+giếng	 j e5 ŋ
+giết	 j e5 t
+giềng	 j e2 ŋ
+giễu	 j ɛu3
+giệt	 j e6 t
+giọi	 j ɔ6 j
+giọng	 j ɔ6 ŋ͡m
+giọt	 j ɔ6 t
+giỏ	 j ɔ4
+giỏi	 j ɔ4 j
+giốc	 j o5 k͡p
+giống	 j o5 ŋ͡m
+giốp	 j o5 p
+giốt	 j o5 t
+giới	 j ɤ5 j
+giờ	 j ɤ2
+giở	 j ɤ4
+giỡn	 j ɤ3 n
+giục	 j u6 k͡p
+giữ	 j ɯ3
+giữa	 j ɯə3
+giựt	 j ɯ6 t
+go	 ɣ ɔ1
+gom	 ɣ ɔ1 m
+goá	 ɣw ʷa5
+gu	 ɣ u1
+gua	 ɣ uə1
+guồng	 ɣ uə2 ŋ
+guộc	 ɣ uə6 k
+gà	 ɣ a2
+gài	 ɣ a2 j
+gàng	 ɣ a2 ŋ
+gành	 ɣ ɛ2 ɲ
+gào	 ɣ a2 w
+gàu	 ɣ ă2 w
+gác	 ɣ a5 k
+gái	 ɣ a5 j
+gán	 ɣ a5 n
+gánh	 ɣ ɛ5 ɲ
+gáp	 ɣ a5 p
+gát	 ɣ a5 t
+gáy	 ɣ ă5 j
+gân	 ɣ ɤ̆1 n
+gây	 ɣ ɤ̆1 j
+gã	 ɣ a3
+gãi	 ɣ a3 j
+gãy	 ɣ ă3 j
+gì	 ɣ i2
+gìn	 z i2 n
+gíp	 z i5 p
+gít	 z i5 t
+gò	 ɣ ɔ2
+góa	 ɣw ʷa5
+góc	 ɣ ɔ5 k͡p
+gói	 ɣ ɔ5 j
+góp	 ɣ ɔ5 p
+gót	 ɣ ɔ5 t
+gô	 ɣ o1
+gôn	 ɣ o1 n
+gông	 ɣ o1 ŋ͡m
+gõ	 ɣ ɔ3
+gù	 ɣ u2
+gúp	 ɣ u5 p
+gút	 ɣ u5 t
+găm	 ɣ ă1 m
+gũi	 ɣ u3 j
+gơ	 ɣ ɤ1
+gươm	 ɣ ɯə1 m
+gương	 ɣ ɯə1 ŋ
+gượng	 ɣ ɯə6 ŋ
+gạ	 ɣ a6
+gạc	 ɣ a6 k
+gạch	 ɣ a6 tʃ
+gạn	 ɣ a6 n
+gạo	 ɣ a6 w
+gạt	 ɣ a6 t
+gả	 ɣ a4
+gảy	 ɣ ă4 j
+gấm	 ɣ ɤ̆5 m
+gấp	 ɣ ɤ̆5 p
+gấu	 ɣ ɤ̆5 w
+gầm	 ɣ ɤ̆2 m
+gần	 ɣ ɤ̆2 n
+gầu	 ɣ ɤ̆2 w
+gầy	 ɣ ɤ̆2 j
+gẩy	 ɣ ɤ̆4 j
+gẫm	 ɣ ɤ̆3 m
+gẫy	 ɣ ɤ̆3 j
+gập	 ɣ ɤ̆6 p
+gật	 ɣ ɤ̆6 t
+gậy	 ɣ ɤ̆6 j
+gắm	 ɣ ă5 m
+gắn	 ɣ ă5 n
+gắng	 ɣ ă5 ŋ
+gắp	 ɣ ă5 p
+gắt	 ɣ ă5 t
+gằm	 ɣ ă2 m
+gặm	 ɣ ă6 m
+gặp	 ɣ ă6 p
+gặt	 ɣ ă6 t
+gỉ	 ɣ i4
+gọi	 ɣ ɔ6 j
+gọn	 ɣ ɔ6 n
+gọt	 ɣ ɔ6 t
+gốc	 ɣ o5 k͡p
+gối	 ɣ o5 j
+gốm	 ɣ o5 m
+gốp	 ɣ o5 p
+gồ	 ɣ o2
+gồm	 ɣ o2 m
+gổ	 ɣ o4
+gỗ	 ɣ o3
+gộc	 ɣ o6 k͡p
+gội	 ɣ o6 j
+gộp	 ɣ o6 p
+gớm	 ɣ ɤ5 m
+gờ	 ɣ ɤ2
+gở	 ɣ ɤ4
+gỡ	 ɣ ɤ3
+gợi	 ɣ ɤ6 j
+gợn	 ɣ ɤ6 n
+gục	 ɣ u6 k͡p
+gừ	 ɣ ɯ2
+gửi	 ɣ ɯ4 j
+ha	 h a1
+hai	 h a1 j
+ham	 h a1 m
+han	 h a1 n
+hang	 h a1 ŋ
+hanh	 h ɛ1 ɲ
+hao	 h a1 w
+hau	 h ă1 w
+hay	 h ă1 j
+he	 h ɛ1
+hem	 h ɛ1 m
+heo	 h eo1
+hi	 h i1
+hia	 h iə1
+him	 h i1 m
+hin	 h i1 n
+hinh	 h i1 ɲ
+hiu	 h i1 w
+hiên	 h iə1 n
+hiếm	 h iə5 m
+hiến	 h iə5 n
+hiếp	 h iə5 p
+hiếu	 h iə5 w
+hiềm	 h iə2 m
+hiền	 h iə2 n
+hiểm	 h iə4 m
+hiển	 h iə4 n
+hiểu	 h iə4 w
+hiện	 h iə6 n
+hiệp	 h iə6 p
+hiệu	 h iə6 w
+ho	 h ɔ1
+hoa	 hw ʷa1
+hoan	 hw ʷa1 n
+hoang	 hw ʷa1 ŋ
+hoen	 hw ʷɛ1 n
+hoi	 h ɔ1 j
+hon	 h ɔ1 n
+hoà	 hw ʷa2
+hoài	 hw a2 j
+hoàn	 hw ʷa2 n
+hoàng	 hw ʷa2 ŋ
+hoành	 hw ʷa2 ɲ
+hoá	 hw ʷa5
+hoác	 hw ʷa5 k
+hoán	 hw ʷa5 n
+hoãn	 hw ʷa3 n
+hoạ	 hw ʷa6
+hoạch	 hw ʷa6 tʃ
+hoại	 hw a6 j
+hoạn	 hw ʷa6 n
+hoạt	 hw ʷa6 t
+hoảng	 hw ʷa4 ŋ
+hoắc	 hw ʷă5 k
+hoằn	 hw ʷă2 n
+hoặc	 hw ʷă6 k
+hu	 h u1
+hum	 h u1 m
+hun	 h u1 n
+hung	 h u1 ŋ͡m
+huy	 hw ʷi1
+huynh	 hw ʷi1 ɲ
+huyên	 hw ʷiə1 n
+huyết	 hw ʷiə5 t
+huyền	 hw ʷiə2 n
+huyễn	 hw ʷiə3 n
+huyệt	 hw ʷiə6 t
+huênh	 hw ʷe1 ɲ
+huýt	 hw ʷi5 t
+huấn	 hw ʷɤ̆5 n
+huệ	 hw ʷe6
+huống	 h uə5 ŋ
+huỳnh	 hw ʷi2 ɲ
+huỷ	 hw ʷi4
+hy	 h i1
+hà	 h a2
+hài	 h a2 j
+hàm	 h a2 m
+hàn	 h a2 n
+hàng	 h a2 ŋ
+hành	 h ɛ2 ɲ
+hào	 h a2 w
+há	 h a5
+hác	 h a5 k
+hách	 h a5 tʃ
+hái	 h a5 j
+hám	 h a5 m
+hán	 h a5 n
+háo	 h a5 w
+háp	 h a5 p
+hát	 h a5 t
+hâm	 h ɤ̆1 m
+hân	 h ɤ̆1 n
+hâu	 h ɤ̆1 w
+hãi	 h a3 j
+hãm	 h a3 m
+hãn	 h a3 n
+hãnh	 h ɛ3 ɲ
+hão	 h a3 w
+hãy	 h ă3 j
+hè	 h ɛ2
+hèn	 h ɛ2 n
+hé	 h ɛ5
+héc	 h ɛ5 k
+héo	 h eo5
+hép	 h ɛ5 p
+hét	 h ɛ5 t
+hê	 h e1
+hên	 h e1 n
+hình	 h i2 ɲ
+hí	 h i5
+hít	 h i5 t
+hò	 h ɔ2
+hòa	 hw ʷa2
+hòi	 h ɔ2 j
+hòm	 h ɔ2 m
+hòn	 h ɔ2 n
+hòng	 h ɔ2 ŋ͡m
+hóa	 hw ʷa5
+hóc	 h ɔ5 k͡p
+hói	 h ɔ5 j
+hóp	 h ɔ5 p
+hót	 h ɔ5 t
+hô	 h o1
+hôi	 h o1 j
+hôm	 h o1 m
+hôn	 h o1 n
+hông	 h o1 ŋ͡m
+hù	 h u2
+hùa	 h uə2
+hùm	 h u2 m
+hùng	 h u2 ŋ͡m
+hú	 h u5
+húc	 h u5 k͡p
+húp	 h u5 p
+hút	 h u5 t
+hăm	 h ă1 m
+hăng	 h ă1 ŋ
+hĩnh	 h i3 ɲ
+hũ	 h u3
+hơi	 h ɤ1 j
+hơn	 h ɤ1 n
+hư	 h ɯ1
+hưng	 h ɯ1 ŋ
+hưu	 h ɯ1 w
+hương	 h ɯə1 ŋ
+hươu	 h ɯə1 w
+hướng	 h ɯə5 ŋ
+hưởng	 h ɯə4 ŋ
+hạ	 h a6
+hạc	 h a6 k
+hạch	 h a6 tʃ
+hại	 h a6 j
+hạn	 h a6 n
+hạng	 h a6 ŋ
+hạnh	 h ɛ6 ɲ
+hạt	 h a6 t
+hả	 h a4
+hải	 h a4 j
+hảo	 h a4 w
+hấn	 h ɤ̆5 n
+hấp	 h ɤ̆5 p
+hất	 h ɤ̆5 t
+hấu	 h ɤ̆5 w
+hầm	 h ɤ̆2 m
+hầu	 h ɤ̆2 w
+hẩm	 h ɤ̆4 m
+hận	 h ɤ̆6 n
+hậu	 h ɤ̆6 w
+hắc	 h ă5 k
+hắn	 h ă5 n
+hắt	 h ă5 t
+hằm	 h ă2 m
+hằn	 h ă2 n
+hằng	 h ă2 ŋ
+hẳn	 h ă4 n
+hẵn	 h ă3 n
+hẹn	 h ɛ6 n
+hẹp	 h ɛ6 p
+hẹt	 h ɛ6 t
+hẻm	 h ɛ4 m
+hẻo	 h eo4
+hếch	 h e5 tʃ
+hếp	 h e5 p
+hết	 h e5 t
+hếu	 h ɛu5
+hề	 h e2
+hển	 h e4 n
+hễ	 h e3
+hệ	 h e6
+hệt	 h e6 t
+hỉ	 h i4
+họ	 h ɔ6
+họa	 hw ʷa6
+học	 h ɔ6 k͡p
+họng	 h ɔ6 ŋ͡m
+họp	 h ɔ6 p
+họt	 h ɔ6 t
+hỏa	 hw ʷa4
+hỏi	 h ɔ4 j
+hỏng	 h ɔ4 ŋ͡m
+hố	 h o5
+hốc	 h o5 k͡p
+hối	 h o5 j
+hống	 h o5 ŋ͡m
+hốp	 h o5 p
+hốt	 h o5 t
+hồ	 h o2
+hồi	 h o2 j
+hồn	 h o2 n
+hồng	 h o2 ŋ͡m
+hổ	 h o4
+hổi	 h o4 j
+hổn	 h o4 n
+hổng	 h o4 ŋ͡m
+hỗ	 h o3
+hỗn	 h o3 n
+hộ	 h o6
+hộc	 h o6 k͡p
+hội	 h o6 j
+hộp	 h o6 p
+hột	 h o6 t
+hớn	 h ɤ5 n
+hớt	 h ɤ5 t
+hời	 h ɤ2 j
+hờn	 h ɤ2 n
+hở	 h ɤ4
+hỡi	 h ɤ3 j
+hợm	 h ɤ6 m
+hợp	 h ɤ6 p
+hợt	 h ɤ6 t
+hục	 h u6 k͡p
+hụp	 h u6 p
+hụt	 h u6 t
+hủi	 h u4 j
+hủy	 h u4 j
+hứa	 h ɯə5
+hứng	 h ɯ5 ŋ
+hừng	 h ɯ2 ŋ
+hửng	 h ɯ4 ŋ
+hữu	 h ɯ3 w
+hực	 h ɯ6 k
+im	 i1 m
+in	 i1 n
+inh	 i1 ɲ
+ka	 k a1
+ke	 k ɛ1
+kem	 k ɛ1 m
+ken	 k ɛ1 n
+keo	 k eo1
+kha	 x a1
+khai	 x a1 j
+kham	 x a1 m
+khan	 x a1 n
+khang	 x a1 ŋ
+khanh	 x ɛ1 ɲ
+khao	 x a1 w
+khay	 x ă1 j
+khe	 x ɛ1
+khen	 x ɛ1 n
+khi	 x i1
+khin	 x i1 n
+khinh	 x i1 ɲ
+khiêm	 x iə1 m
+khiên	 x iə1 n
+khiêng	 x iə1 ŋ
+khiêu	 x iə1 w
+khiếm	 x iə5 m
+khiến	 x iə5 n
+khiếp	 x iə5 p
+khiết	 x iə5 t
+khiếu	 x iə5 w
+khiển	 x iə4 n
+khiễng	 x iə3 ŋ
+kho	 x ɔ1
+khoa	 xw ʷa1
+khoan	 xw ʷa1 n
+khoang	 xw ʷa1 ŋ
+khoanh	 xw ʷa1 ɲ
+khoe	 xw ʷɛ1
+khoen	 xw ʷɛ1 n
+khom	 x ɔ1 m
+khoá	 xw ʷa5
+khoác	 xw ʷa5 k
+khoái	 xw a5 j
+khoát	 xw ʷa5 t
+khoét	 xw ʷɛ5 t
+khoăn	 xw ʷă1 n
+khoải	 xw a4 j
+khoản	 xw ʷa4 n
+khoảng	 xw ʷa4 ŋ
+khoảnh	 xw ʷa4 ɲ
+khoắt	 xw ʷă5 t
+khu	 x u1
+khua	 x uə1
+khui	 x u1 j
+khung	 x u1 ŋ͡m
+khuya	 xw ʷiə1
+khuynh	 xw ʷi1 ɲ
+khuyên	 xw ʷiə1 n
+khuyến	 xw ʷiə5 n
+khuyết	 xw ʷiə5 t
+khuân	 xw ʷɤ̆1 n
+khuây	 xw ɤ̆1 j
+khuôn	 x uə1 n
+khuất	 xw ʷɤ̆5 t
+khuấy	 xw ɤ̆5 j
+khuỷu	 xw ʷiu4
+khá	 x a5
+khác	 x a5 k
+khách	 x a5 tʃ
+khám	 x a5 m
+kháng	 x a5 ŋ
+khánh	 x ɛ5 ɲ
+khát	 x a5 t
+kháu	 x ă5 w
+khâm	 x ɤ̆1 m
+khâu	 x ɤ̆1 w
+khéo	 x eo5
+khép	 x ɛ5 p
+khét	 x ɛ5 t
+khê	 x e1
+khí	 x i5
+khía	 x iə5
+khích	 x i5 tʃ
+khít	 x i5 t
+khòm	 x ɔ2 m
+khó	 x ɔ5
+khóa	 xw ʷa5
+khóc	 x ɔ5 k͡p
+khóe	 xw ʷɛ5
+khói	 x ɔ5 j
+khóm	 x ɔ5 m
+khóp	 x ɔ5 p
+khô	 x o1
+khôi	 x o1 j
+khôn	 x o1 n
+không	 x o1 ŋ͡m
+khùng	 x u2 ŋ͡m
+khúc	 x u5 k͡p
+khúm	 x u5 m
+khăn	 x ă1 n
+khăng	 x ă1 ŋ
+khơi	 x ɤ1 j
+khước	 x ɯə5 k
+khướt	 x ɯə5 t
+khạc	 x a6 k
+khạo	 x a6 w
+khả	 x a4
+khải	 x a4 j
+khảm	 x a4 m
+khản	 x a4 n
+khảo	 x a4 w
+khảy	 x ă4 j
+khấn	 x ɤ̆5 n
+khấp	 x ɤ̆5 p
+khất	 x ɤ̆5 t
+khấu	 x ɤ̆5 w
+khẩn	 x ɤ̆4 n
+khẩu	 x ɤ̆4 w
+khập	 x ɤ̆6 p
+khắc	 x ă5 k
+khắng	 x ă5 ŋ
+khắp	 x ă5 p
+khắt	 x ă5 t
+khẳng	 x ă4 ŋ
+khẽ	 x ɛ3
+khế	 x e5
+khều	 x ɛu2
+khễnh	 x e3 ɲ
+khỉ	 x i4
+khỉnh	 x i4 ɲ
+khịt	 x i6 t
+khỏa	 xw ʷa4
+khỏe	 xw ʷɛ4
+khỏi	 x ɔ4 j
+khố	 x o5
+khốc	 x o5 k͡p
+khối	 x o5 j
+khốn	 x o5 n
+khống	 x o5 ŋ͡m
+khổ	 x o4
+khổng	 x o4 ŋ͡m
+khớp	 x ɤ5 p
+khờ	 x ɤ2
+khởi	 x ɤ4 j
+khủng	 x u4 ŋ͡m
+khứ	 x ɯ5
+khử	 x ɯ4
+ki	 k i1
+kia	 k iə1
+kim	 k i1 m
+kin	 k i1 n
+kinh	 k i1 ɲ
+kiêm	 k iə1 m
+kiên	 k iə1 n
+kiêng	 k iə1 ŋ
+kiêu	 k iə1 w
+kiếm	 k iə5 m
+kiến	 k iə5 n
+kiếp	 k iə5 p
+kiết	 k iə5 t
+kiếu	 k iə5 w
+kiềm	 k iə2 m
+kiềng	 k iə2 ŋ
+kiều	 k iə2 w
+kiểm	 k iə4 m
+kiểu	 k iə4 w
+kiện	 k iə6 n
+kiệt	 k iə6 t
+kiệu	 k iə6 w
+kác	 k a5 k
+kát	 k a5 t
+kè	 k ɛ2
+kèm	 k ɛ2 m
+kèn	 k ɛ2 n
+kèo	 k eo2
+ké	 k ɛ5
+kém	 k ɛ5 m
+kéo	 k eo5
+kép	 k ɛ5 p
+két	 k ɛ5 t
+kê	 k e1
+kên	 k e1 n
+kênh	 k e1 ɲ
+kêu	 k ɛu1
+kìa	 k iə2
+kìm	 k i2 m
+kí	 k i5
+kích	 k i5 tʃ
+kín	 k i5 n
+kính	 k i5 ɲ
+kíp	 k i5 p
+kít	 k i5 t
+kô	 k o1
+kút	 k u5 t
+ký	 k i5
+kẹp	 k ɛ6 p
+kẹt	 k ɛ6 t
+kẻ	 k ɛ4
+kẻo	 k eo4
+kẽ	 k ɛ3
+kế	 k e5
+kết	 k e5 t
+kề	 k e2
+kềm	 k e2 m
+kể	 k e4
+kệ	 k e6
+kịch	 k i6 tʃ
+kịp	 k i6 p
+kịt	 k i6 t
+kỳ	 k i2
+kỵ	 k i6
+kỷ	 k i4
+kỹ	 k i3
+la	 l a1
+lai	 l a1 j
+lam	 l a1 m
+lan	 l a1 n
+lang	 l a1 ŋ
+lanh	 l ɛ1 ɲ
+lao	 l a1 w
+lau	 l ă1 w
+lay	 l ă1 j
+le	 l ɛ1
+lem	 l ɛ1 m
+len	 l ɛ1 n
+leo	 l eo1
+li	 l i1
+lia	 l iə1
+lim	 l i1 m
+linh	 l i1 ɲ
+liu	 l i1 w
+liêm	 l iə1 m
+liên	 l iə1 n
+liêng	 l iə1 ŋ
+liêu	 l iə1 w
+liếc	 l iə5 k
+liếm	 l iə5 m
+liềm	 l iə2 m
+liền	 l iə2 n
+liều	 l iə2 w
+liễu	 l iə3 w
+liệm	 l iə6 m
+liệng	 l iə6 ŋ
+liệt	 l iə6 t
+liệu	 l iə6 w
+lo	 l ɔ1
+loa	 lw ʷa1
+loan	 lw ʷa1 n
+loi	 l ɔ1 j
+lom	 l ɔ1 m
+lon	 l ɔ1 n
+long	 l ɔ1 ŋ͡m
+loài	 lw a2 j
+loàn	 lw ʷa2 n
+loáng	 lw ʷa5 ŋ
+loát	 lw ʷa5 t
+loãng	 lw ʷa3 ŋ
+loét	 lw ʷɛ5 t
+loại	 lw a6 j
+loạn	 lw ʷa6 n
+loạng	 lw ʷa6 ŋ
+loạt	 lw ʷa6 t
+loẹt	 lw ʷɛ6 t
+lu	 l u1
+lui	 l u1 j
+lum	 l u1 m
+lun	 l u1 n
+lung	 l u1 ŋ͡m
+luyến	 lw ʷiə5 n
+luyện	 lw ʷiə6 n
+luân	 lw ʷɤ̆1 n
+luôn	 l uə1 n
+luẩn	 lw ʷɤ̆4 n
+luận	 lw ʷɤ̆6 n
+luật	 lw ʷɤ̆6 t
+luống	 l uə5 ŋ
+luồn	 l uə2 n
+luồng	 l uə2 ŋ
+luộc	 l uə6 k
+luỵ	 lw ʷi6
+luỹ	 lw ʷi3
+ly	 l i1
+là	 l a2
+làm	 l a2 m
+làn	 l a2 n
+làng	 l a2 ŋ
+lành	 l ɛ2 ɲ
+lá	 l a5
+lác	 l a5 k
+lách	 l a5 tʃ
+lái	 l a5 j
+láng	 l a5 ŋ
+lánh	 l ɛ5 ɲ
+láo	 l a5 w
+láp	 l a5 p
+lát	 l a5 t
+lâm	 l ɤ̆1 m
+lân	 l ɤ̆1 n
+lâng	 l ɤ̆1 ŋ
+lâu	 l ɤ̆1 w
+lây	 l ɤ̆1 j
+lã	 l a3
+lãi	 l a3 j
+lãm	 l a3 m
+lãng	 l a3 ŋ
+lãnh	 l ɛ3 ɲ
+lão	 l a3 w
+lè	 l ɛ2
+léc	 l ɛ5 k
+lén	 l ɛ5 n
+léo	 l eo5
+lép	 l ɛ5 p
+lét	 l ɛ5 t
+lê	 l e1
+lên	 l e1 n
+lênh	 l e1 ɲ
+lêu	 l ɛu1
+lì	 l i2
+lìa	 l iə2
+lìm	 l i2 m
+lình	 l i2 ɲ
+líc	 l i5 k
+lính	 l i5 ɲ
+líp	 l i5 p
+lít	 l i5 t
+líu	 l i5 w
+lò	 l ɔ2
+lòa	 lw ʷa2
+lòe	 lw ʷɛ2
+lòi	 l ɔ2 j
+lòng	 l ɔ2 ŋ͡m
+ló	 l ɔ5
+lóc	 l ɔ5 k͡p
+lóe	 lw ʷɛ5
+lói	 l ɔ5 j
+lóng	 l ɔ5 ŋ͡m
+lót	 l ɔ5 t
+lô	 l o1
+lôi	 l o1 j
+lôm	 l o1 m
+lôn	 l o1 n
+lông	 l o1 ŋ͡m
+lõa	 lw ʷa3
+lõm	 l ɔ3 m
+lõng	 l ɔ3 ŋ͡m
+lùa	 l uə2
+lùi	 l u2 j
+lùm	 l u2 m
+lùng	 l u2 ŋ͡m
+lúa	 l uə5
+lúc	 l u5 k͡p
+lún	 l u5 n
+lúng	 l u5 ŋ͡m
+lúp	 l u5 p
+lút	 l u5 t
+lúy	 l u5 j
+lý	 l i5
+lăm	 l ă1 m
+lăn	 l ă1 n
+lăng	 l ă1 ŋ
+lĩnh	 l i3 ɲ
+lũ	 l u3
+lũng	 l u3 ŋ͡m
+lũy	 l u3 j
+lơ	 l ɤ1
+lơi	 l ɤ1 j
+lơn	 l ɤ1 n
+lư	 l ɯ1
+lưng	 l ɯ1 ŋ
+lưu	 l ɯ1 w
+lương	 l ɯə1 ŋ
+lưới	 l ɯə5 j
+lướt	 l ɯə5 t
+lười	 l ɯə2 j
+lường	 l ɯə2 ŋ
+lưỡi	 l ɯə3 j
+lưỡng	 l ɯə3 ŋ
+lược	 l ɯə6 k
+lượm	 l ɯə6 m
+lượn	 l ɯə6 n
+lượng	 l ɯə6 ŋ
+lượt	 l ɯə6 t
+lạ	 l a6
+lạc	 l a6 k
+lại	 l a6 j
+lạm	 l a6 m
+lạng	 l a6 ŋ
+lạnh	 l ɛ6 ɲ
+lạp	 l a6 p
+lạt	 l a6 t
+lạy	 l ă6 j
+lả	 l a4
+lải	 l a4 j
+lảm	 l a4 m
+lảng	 l a4 ŋ
+lảo	 l a4 w
+lấm	 l ɤ̆5 m
+lấn	 l ɤ̆5 n
+lấp	 l ɤ̆5 p
+lấy	 l ɤ̆5 j
+lầm	 l ɤ̆2 m
+lần	 l ɤ̆2 n
+lầu	 l ɤ̆2 w
+lầy	 l ɤ̆2 j
+lẩm	 l ɤ̆4 m
+lẩn	 l ɤ̆4 n
+lẩy	 l ɤ̆4 j
+lẫm	 l ɤ̆3 m
+lẫn	 l ɤ̆3 n
+lẫy	 l ɤ̆3 j
+lận	 l ɤ̆6 n
+lập	 l ɤ̆6 p
+lật	 l ɤ̆6 t
+lậu	 l ɤ̆6 w
+lắc	 l ă5 k
+lắm	 l ă5 m
+lắng	 l ă5 ŋ
+lắp	 l ă5 p
+lằm	 l ă2 m
+lằn	 l ă2 n
+lẳng	 l ă4 ŋ
+lặn	 l ă6 n
+lặng	 l ă6 ŋ
+lặp	 l ă6 p
+lẹ	 l ɛ6
+lẻ	 l ɛ4
+lẻn	 l ɛ4 n
+lẻo	 l eo4
+lẽ	 l ɛ3
+lẽo	 l eo3
+lế	 l e5
+lết	 l e5 t
+lề	 l e2
+lều	 l ɛu2
+lể	 l e4
+lễ	 l e3
+lệ	 l e6
+lệch	 l e6 tʃ
+lệnh	 l e6 ɲ
+lỉm	 l i4 m
+lịch	 l i6 tʃ
+lịm	 l i6 m
+lọ	 l ɔ6
+lọc	 l ɔ6 k͡p
+lọi	 l ɔ6 j
+lọn	 l ɔ6 n
+lọng	 l ɔ6 ŋ͡m
+lọt	 l ɔ6 t
+lỏi	 l ɔ4 j
+lỏng	 l ɔ4 ŋ͡m
+lố	 l o5
+lốc	 l o5 k͡p
+lối	 l o5 j
+lốm	 l o5 m
+lốt	 l o5 t
+lồ	 l o2
+lồi	 l o2 j
+lồng	 l o2 ŋ͡m
+lỗ	 l o3
+lỗi	 l o3 j
+lộ	 l o6
+lộc	 l o6 k͡p
+lội	 l o6 j
+lộn	 l o6 n
+lộng	 l o6 ŋ͡m
+lột	 l o6 t
+lớn	 l ɤ5 n
+lớp	 l ɤ5 p
+lờ	 l ɤ2
+lời	 l ɤ2 j
+lờn	 l ɤ2 n
+lở	 l ɤ4
+lởm	 l ɤ4 m
+lỡ	 l ɤ3
+lợi	 l ɤ6 j
+lợm	 l ɤ6 m
+lợp	 l ɤ6 p
+lợt	 l ɤ6 t
+lụa	 l uə6
+lục	 l u6 k͡p
+lụi	 l u6 j
+lụn	 l u6 n
+lụng	 l u6 ŋ͡m
+lụt	 l u6 t
+lụy	 l u6 j
+lủng	 l u4 ŋ͡m
+lứa	 l ɯə5
+lừa	 l ɯə2
+lừng	 l ɯ2 ŋ
+lửa	 l ɯə4
+lửng	 l ɯ4 ŋ
+lữ	 l ɯ3
+lữa	 l ɯə3
+lự	 l ɯ6
+lựa	 l ɯə6
+lực	 l ɯ6 k
+lựu	 l ɯ6 w
+lỳ	 l i2
+lỵ	 l i6
+ma	 m a1
+mai	 m a1 j
+mam	 m a1 m
+man	 m a1 n
+mang	 m a1 ŋ
+manh	 m ɛ1 ɲ
+mao	 m a1 w
+mau	 m ă1 w
+may	 m ă1 j
+me	 m ɛ1
+mem	 m ɛ1 m
+men	 m ɛ1 n
+meo	 m eo1
+mi	 m i1
+mia	 m iə1
+mim	 m i1 m
+min	 m i1 n
+minh	 m i1 ɲ
+miên	 m iə1 n
+miêu	 m iə1 w
+miến	 m iə5 n
+miếng	 m iə5 ŋ
+miếu	 m iə5 w
+miền	 m iə2 n
+miễn	 m iə3 n
+miễu	 m iə3 w
+miệc	 m iə6 k
+miện	 m iə6 n
+miệng	 m iə6 ŋ
+miệt	 m iə6 t
+mo	 m ɔ1
+moi	 m ɔ1 j
+mon	 m ɔ1 n
+mong	 m ɔ1 ŋ͡m
+mu	 m u1
+mua	 m uə1
+mui	 m u1 j
+mun	 m u1 n
+muôn	 m uə1 n
+muông	 m uə1 ŋ
+muối	 m uə5 j
+muốn	 m uə5 n
+muỗi	 m uə3 j
+muỗng	 m uə3 ŋ
+muội	 m uə6 j
+muộn	 m uə6 n
+my	 m i1
+mà	 m a2
+mài	 m a2 j
+màn	 m a2 n
+màng	 m a2 ŋ
+màu	 m ă2 w
+mày	 m ă2 j
+má	 m a5
+mác	 m a5 k
+mách	 m a5 tʃ
+mái	 m a5 j
+máng	 m a5 ŋ
+mánh	 m ɛ5 ɲ
+máp	 m a5 p
+mát	 m a5 t
+máu	 m ă5 w
+máy	 m ă5 j
+mâm	 m ɤ̆1 m
+mâu	 m ɤ̆1 w
+mây	 m ɤ̆1 j
+mã	 m a3
+mãi	 m a3 j
+mãn	 m a3 n
+mãnh	 m ɛ3 ɲ
+mão	 m a3 w
+mè	 m ɛ2
+mèm	 m ɛ2 m
+mèo	 m eo2
+mé	 m ɛ5
+méc	 m ɛ5 k
+méo	 m eo5
+mép	 m ɛ5 p
+mét	 m ɛ5 t
+mê	 m e1
+mên	 m e1 n
+mênh	 m e1 ɲ
+mì	 m i2
+mình	 m i2 ɲ
+mí	 m i5
+mích	 m i5 tʃ
+mím	 m i5 m
+míp	 m i5 p
+mít	 m i5 t
+mò	 m ɔ2
+mòn	 m ɔ2 n
+mòng	 m ɔ2 ŋ͡m
+mó	 m ɔ5
+móc	 m ɔ5 k͡p
+món	 m ɔ5 n
+móng	 m ɔ5 ŋ͡m
+mót	 m ɔ5 t
+mô	 m o1
+môi	 m o1 j
+môn	 m o1 n
+mông	 m o1 ŋ͡m
+mõm	 m ɔ3 m
+mù	 m u2
+mùa	 m uə2
+mùi	 m u2 j
+mùng	 m u2 ŋ͡m
+múa	 m uə5
+múc	 m u5 k͡p
+mút	 m u5 t
+măn	 m ă1 n
+mũ	 m u3
+mũi	 m u3 j
+mơ	 m ɤ1
+mơn	 m ɤ1 n
+mưa	 m ɯə1
+mưu	 m ɯ1 w
+mươi	 m ɯə1 j
+mương	 m ɯə1 ŋ
+mướn	 m ɯə5 n
+mướt	 m ɯə5 t
+mười	 m ɯə2 j
+mượn	 m ɯə6 n
+mượt	 m ɯə6 t
+mạ	 m a6
+mạc	 m a6 k
+mạch	 m a6 tʃ
+mại	 m a6 j
+mạn	 m a6 n
+mạng	 m a6 ŋ
+mạnh	 m ɛ6 ɲ
+mạo	 m a6 w
+mạp	 m a6 p
+mạt	 m a6 t
+mả	 m a4
+mải	 m a4 j
+mảng	 m a4 ŋ
+mảnh	 m ɛ4 ɲ
+mấp	 m ɤ̆5 p
+mất	 m ɤ̆5 t
+mấu	 m ɤ̆5 w
+mấy	 m ɤ̆5 j
+mầm	 m ɤ̆2 m
+mầu	 m ɤ̆2 w
+mầy	 m ɤ̆2 j
+mẩn	 m ɤ̆4 n
+mẩu	 m ɤ̆4 w
+mẩy	 m ɤ̆4 j
+mẫm	 m ɤ̆3 m
+mẫn	 m ɤ̆3 n
+mẫu	 m ɤ̆3 w
+mập	 m ɤ̆6 p
+mật	 m ɤ̆6 t
+mậu	 m ɤ̆6 w
+mắc	 m ă5 k
+mắn	 m ă5 n
+mắng	 m ă5 ŋ
+mắt	 m ă5 t
+mặc	 m ă6 k
+mặn	 m ă6 n
+mặt	 m ă6 t
+mẹ	 m ɛ6
+mẹo	 m eo6
+mẹt	 m ɛ6 t
+mẻ	 m ɛ4
+mẽ	 m ɛ3
+mếch	 m e5 tʃ
+mến	 m e5 n
+mết	 m e5 t
+mềm	 m e2 m
+mền	 m e2 n
+mệnh	 m e6 ɲ
+mệt	 m e6 t
+mỉ	 m i4
+mỉa	 m iə4
+mỉm	 m i4 m
+mị	 m i6
+mịn	 m i6 n
+mịt	 m i6 t
+mọc	 m ɔ6 k͡p
+mọi	 m ɔ6 j
+mọn	 m ɔ6 n
+mọng	 m ɔ6 ŋ͡m
+mọp	 m ɔ6 p
+mọt	 m ɔ6 t
+mỏ	 m ɔ4
+mỏi	 m ɔ4 j
+mỏm	 m ɔ4 m
+mỏng	 m ɔ4 ŋ͡m
+mốc	 m o5 k͡p
+mối	 m o5 j
+mống	 m o5 ŋ͡m
+mốp	 m o5 p
+mốt	 m o5 t
+mồ	 m o2
+mồi	 m o2 j
+mồm	 m o2 m
+mồn	 m o2 n
+mồng	 m o2 ŋ͡m
+mổ	 m o4
+mỗi	 m o3 j
+mộ	 m o6
+mộc	 m o6 k͡p
+mộng	 m o6 ŋ͡m
+một	 m o6 t
+mớ	 m ɤ5
+mới	 m ɤ5 j
+mớm	 m ɤ5 m
+mờ	 m ɤ2
+mời	 m ɤ2 j
+mở	 m ɤ4
+mởn	 m ɤ4 n
+mỡ	 m ɤ3
+mụ	 m u6
+mục	 m u6 k͡p
+mụn	 m u6 n
+mụt	 m u6 t
+mủ	 m u4
+mủi	 m u4 j
+mứa	 m ɯə5
+mức	 m ɯ5 k
+mừng	 m ɯ2 ŋ
+mửa	 m ɯə4
+mực	 m ɯ6 k
+mỹ	 m i3
+na	 n a1
+nai	 n a1 j
+nam	 n a1 m
+nan	 n a1 n
+nang	 n a1 ŋ
+nanh	 n ɛ1 ɲ
+nao	 n a1 w
+nay	 n ă1 j
+ne	 n ɛ1
+nem	 n ɛ1 m
+neo	 n eo1
+nga	 ŋ a1
+ngai	 ŋ a1 j
+ngang	 ŋ a1 ŋ
+ngao	 ŋ a1 w
+ngay	 ŋ ă1 j
+nghe	 ŋ ɛ1
+nghi	 ŋ i1
+nghiêm	 ŋ iə1 m
+nghiên	 ŋ iə1 n
+nghiêng	 ŋ iə1 ŋ
+nghiến	 ŋ iə5 n
+nghiền	 ŋ iə2 n
+nghiệm	 ŋ iə6 m
+nghiện	 ŋ iə6 n
+nghiệp	 ŋ iə6 p
+nghiệt	 ŋ iə6 t
+nghèo	 ŋ eo2
+nghé	 ŋ ɛ5
+nghén	 ŋ ɛ5 n
+nghênh	 ŋ e1 ɲ
+nghêu	 ŋ ɛu1
+nghìn	 ŋ i2 n
+nghĩ	 ŋ i3
+nghĩa	 ŋ iə3
+nghẹt	 ŋ ɛ6 t
+nghẽn	 ŋ ɛ3 n
+nghề	 ŋ e2
+nghễ	 ŋ e3
+nghệ	 ŋ e6
+nghỉ	 ŋ i4
+nghị	 ŋ i6
+nghịch	 ŋ i6 tʃ
+ngoa	 ŋw ʷa1
+ngoai	 ŋw a1 j
+ngoan	 ŋw ʷa1 n
+ngoi	 ŋ ɔ1 j
+ngon	 ŋ ɔ1 n
+ngoài	 ŋw a2 j
+ngoái	 ŋw a5 j
+ngoãn	 ŋw ʷa3 n
+ngoạc	 ŋw ʷa6 k
+ngoại	 ŋw a6 j
+ngoảnh	 ŋw ʷa4 ɲ
+ngu	 ŋ u1
+nguy	 ŋw ʷi1
+nguyên	 ŋw ʷiə1 n
+nguyền	 ŋw ʷiə2 n
+nguyện	 ŋw ʷiə6 n
+nguyệt	 ŋw ʷiə6 t
+nguôi	 ŋ uə1 j
+nguệch	 ŋw ʷe6 tʃ
+nguồn	 ŋ uə2 n
+nguội	 ŋ uə6 j
+ngà	 ŋ a2
+ngài	 ŋ a2 j
+ngàn	 ŋ a2 n
+ngàng	 ŋ a2 ŋ
+ngành	 ŋ ɛ2 ɲ
+ngào	 ŋ a2 w
+ngày	 ŋ ă2 j
+ngác	 ŋ a5 k
+ngách	 ŋ a5 tʃ
+ngán	 ŋ a5 n
+ngát	 ŋ a5 t
+ngáy	 ŋ ă5 j
+ngâm	 ŋ ɤ̆1 m
+ngân	 ŋ ɤ̆1 n
+ngây	 ŋ ɤ̆1 j
+ngã	 ŋ a3
+ngò	 ŋ ɔ2
+ngòi	 ŋ ɔ2 j
+ngó	 ŋ ɔ5
+ngóc	 ŋ ɔ5 k͡p
+ngói	 ŋ ɔ5 j
+ngón	 ŋ ɔ5 n
+ngóng	 ŋ ɔ5 ŋ͡m
+ngót	 ŋ ɔ5 t
+ngô	 ŋ o1
+ngôi	 ŋ o1 j
+ngôn	 ŋ o1 n
+ngông	 ŋ o1 ŋ͡m
+ngõ	 ŋ ɔ3
+ngùng	 ŋ u2 ŋ͡m
+ngút	 ŋ u5 t
+ngăm	 ŋ ă1 m
+ngăn	 ŋ ă1 n
+ngũ	 ŋ u3
+ngơ	 ŋ ɤ1
+ngơi	 ŋ ɤ1 j
+ngư	 ŋ ɯ1
+ngưng	 ŋ ɯ1 ŋ
+ngươi	 ŋ ɯə1 j
+ngước	 ŋ ɯə5 k
+người	 ŋ ɯə2 j
+ngưỡng	 ŋ ɯə3 ŋ
+ngược	 ŋ ɯə6 k
+ngượng	 ŋ ɯə6 ŋ
+ngạc	 ŋ a6 k
+ngạch	 ŋ a6 tʃ
+ngại	 ŋ a6 j
+ngạn	 ŋ a6 n
+ngạnh	 ŋ ɛ6 ɲ
+ngạo	 ŋ a6 w
+ngạt	 ŋ a6 t
+ngả	 ŋ a4
+ngải	 ŋ a4 j
+ngấm	 ŋ ɤ̆5 m
+ngất	 ŋ ɤ̆5 t
+ngấu	 ŋ ɤ̆5 w
+ngấy	 ŋ ɤ̆5 j
+ngầm	 ŋ ɤ̆2 m
+ngần	 ŋ ɤ̆2 n
+ngầu	 ŋ ɤ̆2 w
+ngẩn	 ŋ ɤ̆4 n
+ngẩng	 ŋ ɤ̆4 ŋ
+ngẫm	 ŋ ɤ̆3 m
+ngẫu	 ŋ ɤ̆3 w
+ngậm	 ŋ ɤ̆6 m
+ngập	 ŋ ɤ̆6 p
+ngậy	 ŋ ɤ̆6 j
+ngắm	 ŋ ă5 m
+ngắn	 ŋ ă5 n
+ngắt	 ŋ ă5 t
+ngặt	 ŋ ă6 t
+ngọc	 ŋ ɔ6 k͡p
+ngọn	 ŋ ɔ6 n
+ngọng	 ŋ ɔ6 ŋ͡m
+ngọt	 ŋ ɔ6 t
+ngỏ	 ŋ ɔ4
+ngốc	 ŋ o5 k͡p
+ngồi	 ŋ o2 j
+ngổn	 ŋ o4 n
+ngỗ	 ŋ o3
+ngộ	 ŋ o6
+ngộp	 ŋ o6 p
+ngột	 ŋ o6 t
+ngớ	 ŋ ɤ5
+ngớt	 ŋ ɤ5 t
+ngờ	 ŋ ɤ2
+ngời	 ŋ ɤ2 j
+ngỡ	 ŋ ɤ3
+ngợi	 ŋ ɤ6 j
+ngụ	 ŋ u6
+ngục	 ŋ u6 k͡p
+ngụm	 ŋ u6 m
+ngụy	 ŋ u6 j
+ngủ	 ŋ u4
+ngủi	 ŋ u4 j
+ngứa	 ŋ ɯə5
+ngừa	 ŋ ɯə2
+ngừng	 ŋ ɯ2 ŋ
+người	 ŋ ɯə2 j
+ngửa	 ŋ ɯə4
+ngửi	 ŋ ɯ4 j
+ngữ	 ŋ ɯ3
+ngự	 ŋ ɯ6
+ngựa	 ŋ ɯə6
+ngực	 ŋ ɯ6 k
+nha	 ɲ a1
+nhai	 ɲ a1 j
+nham	 ɲ a1 m
+nhan	 ɲ a1 n
+nhang	 ɲ a1 ŋ
+nhanh	 ɲ ɛ1 ɲ
+nhao	 ɲ a1 w
+nhau	 ɲ ă1 w
+nhe	 ɲ ɛ1
+nhem	 ɲ ɛ1 m
+nhen	 ɲ ɛ1 n
+nheo	 ɲ eo1
+nhi	 ɲ i1
+nhiên	 ɲ iə1 n
+nhiêu	 ɲ iə1 w
+nhiếc	 ɲ iə5 k
+nhiếp	 ɲ iə5 p
+nhiều	 ɲ iə2 w
+nhiễm	 ɲ iə3 m
+nhiễu	 ɲ iə3 w
+nhiệm	 ɲ iə6 m
+nhiệt	 ɲ iə6 t
+nho	 ɲ ɔ1
+nhoi	 ɲ ɔ1 j
+nhoáng	 ɲw ʷa5 ŋ
+nhu	 ɲ u1
+nhung	 ɲ u1 ŋ͡m
+nhuyễn	 ɲw ʷiə3 n
+nhuần	 ɲw ʷɤ̆2 n
+nhuận	 ɲw ʷɤ̆6 n
+nhuệ	 ɲw ʷe6
+nhuốc	 ɲ uə5 k
+nhuộm	 ɲ uə6 m
+nhà	 ɲ a2
+nhàm	 ɲ a2 m
+nhàn	 ɲ a2 n
+nhàng	 ɲ a2 ŋ
+nhào	 ɲ a2 w
+nhàu	 ɲ ă2 w
+nhá	 ɲ a5
+nhác	 ɲ a5 k
+nhái	 ɲ a5 j
+nhánh	 ɲ ɛ5 ɲ
+nháp	 ɲ a5 p
+nhát	 ɲ a5 t
+nháy	 ɲ ă5 j
+nhân	 ɲ ɤ̆1 n
+nhã	 ɲ a3
+nhãn	 ɲ a3 n
+nhè	 ɲ ɛ2
+nhé	 ɲ ɛ5
+nhét	 ɲ ɛ5 t
+nhì	 ɲ i2
+nhìn	 ɲ i2 n
+nhí	 ɲ i5
+nhím	 ɲ i5 m
+nhòa	 ɲw ʷa2
+nhó	 ɲ ɔ5
+nhóm	 ɲ ɔ5 m
+nhót	 ɲ ɔ5 t
+nhô	 ɲ o1
+nhông	 ɲ o1 ŋ͡m
+nhú	 ɲ u5
+nhúc	 ɲ u5 k͡p
+nhúm	 ɲ u5 m
+nhún	 ɲ u5 n
+nhúng	 ɲ u5 ŋ͡m
+nhút	 ɲ u5 t
+nhăn	 ɲ ă1 n
+nhăng	 ɲ ă1 ŋ
+nhũ	 ɲ u3
+nhũi	 ɲ u3 j
+nhũng	 ɲ u3 ŋ͡m
+nhơ	 ɲ ɤ1
+nhơi	 ɲ ɤ1 j
+như	 ɲ ɯ1
+nhưng	 ɲ ɯ1 ŋ
+nhương	 ɲ ɯə1 ŋ
+nhướng	 ɲ ɯə5 ŋ
+nhường	 ɲ ɯə2 ŋ
+nhược	 ɲ ɯə6 k
+nhượng	 ɲ ɯə6 ŋ
+nhạc	 ɲ a6 k
+nhạn	 ɲ a6 n
+nhạnh	 ɲ ɛ6 ɲ
+nhạo	 ɲ a6 w
+nhạt	 ɲ a6 t
+nhạy	 ɲ ă6 j
+nhả	 ɲ a4
+nhải	 ɲ a4 j
+nhảm	 ɲ a4 m
+nhản	 ɲ a4 n
+nhảy	 ɲ ă4 j
+nhấc	 ɲ ɤ̆5 k
+nhấm	 ɲ ɤ̆5 m
+nhấn	 ɲ ɤ̆5 n
+nhấp	 ɲ ɤ̆5 p
+nhất	 ɲ ɤ̆5 t
+nhầm	 ɲ ɤ̆2 m
+nhẩu	 ɲ ɤ̆4 w
+nhẫn	 ɲ ɤ̆3 n
+nhậm	 ɲ ɤ̆6 m
+nhận	 ɲ ɤ̆6 n
+nhập	 ɲ ɤ̆6 p
+nhật	 ɲ ɤ̆6 t
+nhậu	 ɲ ɤ̆6 w
+nhắc	 ɲ ă5 k
+nhắm	 ɲ ă5 m
+nhắn	 ɲ ă5 n
+nhắt	 ɲ ă5 t
+nhằm	 ɲ ă2 m
+nhằn	 ɲ ă2 n
+nhẵn	 ɲ ă3 n
+nhặn	 ɲ ă6 n
+nhặng	 ɲ ă6 ŋ
+nhặt	 ɲ ă6 t
+nhẹ	 ɲ ɛ6
+nhẹn	 ɲ ɛ6 n
+nhẹt	 ɲ ɛ6 t
+nhẽo	 ɲ eo3
+nhện	 ɲ e6 n
+nhỉ	 ɲ i4
+nhị	 ɲ i6
+nhịn	 ɲ i6 n
+nhịp	 ɲ i6 p
+nhọ	 ɲ ɔ6
+nhọc	 ɲ ɔ6 k͡p
+nhọn	 ɲ ɔ6 n
+nhọt	 ɲ ɔ6 t
+nhỏ	 ɲ ɔ4
+nhố	 ɲ o5
+nhối	 ɲ o5 j
+nhốt	 ɲ o5 t
+nhồi	 ɲ o2 j
+nhổ	 ɲ o4
+nhộn	 ɲ o6 n
+nhớ	 ɲ ɤ5
+nhớp	 ɲ ɤ5 p
+nhờ	 ɲ ɤ2
+nhở	 ɲ ɤ4
+nhởn	 ɲ ɤ4 n
+nhỡ	 ɲ ɤ3
+nhục	 ɲ u6 k͡p
+nhụi	 ɲ u6 j
+nhụt	 ɲ u6 t
+nhủ	 ɲ u4
+nhủi	 ɲ u4 j
+nhức	 ɲ ɯ5 k
+nhừ	 ɲ ɯ2
+nhử	 ɲ ɯ4
+những	 ɲ ɯ3 ŋ
+nhựa	 ɲ ɯə6
+ni	 n i1
+nia	 n iə1
+nim	 n i1 m
+nin	 n i1 n
+ninh	 n i1 ɲ
+niu	 n i1 w
+niêm	 n iə1 m
+niên	 n iə1 n
+niêu	 n iə1 w
+niềm	 n iə2 m
+niệm	 n iə6 m
+no	 n ɔ1
+noi	 n ɔ1 j
+nom	 n ɔ1 m
+non	 n ɔ1 n
+nu	 n u1
+nua	 n uə1
+nui	 n u1 j
+num	 n u1 m
+nun	 n u1 n
+nung	 n u1 ŋ͡m
+nuôi	 n uə1 j
+nuông	 n uə1 ŋ
+nuối	 n uə5 j
+nuốt	 n uə5 t
+nài	 n a2 j
+nàn	 n a2 n
+nàng	 n a2 ŋ
+nào	 n a2 w
+này	 n ă2 j
+ná	 n a5
+nác	 n a5 k
+nách	 n a5 tʃ
+nám	 n a5 m
+nán	 n a5 n
+náo	 n a5 w
+náp	 n a5 p
+nát	 n a5 t
+náu	 n ă5 w
+nâng	 n ɤ̆1 ŋ
+nâu	 n ɤ̆1 w
+nây	 n ɤ̆1 j
+nã	 n a3
+não	 n a3 w
+nãy	 n ă3 j
+né	 n ɛ5
+ném	 n ɛ5 m
+nén	 n ɛ5 n
+nép	 n ɛ5 p
+nét	 n ɛ5 t
+nê	 n e1
+nêm	 n e1 m
+nên	 n e1 n
+nêu	 n ɛu1
+ních	 n i5 tʃ
+nín	 n i5 n
+níp	 n i5 p
+nít	 n i5 t
+níu	 n i5 w
+nòi	 n ɔ2 j
+nòng	 n ɔ2 ŋ͡m
+nó	 n ɔ5
+nóc	 n ɔ5 k͡p
+nói	 n ɔ5 j
+nón	 n ɔ5 n
+nóng	 n ɔ5 ŋ͡m
+nóp	 n ɔ5 p
+nót	 n ɔ5 t
+nô	 n o1
+nôi	 n o1 j
+nôm	 n o1 m
+nôn	 n o1 n
+nông	 n o1 ŋ͡m
+núc	 n u5 k͡p
+núi	 n u5 j
+núm	 n u5 m
+núng	 n u5 ŋ͡m
+núp	 n u5 p
+nút	 n u5 t
+năm	 n ă1 m
+năn	 n ă1 n
+năng	 n ă1 ŋ
+nĩa	 n iə3
+nơ	 n ɤ1
+nơi	 n ɤ1 j
+nương	 n ɯə1 ŋ
+nước	 n ɯə5 k
+nướng	 n ɯə5 ŋ
+nược	 n ɯə6 k
+nạ	 n a6
+nại	 n a6 j
+nạm	 n a6 m
+nạn	 n a6 n
+nạp	 n a6 p
+nạt	 n a6 t
+nả	 n a4
+nản	 n a4 n
+nảy	 n ă4 j
+nấc	 n ɤ̆5 k
+nấm	 n ɤ̆5 m
+nấn	 n ɤ̆5 n
+nấng	 n ɤ̆5 ŋ
+nấp	 n ɤ̆5 p
+nấu	 n ɤ̆5 w
+nấy	 n ɤ̆5 j
+nần	 n ɤ̆2 n
+nầy	 n ɤ̆2 j
+nẩy	 n ɤ̆4 j
+nắm	 n ă5 m
+nắn	 n ă5 n
+nắng	 n ă5 ŋ
+nắp	 n ă5 p
+nằm	 n ă2 m
+nặc	 n ă6 k
+nặn	 n ă6 n
+nặng	 n ă6 ŋ
+nẹp	 n ɛ6 p
+nẹt	 n ɛ6 t
+nẻ	 n ɛ4
+nẻo	 n eo4
+nếm	 n e5 m
+nếp	 n e5 p
+nết	 n e5 t
+nếu	 n ɛu5
+nề	 n e2
+nền	 n e2 n
+nể	 n e4
+nệ	 n e6
+nệm	 n e6 m
+nỉ	 n i4
+nịch	 n i6 tʃ
+nịnh	 n i6 ɲ
+nịt	 n i6 t
+nọ	 n ɔ6
+nọc	 n ɔ6 k͡p
+nỏ	 n ɔ4
+nối	 n o5 j
+nốp	 n o5 p
+nốt	 n o5 t
+nồi	 n o2 j
+nồng	 n o2 ŋ͡m
+nổ	 n o4
+nổi	 n o4 j
+nổng	 n o4 ŋ͡m
+nỗ	 n o3
+nỗi	 n o3 j
+nộ	 n o6
+nội	 n o6 j
+nộn	 n o6 n
+nộp	 n o6 p
+nới	 n ɤ5 j
+nở	 n ɤ4
+nỡ	 n ɤ3
+nợ	 n ɤ6
+nụ	 n u6
+nức	 n ɯ5 k
+nứt	 n ɯ5 t
+nửa	 n ɯə4
+nữ	 n ɯ3
+nữa	 n ɯə3
+oai	 w a1 j
+oan	 w ʷa1 n
+oanh	 w ʷa1 ɲ
+oi	 ɔ1 j
+om	 ɔ1 m
+ong	 ɔ1 ŋ͡m
+oán	 w ʷa5 n
+pa	 p a1
+pam	 p a1 m
+pan	 p a1 n
+pha	 f a1
+phai	 f a1 j
+pham	 f a1 m
+phan	 f a1 n
+phanh	 f ɛ1 ɲ
+phao	 f a1 w
+phe	 f ɛ1
+phen	 f ɛ1 n
+phi	 f i1
+phim	 f i1 m
+phin	 f i1 n
+phinh	 f i1 ɲ
+phiu	 f i1 w
+phiên	 f iə1 n
+phiêu	 f iə1 w
+phiếm	 f iə5 m
+phiến	 f iə5 n
+phiếu	 f iə5 w
+phiền	 f iə2 n
+pho	 f ɔ1
+phong	 f ɔ1 ŋ͡m
+phu	 f u1
+phui	 f u1 j
+phun	 f u1 n
+phung	 f u1 ŋ͡m
+phy	 f i1
+phàm	 f a2 m
+phàn	 f a2 n
+phàng	 f a2 ŋ
+phá	 f a5
+phác	 f a5 k
+phách	 f a5 tʃ
+phái	 f a5 j
+phán	 f a5 n
+pháo	 f a5 w
+pháp	 f a5 p
+phát	 f a5 t
+phân	 f ɤ̆1 n
+phè	 f ɛ2
+phèng	 f ɛ2 ŋ
+phéc	 f ɛ5 k
+phép	 f ɛ5 p
+phê	 f e1
+phên	 f e1 n
+phì	 f i2
+phình	 f i2 ɲ
+phí	 f i5
+phía	 f iə5
+phích	 f i5 tʃ
+phít	 f i5 t
+phò	 f ɔ2
+phòng	 f ɔ2 ŋ͡m
+phó	 f ɔ5
+phóng	 f ɔ5 ŋ͡m
+phót	 f ɔ5 t
+phô	 f o1
+phôi	 f o1 j
+phôn	 f o1 n
+phông	 f o1 ŋ͡m
+phù	 f u2
+phùn	 f u2 n
+phú	 f u5
+phúc	 f u5 k͡p
+phúng	 f u5 ŋ͡m
+phút	 f u5 t
+phăng	 f ă1 ŋ
+phũ	 f u3
+phơ	 f ɤ1
+phơi	 f ɤ1 j
+phương	 f ɯə1 ŋ
+phước	 f ɯə5 k
+phường	 f ɯə2 ŋ
+phượng	 f ɯə6 ŋ
+phạc	 f a6 k
+phạm	 f a6 m
+phạt	 f a6 t
+phả	 f a4
+phải	 f a4 j
+phản	 f a4 n
+phấn	 f ɤ̆5 n
+phất	 f ɤ̆5 t
+phần	 f ɤ̆2 n
+phẩm	 f ɤ̆4 m
+phẩn	 f ɤ̆4 n
+phẫn	 f ɤ̆3 n
+phẫu	 f ɤ̆3 w
+phận	 f ɤ̆6 n
+phập	 f ɤ̆6 p
+phật	 f ɤ̆6 t
+phắt	 f ă5 t
+phẳng	 f ă4 ŋ
+phế	 f e5
+phết	 f e5 t
+phếu	 f ɛu5
+phỉ	 f i4
+phỉnh	 f i4 ɲ
+phỏng	 f ɔ4 ŋ͡m
+phố	 f o5
+phối	 f o5 j
+phốt	 f o5 t
+phồn	 f o2 n
+phồng	 f o2 ŋ͡m
+phổ	 f o4
+phổi	 f o4 j
+phới	 f ɤ5 j
+phớt	 f ɤ5 t
+phờ	 f ɤ2
+phỡn	 f ɤ3 n
+phụ	 f u6
+phục	 f u6 k͡p
+phụng	 f u6 ŋ͡m
+phụt	 f u6 t
+phủ	 f u4
+phủi	 f u4 j
+phừng	 f ɯ2 ŋ
+pi	 p i1
+pim	 p i1 m
+pit	 p i1 t
+pu	 p u1
+pác	 p a5 k
+pát	 p a5 t
+pê	 p e1
+pít	 p i5 t
+pô	 p o1
+pôn	 p o1 n
+pông	 p o1 ŋ͡m
+púp	 p u5 p
+pạt	 p a6 t
+pẹt	 p ɛ6 t
+pốt	 p o5 t
+qua	 kw a1
+quai	 kw a1 j
+quan	 kw a1 n
+quang	 kw a1 ŋ
+quanh	 kw ɛ1 ɲ
+quay	 kw ă1 j
+que	 kw ɛ1
+quen	 kw ɛ1 n
+queo	 kw eo1
+qui	 kw i1
+quy	 kw i1
+quyên	 kw iɛ1 n
+quyến	 kw iɛ5 n
+quyết	 kw iɛ5 t
+quyền	 kw iɛ2 n
+quyển	 kw iɛ4 n
+quyện	 kw iɛ6 n
+quyệt	 kw iɛ6 t
+quà	 kw a2
+quàn	 kw a2 n
+quàng	 kw a2 ŋ
+quá	 kw a5
+quách	 kw a5 tʃ
+quái	 kw a5 j
+quán	 kw a5 n
+quáng	 kw a5 ŋ
+quát	 kw a5 t
+quân	 kw ɤ̆1 n
+quây	 kw ɤ̆1 j
+quãng	 kw a3 ŋ
+què	 kw ɛ2
+quét	 kw ɛ5 t
+quê	 kw e1
+quên	 kw e1 n
+quí	 kw i5
+quý	 kw i5
+quăn	 kw ă1 n
+quăng	 kw ă1 ŋ
+quạ	 kw a6
+quại	 kw a6 j
+quạng	 kw a6 ŋ
+quạnh	 kw ɛ6 ɲ
+quạt	 kw a6 t
+quả	 kw a4
+quản	 kw a4 n
+quảng	 kw a4 ŋ
+quấn	 kw ɤ̆5 n
+quất	 kw ɤ̆5 t
+quấy	 kw ɤ̆5 j
+quần	 kw ɤ̆2 n
+quẩn	 kw ɤ̆4 n
+quẫn	 kw ɤ̆3 n
+quận	 kw ɤ̆6 n
+quật	 kw ɤ̆6 t
+quậy	 kw ɤ̆6 j
+quắc	 kw ă5 k
+quắp	 kw ă5 p
+quắt	 kw ă5 t
+quằn	 kw ă2 n
+quẳng	 kw ă4 ŋ
+quặc	 kw ă6 k
+quặn	 kw ă6 n
+quặng	 kw ă6 ŋ
+quặt	 kw ă6 t
+quẹo	 kw eo6
+quẻ	 kw ɛ4
+quẽ	 kw ɛ3
+quế	 kw e5
+quệ	 kw e6
+quốc	 kw o5 k͡p
+quờ	 kw ɤ2
+quở	 kw ɤ4
+quỳ	 kw i2
+quỵ	 kw i6
+quỷ	 kw i4
+quỹ	 kw i3
+ra	 ʐ a1
+rai	 ʐ a1 j
+ram	 ʐ a1 m
+ran	 ʐ a1 n
+rang	 ʐ a1 ŋ
+ranh	 ʐ ɛ1 ɲ
+rao	 ʐ a1 w
+rau	 ʐ ă1 w
+re	 ʐ ɛ1
+rem	 ʐ ɛ1 m
+ren	 ʐ ɛ1 n
+reng	 ʐ ɛ1 ŋ
+reo	 ʐ eo1
+ri	 ʂ i1
+ri	 ʐ i1
+ria	 ʐ iə1
+rim	 ʐ i1 m
+rinh	 ʐ i1 ɲ
+riêng	 ʐ iə1 ŋ
+riếc	 ʐ iə5 k
+riết	 ʐ iə5 t
+riếu	 ʐ iə5 w
+ro	 ʐ ɔ1
+roi	 ʐ ɔ1 j
+rom	 ʐ ɔ1 m
+rong	 ʐ ɔ1 ŋ͡m
+ru	 ʐ u1
+rua	 ʐ uə1
+rum	 ʐ u1 m
+run	 ʐ u1 n
+rung	 ʐ u1 ŋ͡m
+ruồi	 ʐ uə2 j
+ruồng	 ʐ uə2 ŋ
+ruổi	 ʐ uə4 j
+ruộng	 ʐ uə6 ŋ
+ruột	 ʐ uə6 t
+ry	 ʐ i1
+rà	 ʐ a2
+ràn	 ʐ a2 n
+ràng	 ʐ a2 ŋ
+rành	 ʐ ɛ2 ɲ
+rào	 ʐ a2 w
+rày	 ʐ ă2 j
+rá	 ʐ a5
+rác	 ʐ a5 k
+rách	 ʐ a5 tʃ
+rán	 ʐ a5 n
+ráng	 ʐ a5 ŋ
+ráo	 ʐ a5 w
+ráp	 ʐ a5 p
+rát	 ʐ a5 t
+râm	 ʐ ɤ̆1 m
+râu	 ʐ ɤ̆1 w
+rã	 ʐ a3
+rãi	 ʐ a3 j
+rãnh	 ʐ ɛ3 ɲ
+rè	 ʐ ɛ2
+rèm	 ʐ ɛ2 m
+rèn	 ʐ ɛ2 n
+réc	 ʐ ɛ5 k
+rén	 ʐ ɛ5 n
+réo	 ʐ eo5
+rép	 ʐ ɛ5 p
+rét	 ʐ ɛ5 t
+rê	 ʐ e1
+rên	 ʐ e1 n
+rêu	 ʐ ɛu1
+rì	 ʐ i2
+rìa	 ʐ iə2
+rình	 ʐ i2 ɲ
+rìu	 ʐ i2 w
+ríc	 ʐ i5 k
+rích	 ʐ i5 tʃ
+ríp	 ʐ i5 p
+rít	 ʐ i5 t
+ríu	 ʐ i5 w
+ròng	 ʐ ɔ2 ŋ͡m
+róc	 ʐ ɔ5 k͡p
+rón	 ʐ ɔ5 n
+rót	 ʐ ɔ5 t
+rô	 ʐ o1
+rôm	 ʐ o1 m
+rôn	 ʐ o1 n
+rông	 ʐ o1 ŋ͡m
+rõ	 ʐ ɔ3
+rùng	 ʐ u2 ŋ͡m
+rú	 ʐ u5
+rúc	 ʐ u5 k͡p
+rúng	 ʐ u5 ŋ͡m
+rúp	 ʐ u5 p
+rút	 ʐ u5 t
+răm	 ʐ ă1 m
+răn	 ʐ ă1 n
+răng	 ʐ ă1 ŋ
+rĩ	 ʐ i3
+rũ	 ʐ u3
+rơ	 ʐ ɤ1
+rơi	 ʐ ɤ1 j
+rơm	 ʐ ɤ1 m
+rương	 ʐ ɯə1 ŋ
+rước	 ʐ ɯə5 k
+rưới	 ʐ ɯə5 j
+rười	 ʐ ɯə2 j
+rườm	 ʐ ɯə2 m
+rường	 ʐ ɯə2 ŋ
+rưởi	 ʐ ɯə4 j
+rưỡi	 ʐ ɯə3 j
+rượi	 ʐ ɯə6 j
+rượt	 ʐ ɯə6 t
+rượu	 ʐ ɯə6 w
+rạ	 ʐ a6
+rạc	 ʐ a6 k
+rạch	 ʐ a6 tʃ
+rạn	 ʐ a6 n
+rạng	 ʐ a6 ŋ
+rạo	 ʐ a6 w
+rạp	 ʐ a6 p
+rải	 ʐ a4 j
+rảnh	 ʐ ɛ4 ɲ
+rảo	 ʐ a4 w
+rảy	 ʐ ă4 j
+rất	 ʐ ɤ̆5 t
+rầm	 ʐ ɤ̆2 m
+rầu	 ʐ ɤ̆2 w
+rầy	 ʐ ɤ̆2 j
+rẩy	 ʐ ɤ̆4 j
+rẫy	 ʐ ɤ̆3 j
+rậm	 ʐ ɤ̆6 m
+rận	 ʐ ɤ̆6 n
+rập	 ʐ ɤ̆6 p
+rắc	 ʐ ă5 k
+rắm	 ʐ ă5 m
+rắn	 ʐ ă5 n
+rắp	 ʐ ă5 p
+rắt	 ʐ ă5 t
+rằm	 ʐ ă2 m
+rằng	 ʐ ă2 ŋ
+rặc	 ʐ ă6 k
+rặng	 ʐ ă6 ŋ
+rẻ	 ʐ ɛ4
+rẽ	 ʐ ɛ3
+rến	 ʐ e5 n
+rếp	 ʐ e5 p
+rết	 ʐ e5 t
+rền	 ʐ e2 n
+rể	 ʐ e4
+rễ	 ʐ e3
+rệt	 ʐ e6 t
+rỉ	 ʐ i4
+rỉa	 ʐ iə4
+rịt	 ʐ i6 t
+rọc	 ʐ ɔ6 k͡p
+rọi	 ʐ ɔ6 j
+rốc	 ʐ o5 k͡p
+rối	 ʐ o5 j
+rốn	 ʐ o5 n
+rống	 ʐ o5 ŋ͡m
+rốp	 ʐ o5 p
+rốt	 ʐ o5 t
+rồ	 ʐ o2
+rồi	 ʐ o2 j
+rồng	 ʐ o2 ŋ͡m
+rổ	 ʐ o4
+rỗi	 ʐ o3 j
+rỗng	 ʐ o3 ŋ͡m
+rộ	 ʐ o6
+rộn	 ʐ o6 n
+rộng	 ʐ o6 ŋ͡m
+rớt	 ʐ ɤ5 t
+rờ	 ʐ ɤ2
+rời	 ʐ ɤ2 j
+rởn	 ʐ ɤ4 n
+rỡ	 ʐ ɤ3
+rợn	 ʐ ɤ6 n
+rợp	 ʐ ɤ6 p
+rục	 ʐ u6 k͡p
+rụi	 ʐ u6 j
+rụng	 ʐ u6 ŋ͡m
+rụt	 ʐ u6 t
+rủ	 ʐ u4
+rủa	 ʐ uə4
+rủi	 ʐ u4 j
+rủn	 ʐ u4 n
+rứt	 ʐ ɯ5 t
+rừng	 ʐ ɯ2 ŋ
+rửa	 ʐ ɯə4
+rữa	 ʐ ɯə3
+rực	 ʐ ɯ6 k
+sa	 ʂ a1
+sai	 ʂ a1 j
+sam	 ʂ a1 m
+san	 ʂ a1 n
+sang	 ʂ a1 ŋ
+sanh	 ʂ ɛ1 ɲ
+sao	 ʂ a1 w
+sau	 ʂ ă1 w
+say	 ʂ ă1 j
+se	 ʂ ɛ1
+sem	 ʂ ɛ1 m
+sen	 ʂ ɛ1 n
+si	 ʂ i1
+sia	 ʂ iə1
+sim	 ʂ i1 m
+sin	 ʂ i1 n
+sinh	 ʂ i1 ɲ
+siêng	 ʂ iə1 ŋ
+siêu	 ʂ iə1 w
+siếc	 ʂ iə5 k
+siếp	 ʂ iə5 p
+siết	 ʂ iə5 t
+so	 ʂ ɔ1
+soa	 ʂw ʷa1
+soi	 ʂ ɔ1 j
+son	 ʂ ɔ1 n
+song	 ʂ ɔ1 ŋ͡m
+soát	 ʂw ʷa5 t
+soạn	 ʂw ʷa6 n
+soạng	 ʂw ʷa6 ŋ
+su	 ʂ u1
+sua	 ʂ uə1
+sui	 ʂ u1 j
+sum	 ʂ u1 m
+sun	 ʂ u1 n
+sung	 ʂ u1 ŋ͡m
+suy	 ʂw ʷi1
+suê	 ʂw ʷe1
+suông	 ʂ uə1 ŋ
+suýt	 ʂw ʷi5 t
+suất	 ʂw ʷɤ̆5 t
+suối	 ʂ uə5 j
+suốt	 ʂ uə5 t
+sy	 ʂ i1
+sà	 ʂ a2
+sài	 ʂ a2 j
+sàn	 ʂ a2 n
+sàng	 ʂ a2 ŋ
+sành	 ʂ ɛ2 ɲ
+sào	 ʂ a2 w
+sá	 ʂ a5
+sác	 ʂ a5 k
+sách	 ʂ a5 tʃ
+sáng	 ʂ a5 ŋ
+sánh	 ʂ ɛ5 ɲ
+sáo	 ʂ a5 w
+sáp	 ʂ a5 p
+sát	 ʂ a5 t
+sáu	 ʂ ă5 w
+sân	 ʂ ɤ̆1 n
+sâu	 ʂ ɤ̆1 w
+séc	 ʂ ɛ5 k
+sém	 ʂ ɛ5 m
+sép	 ʂ ɛ5 p
+sét	 ʂ ɛ5 t
+sê	 ʂ e1
+sên	 ʂ e1 n
+sình	 ʂ i2 ɲ
+sính	 ʂ i5 ɲ
+síp	 ʂ i5 p
+sít	 ʂ i5 t
+sòm	 ʂ ɔ2 m
+sòng	 ʂ ɔ2 ŋ͡m
+sóc	 ʂ ɔ5 k͡p
+sói	 ʂ ɔ5 j
+sóng	 ʂ ɔ5 ŋ͡m
+sót	 ʂ ɔ5 t
+sô	 ʂ o1
+sôi	 ʂ o1 j
+sôm	 ʂ o1 m
+sôn	 ʂ o1 n
+sông	 ʂ o1 ŋ͡m
+sùi	 ʂ u2 j
+sùng	 ʂ u2 ŋ͡m
+súc	 ʂ u5 k͡p
+súp	 ʂ u5 p
+sút	 ʂ u5 t
+săn	 ʂ ă1 n
+sĩ	 ʂ i3
+sũng	 ʂ u3 ŋ͡m
+sơ	 ʂ ɤ1
+sơn	 ʂ ɤ1 n
+sư	 ʂ ɯ1
+sưa	 ʂ ɯə1
+sưng	 ʂ ɯ1 ŋ
+sưu	 ʂ ɯ1 w
+sương	 ʂ ɯə1 ŋ
+sướng	 ʂ ɯə5 ŋ
+sườn	 ʂ ɯə2 n
+sưởi	 ʂ ɯə4 j
+sượt	 ʂ ɯə6 t
+sạch	 ʂ a6 tʃ
+sạm	 ʂ a6 m
+sạo	 ʂ a6 w
+sạt	 ʂ a6 t
+sả	 ʂ a4
+sải	 ʂ a4 j
+sản	 ʂ a4 n
+sảng	 ʂ a4 ŋ
+sảnh	 ʂ ɛ4 ɲ
+sảo	 ʂ a4 w
+sảy	 ʂ ă4 j
+sấm	 ʂ ɤ̆5 m
+sấn	 ʂ ɤ̆5 n
+sấp	 ʂ ɤ̆5 p
+sầm	 ʂ ɤ̆2 m
+sầu	 ʂ ɤ̆2 w
+sẩy	 ʂ ɤ̆4 j
+sẫm	 ʂ ɤ̆3 m
+sậm	 ʂ ɤ̆6 m
+sập	 ʂ ɤ̆6 p
+sậy	 ʂ ɤ̆6 j
+sắc	 ʂ ă5 k
+sắm	 ʂ ă5 m
+sắng	 ʂ ă5 ŋ
+sắp	 ʂ ă5 p
+sắt	 ʂ ă5 t
+sẵn	 ʂ ă3 n
+sặc	 ʂ ă6 k
+sẹo	 ʂ eo6
+sẻ	 ʂ ɛ4
+sẽ	 ʂ ɛ3
+sếch	 ʂ e5 tʃ
+sết	 ʂ e5 t
+sếu	 ʂ ɛu5
+sệt	 ʂ e6 t
+sỉ	 ʂ i4
+sọ	 ʂ ɔ6
+sọc	 ʂ ɔ6 k͡p
+sỏi	 ʂ ɔ4 j
+số	 ʂ o5
+sống	 ʂ o5 ŋ͡m
+sốt	 ʂ o5 t
+sồi	 ʂ o2 j
+sổ	 ʂ o4
+sỗ	 ʂ o3
+sộ	 ʂ o6
+sớ	 ʂ ɤ5
+sớm	 ʂ ɤ5 m
+sớt	 ʂ ɤ5 t
+sờ	 ʂ ɤ2
+sờn	 ʂ ɤ2 n
+sở	 ʂ ɤ4
+sỡ	 ʂ ɤ3
+sợ	 ʂ ɤ6
+sợi	 ʂ ɤ6 j
+sục	 ʂ u6 k͡p
+sụm	 ʂ u6 m
+sụp	 ʂ u6 p
+sụt	 ʂ u6 t
+sủa	 ʂ uə4
+sủi	 ʂ u4 j
+sủng	 ʂ u4 ŋ͡m
+sứ	 ʂ ɯ5
+sức	 ʂ ɯ5 k
+sứt	 ʂ ɯ5 t
+sừng	 ʂ ɯ2 ŋ
+sử	 ʂ ɯ4
+sửa	 ʂ ɯə4
+sửng	 ʂ ɯ4 ŋ
+sữa	 ʂ ɯə3
+sững	 ʂ ɯ3 ŋ
+sự	 ʂ ɯ6
+sực	 ʂ ɯ6 k
+ta	 t a1
+tai	 t a1 j
+tam	 t a1 m
+tan	 t a1 n
+tang	 t a1 ŋ
+tanh	 t ɛ1 ɲ
+tao	 t a1 w
+tay	 t ă1 j
+te	 t ɛ1
+tem	 t ɛ1 m
+ten	 t ɛ1 n
+teo	 t eo1
+tha	 tʰ a1
+thai	 tʰ a1 j
+tham	 tʰ a1 m
+than	 tʰ a1 n
+thang	 tʰ a1 ŋ
+thanh	 tʰ ɛ1 ɲ
+thao	 tʰ a1 w
+thay	 tʰ ă1 j
+the	 tʰ ɛ1
+them	 tʰ ɛ1 m
+then	 tʰ ɛ1 n
+theo	 tʰ eo1
+thi	 tʰ i1
+thia	 tʰ iə1
+thim	 tʰ i1 m
+thin	 tʰ i1 n
+thinh	 tʰ i1 ɲ
+thiên	 tʰ iə1 n
+thiêng	 tʰ iə1 ŋ
+thiêu	 tʰ iə1 w
+thiếc	 tʰ iə5 k
+thiến	 tʰ iə5 n
+thiếp	 tʰ iə5 p
+thiết	 tʰ iə5 t
+thiếu	 tʰ iə5 w
+thiểu	 tʰ iə4 w
+thiện	 tʰ iə6 n
+thiệp	 tʰ iə6 p
+thiệt	 tʰ iə6 t
+thiệu	 tʰ iə6 w
+thoa	 tʰw ʷa1
+thoi	 tʰ ɔ1 j
+thom	 tʰ ɔ1 m
+thon	 tʰ ɔ1 n
+thong	 tʰ ɔ1 ŋ͡m
+thoái	 tʰw a5 j
+thoáng	 tʰw ʷa5 ŋ
+thoát	 tʰw ʷa5 t
+thoăn	 tʰw ʷă1 n
+thoại	 tʰw a6 j
+thoạt	 tʰw ʷa6 t
+thoả	 tʰw ʷa4
+thoải	 tʰw a4 j
+thoảng	 tʰw ʷa4 ŋ
+thoắt	 tʰw ʷă5 t
+thu	 tʰ u1
+thua	 tʰ uə1
+thun	 tʰ u1 n
+thung	 tʰ u1 ŋ͡m
+thuyên	 tʰw ʷiə1 n
+thuyết	 tʰw ʷiə5 t
+thuyền	 tʰw ʷiə2 n
+thuê	 tʰw ʷe1
+thuần	 tʰw ʷɤ̆2 n
+thuẫn	 tʰw ʷɤ̆3 n
+thuận	 tʰw ʷɤ̆6 n
+thuật	 tʰw ʷɤ̆6 t
+thuế	 tʰw ʷe5
+thuốc	 tʰ uə5 k
+thuồng	 tʰ uə2 ŋ
+thuộc	 tʰ uə6 k
+thuở	 tʰ uə4
+thà	 tʰ a2
+thành	 tʰ ɛ2 ɲ
+thào	 tʰ a2 w
+thác	 tʰ a5 k
+thách	 tʰ a5 tʃ
+thái	 tʰ a5 j
+thám	 tʰ a5 m
+thán	 tʰ a5 n
+tháng	 tʰ a5 ŋ
+thánh	 tʰ ɛ5 ɲ
+tháo	 tʰ a5 w
+tháp	 tʰ a5 p
+thát	 tʰ a5 t
+thâm	 tʰ ɤ̆1 m
+thân	 tʰ ɤ̆1 n
+thâu	 tʰ ɤ̆1 w
+thây	 tʰ ɤ̆1 j
+thãi	 tʰ a3 j
+thèm	 tʰ ɛ2 m
+thép	 tʰ ɛ5 p
+thét	 tʰ ɛ5 t
+thê	 tʰ e1
+thêm	 tʰ e1 m
+thên	 tʰ e1 n
+thênh	 tʰ e1 ɲ
+thêu	 tʰ ɛu1
+thì	 tʰ i2
+thìa	 tʰ iə2
+thình	 tʰ i2 ɲ
+thí	 tʰ i5
+thích	 tʰ i5 tʃ
+thím	 tʰ i5 m
+thính	 tʰ i5 ɲ
+thít	 tʰ i5 t
+thò	 tʰ ɔ2
+thòi	 tʰ ɔ2 j
+thòng	 tʰ ɔ2 ŋ͡m
+thóa	 tʰw ʷa5
+thóc	 tʰ ɔ5 k͡p
+thói	 tʰ ɔ5 j
+thóp	 tʰ ɔ5 p
+thót	 tʰ ɔ5 t
+thô	 tʰ o1
+thôi	 tʰ o1 j
+thôn	 tʰ o1 n
+thông	 tʰ o1 ŋ͡m
+thù	 tʰ u2
+thùa	 tʰ uə2
+thùng	 tʰ u2 ŋ͡m
+thú	 tʰ u5
+thúc	 tʰ u5 k͡p
+thúng	 tʰ u5 ŋ͡m
+thúy	 tʰ u5 j
+thăm	 tʰ ă1 m
+thăng	 tʰ ă1 ŋ
+thũng	 tʰ u3 ŋ͡m
+thơ	 tʰ ɤ1
+thơi	 tʰ ɤ1 j
+thơm	 tʰ ɤ1 m
+thư	 tʰ ɯ1
+thưa	 tʰ ɯə1
+thương	 tʰ ɯə1 ŋ
+thước	 tʰ ɯə5 k
+thường	 tʰ ɯə2 ŋ
+thưởng	 tʰ ɯə4 ŋ
+thượng	 tʰ ɯə6 ŋ
+thượt	 tʰ ɯə6 t
+thạch	 tʰ a6 tʃ
+thạnh	 tʰ ɛ6 ɲ
+thạo	 tʰ a6 w
+thạt	 tʰ a6 t
+thả	 tʰ a4
+thải	 tʰ a4 j
+thảm	 tʰ a4 m
+thản	 tʰ a4 n
+thảnh	 tʰ ɛ4 ɲ
+thảo	 tʰ a4 w
+thảy	 tʰ ă4 j
+thấm	 tʰ ɤ̆5 m
+thấp	 tʰ ɤ̆5 p
+thất	 tʰ ɤ̆5 t
+thấu	 tʰ ɤ̆5 w
+thấy	 tʰ ɤ̆5 j
+thầm	 tʰ ɤ̆2 m
+thần	 tʰ ɤ̆2 n
+thầy	 tʰ ɤ̆2 j
+thẩm	 tʰ ɤ̆4 m
+thẩn	 tʰ ɤ̆4 n
+thẫm	 tʰ ɤ̆3 m
+thẫn	 tʰ ɤ̆3 n
+thậm	 tʰ ɤ̆6 m
+thận	 tʰ ɤ̆6 n
+thập	 tʰ ɤ̆6 p
+thật	 tʰ ɤ̆6 t
+thắc	 tʰ ă5 k
+thắm	 tʰ ă5 m
+thắn	 tʰ ă5 n
+thắng	 tʰ ă5 ŋ
+thắp	 tʰ ă5 p
+thắt	 tʰ ă5 t
+thằn	 tʰ ă2 n
+thằng	 tʰ ă2 ŋ
+thẳm	 tʰ ă4 m
+thẳng	 tʰ ă4 ŋ
+thặng	 tʰ ă6 ŋ
+thẹn	 tʰ ɛ6 n
+thẹt	 tʰ ɛ6 t
+thẻ	 tʰ ɛ4
+thế	 tʰ e5
+thếp	 tʰ e5 p
+thết	 tʰ e5 t
+thề	 tʰ e2
+thềm	 tʰ e2 m
+thều	 tʰ ɛu2
+thể	 tʰ e4
+thểu	 tʰ ɛu4
+thệ	 tʰ e6
+thỉnh	 tʰ i4 ɲ
+thỉu	 tʰ i4 w
+thị	 tʰ i6
+thịnh	 tʰ i6 ɲ
+thịt	 tʰ i6 t
+thọ	 tʰ ɔ6
+thọc	 tʰ ɔ6 k͡p
+thỏ	 tʰ ɔ4
+thỏa	 tʰw ʷa4
+thỏi	 tʰ ɔ4 j
+thố	 tʰ o5
+thối	 tʰ o5 j
+thốn	 tʰ o5 n
+thống	 tʰ o5 ŋ͡m
+thốt	 tʰ o5 t
+thổ	 tʰ o4
+thổi	 tʰ o4 j
+thổn	 tʰ o4 n
+thớt	 tʰ ɤ5 t
+thờ	 tʰ ɤ2
+thời	 tʰ ɤ2 j
+thở	 tʰ ɤ4
+thợ	 tʰ ɤ6
+thụ	 tʰ u6
+thục	 tʰ u6 k͡p
+thụt	 tʰ u6 t
+thủ	 tʰ u4
+thủng	 tʰ u4 ŋ͡m
+thủy	 tʰ u4 j
+thứ	 tʰ ɯ5
+thức	 tʰ ɯ5 k
+thừa	 tʰ ɯə2
+thừng	 tʰ ɯ2 ŋ
+thử	 tʰ ɯ4
+thửa	 tʰ ɯə4
+thự	 tʰ ɯ6
+thực	 tʰ ɯ6 k
+ti	 t i1
+tia	 t iə1
+tim	 t i1 m
+tin	 t i1 n
+tinh	 t i1 ɲ
+tiu	 t i1 w
+tiêm	 t iə1 m
+tiên	 t iə1 n
+tiêu	 t iə1 w
+tiếc	 t iə5 k
+tiếm	 t iə5 m
+tiến	 t iə5 n
+tiếng	 t iə5 ŋ
+tiếp	 t iə5 p
+tiết	 t iə5 t
+tiếu	 t iə5 w
+tiềm	 t iə2 m
+tiền	 t iə2 n
+tiều	 t iə2 w
+tiểu	 t iə4 w
+tiễn	 t iə3 n
+tiệc	 t iə6 k
+tiện	 t iə6 n
+tiệt	 t iə6 t
+to	 t ɔ1
+toa	 tw ʷa1
+toan	 tw ʷa1 n
+toang	 tw ʷa1 ŋ
+toàn	 tw ʷa2 n
+toái	 tw a5 j
+toán	 tw ʷa5 n
+toát	 tw ʷa5 t
+toạc	 tw ʷa6 k
+toại	 tw a6 j
+tra	 ʈ a1
+trai	 ʈ a1 j
+trang	 ʈ a1 ŋ
+tranh	 ʈ ɛ1 ɲ
+trao	 ʈ a1 w
+trau	 ʈ ă1 w
+treo	 ʈ eo1
+tri	 ʈ i1
+trinh	 ʈ i1 ɲ
+triu	 ʈ i1 w
+triết	 ʈ iə5 t
+triền	 ʈ iə2 n
+triều	 ʈ iə2 w
+triển	 ʈ iə4 n
+triệt	 ʈ iə6 t
+triệu	 ʈ iə6 w
+tro	 ʈ ɔ1
+trong	 ʈ ɔ1 ŋ͡m
+tru	 ʈ u1
+trung	 ʈ u1 ŋ͡m
+truy	 ʈw ʷi1
+truyền	 ʈw ʷiə2 n
+truyện	 ʈw ʷiə6 n
+truân	 ʈw ʷɤ̆1 n
+truất	 ʈw ʷɤ̆5 t
+truồng	 ʈ uə2 ŋ
+try	 ʈ i1
+trà	 ʈ a2
+tràn	 ʈ a2 n
+tràng	 ʈ a2 ŋ
+trào	 ʈ a2 w
+trá	 ʈ a5
+trác	 ʈ a5 k
+trách	 ʈ a5 tʃ
+trái	 ʈ a5 j
+trám	 ʈ a5 m
+trán	 ʈ a5 n
+tráng	 ʈ a5 ŋ
+tránh	 ʈ ɛ5 ɲ
+tráo	 ʈ a5 w
+tráp	 ʈ a5 p
+trâm	 ʈ ɤ̆1 m
+trân	 ʈ ɤ̆1 n
+trâu	 ʈ ɤ̆1 w
+trèo	 ʈ eo2
+tréo	 ʈ eo5
+trép	 ʈ ɛ5 p
+trét	 ʈ ɛ5 t
+trên	 ʈ e1 n
+trêu	 ʈ ɛu1
+trì	 ʈ i2
+trình	 ʈ i2 ɲ
+trìu	 ʈ i2 w
+trí	 ʈ i5
+trích	 ʈ i5 tʃ
+trò	 ʈ ɔ2
+tròn	 ʈ ɔ2 n
+tròng	 ʈ ɔ2 ŋ͡m
+tróc	 ʈ ɔ5 k͡p
+trói	 ʈ ɔ5 j
+trót	 ʈ ɔ5 t
+trô	 ʈ o1
+trôi	 ʈ o1 j
+trôn	 ʈ o1 n
+trông	 ʈ o1 ŋ͡m
+trù	 ʈ u2
+trùm	 ʈ u2 m
+trùng	 ʈ u2 ŋ͡m
+trú	 ʈ u5
+trúc	 ʈ u5 k͡p
+trúng	 ʈ u5 ŋ͡m
+trút	 ʈ u5 t
+trăm	 ʈ ă1 m
+trăn	 ʈ ă1 n
+trăng	 ʈ ă1 ŋ
+trĩ	 ʈ i3
+trĩu	 ʈ i3 w
+trũng	 ʈ u3 ŋ͡m
+trơ	 ʈ ɤ1
+trơn	 ʈ ɤ1 n
+trưa	 ʈ ɯə1
+trưng	 ʈ ɯ1 ŋ
+trương	 ʈ ɯə1 ŋ
+trước	 ʈ ɯə5 k
+trướng	 ʈ ɯə5 ŋ
+trườn	 ʈ ɯə2 n
+trường	 ʈ ɯə2 ŋ
+trưởng	 ʈ ɯə4 ŋ
+trượng	 ʈ ɯə6 ŋ
+trượt	 ʈ ɯə6 t
+trại	 ʈ a6 j
+trạm	 ʈ a6 m
+trạng	 ʈ a6 ŋ
+trả	 ʈ a4
+trải	 ʈ a4 j
+trảm	 ʈ a4 m
+trấn	 ʈ ɤ̆5 n
+trấu	 ʈ ɤ̆5 w
+trầm	 ʈ ɤ̆2 m
+trần	 ʈ ɤ̆2 n
+trầy	 ʈ ɤ̆2 j
+trẩy	 ʈ ɤ̆4 j
+trẫm	 ʈ ɤ̆3 m
+trận	 ʈ ɤ̆6 n
+trật	 ʈ ɤ̆6 t
+trắc	 ʈ ă5 k
+trắng	 ʈ ă5 ŋ
+trằn	 ʈ ă2 n
+trặc	 ʈ ă6 k
+trẹo	 ʈ eo6
+trẻ	 ʈ ɛ4
+trẻo	 ʈ eo4
+trẽn	 ʈ ɛ3 n
+trề	 ʈ e2
+trễ	 ʈ e3
+trệ	 ʈ e6
+trị	 ʈ i6
+trịa	 ʈ iə6
+trọ	 ʈ ɔ6
+trọc	 ʈ ɔ6 k͡p
+trọi	 ʈ ɔ6 j
+trọn	 ʈ ɔ6 n
+trọng	 ʈ ɔ6 ŋ͡m
+trọt	 ʈ ɔ6 t
+trố	 ʈ o5
+trốc	 ʈ o5 k͡p
+trối	 ʈ o5 j
+trốn	 ʈ o5 n
+trống	 ʈ o5 ŋ͡m
+trốt	 ʈ o5 t
+trồ	 ʈ o2
+trồng	 ʈ o2 ŋ͡m
+trổ	 ʈ o4
+trổi	 ʈ o4 j
+trỗi	 ʈ o3 j
+trội	 ʈ o6 j
+trộm	 ʈ o6 m
+trộn	 ʈ o6 n
+trớn	 ʈ ɤ5 n
+trời	 ʈ ɤ2 j
+trở	 ʈ ɤ4
+trợ	 ʈ ɤ6
+trợn	 ʈ ɤ6 n
+trợt	 ʈ ɤ6 t
+trụ	 ʈ u6
+trụa	 ʈ uə6
+trục	 ʈ u6 k͡p
+trụi	 ʈ u6 j
+trụy	 ʈ u6 j
+trứng	 ʈ ɯ5 ŋ
+trừ	 ʈ ɯ2
+trừng	 ʈ ɯ2 ŋ
+trữ	 ʈ ɯ3
+trực	 ʈ ɯ6 k
+tu	 t u1
+tua	 t uə1
+tung	 t u1 ŋ͡m
+tuy	 tw ʷi1
+tuyên	 tw ʷiə1 n
+tuyến	 tw ʷiə5 n
+tuyết	 tw ʷiə5 t
+tuyền	 tw ʷiə2 n
+tuyển	 tw ʷiə4 n
+tuyệt	 tw ʷiə6 t
+tuân	 tw ʷɤ̆1 n
+tuôn	 t uə1 n
+tuông	 t uə1 ŋ
+tuấn	 tw ʷɤ̆5 n
+tuần	 tw ʷɤ̆2 n
+tuận	 tw ʷɤ̆6 n
+tuế	 tw ʷe5
+tuếch	 tw ʷe5 tʃ
+tuệ	 tw ʷe6
+tuốt	 t uə5 t
+tuồng	 t uə2 ŋ
+tuổi	 t uə4 j
+tuột	 t uə6 t
+tuỳ	 t u2 j
+ty	 t i1
+tà	 t a2
+tài	 t a2 j
+tàn	 t a2 n
+tàng	 t a2 ŋ
+tành	 t ɛ2 ɲ
+tàu	 t ă2 w
+tày	 t ă2 j
+tá	 t a5
+tác	 t a5 k
+tách	 t a5 tʃ
+tái	 t a5 j
+tám	 t a5 m
+tán	 t a5 n
+táng	 t a5 ŋ
+táo	 t a5 w
+táp	 t a5 p
+tát	 t a5 t
+tâm	 t ɤ̆1 m
+tân	 t ɤ̆1 n
+tâng	 t ɤ̆1 ŋ
+tâu	 t ɤ̆1 w
+tây	 t ɤ̆1 j
+tã	 t a3
+té	 t ɛ5
+tê	 t e1
+têm	 t e1 m
+tên	 t e1 n
+tì	 t i2
+tìm	 t i2 m
+tình	 t i2 ɲ
+tí	 t i5
+tía	 t iə5
+tích	 t i5 tʃ
+tím	 t i5 m
+tín	 t i5 n
+tính	 t i5 ɲ
+típ	 t i5 p
+tít	 t i5 t
+tò	 t ɔ2
+tòa	 tw ʷa2
+tòi	 t ɔ2 j
+tòng	 t ɔ2 ŋ͡m
+tóc	 t ɔ5 k͡p
+tóe	 tw ʷɛ5
+tóm	 t ɔ5 m
+tóp	 t ɔ5 p
+tót	 t ɔ5 t
+tô	 t o1
+tôi	 t o1 j
+tôn	 t o1 n
+tông	 t o1 ŋ͡m
+tù	 t u2
+tùm	 t u2 m
+tùng	 t u2 ŋ͡m
+tùy	 t u2 j
+tú	 t u5
+túc	 t u5 k͡p
+túi	 t u5 j
+túm	 t u5 m
+túng	 t u5 ŋ͡m
+túp	 t u5 p
+tút	 t u5 t
+túy	 t u5 j
+tăm	 t ă1 m
+tăng	 t ă1 ŋ
+tĩnh	 t i3 ɲ
+tĩu	 t i3 w
+tơ	 t ɤ1
+tơi	 t ɤ1 j
+tư	 t ɯ1
+tưa	 t ɯə1
+tưng	 t ɯ1 ŋ
+tươi	 t ɯə1 j
+tươm	 t ɯə1 m
+tương	 t ɯə1 ŋ
+tước	 t ɯə5 k
+tưới	 t ɯə5 j
+tướng	 t ɯə5 ŋ
+tường	 t ɯə2 ŋ
+tưởi	 t ɯə4 j
+tưởng	 t ɯə4 ŋ
+tược	 t ɯə6 k
+tượng	 t ɯə6 ŋ
+tạ	 t a6
+tạc	 t a6 k
+tại	 t a6 j
+tạm	 t a6 m
+tạng	 t a6 ŋ
+tạnh	 t ɛ6 ɲ
+tạo	 t a6 w
+tạp	 t a6 p
+tạt	 t a6 t
+tả	 t a4
+tải	 t a4 j
+tản	 t a4 n
+tảng	 t a4 ŋ
+tảo	 t a4 w
+tấc	 t ɤ̆5 k
+tấm	 t ɤ̆5 m
+tấn	 t ɤ̆5 n
+tấp	 t ɤ̆5 p
+tất	 t ɤ̆5 t
+tấu	 t ɤ̆5 w
+tầm	 t ɤ̆2 m
+tầng	 t ɤ̆2 ŋ
+tẩm	 t ɤ̆4 m
+tẩu	 t ɤ̆4 w
+tẩy	 t ɤ̆4 j
+tận	 t ɤ̆6 n
+tập	 t ɤ̆6 p
+tật	 t ɤ̆6 t
+tậu	 t ɤ̆6 w
+tắc	 t ă5 k
+tắm	 t ă5 m
+tắn	 t ă5 n
+tắp	 t ă5 p
+tắt	 t ă5 t
+tằm	 t ă2 m
+tặng	 t ă6 ŋ
+tẹt	 t ɛ6 t
+tẻ	 t ɛ4
+tẽ	 t ɛ3
+tế	 t e5
+tết	 t e5 t
+tề	 t e2
+tể	 t e4
+tệ	 t e6
+tỉ	 t i4
+tỉa	 t iə4
+tỉnh	 t i4 ɲ
+tỉu	 t i4 w
+tị	 t i6
+tịch	 t i6 tʃ
+tịnh	 t i6 ɲ
+tọa	 tw ʷa6
+tỏ	 t ɔ4
+tỏa	 tw ʷa4
+tỏi	 t ɔ4 j
+tố	 t o5
+tốc	 t o5 k͡p
+tối	 t o5 j
+tốn	 t o5 n
+tống	 t o5 ŋ͡m
+tốt	 t o5 t
+tồi	 t o2 j
+tồn	 t o2 n
+tổ	 t o4
+tổn	 t o4 n
+tổng	 t o4 ŋ͡m
+tộc	 t o6 k͡p
+tội	 t o6 j
+tột	 t o6 t
+tớ	 t ɤ5
+tới	 t ɤ5 j
+tờ	 t ɤ2
+tởm	 t ɤ4 m
+tợn	 t ɤ6 n
+tụ	 t u6
+tục	 t u6 k͡p
+tụng	 t u6 ŋ͡m
+tụt	 t u6 t
+tụy	 t u6 j
+tủ	 t u4
+tủi	 t u4 j
+tủy	 t u4 j
+tứ	 t ɯ5
+tức	 t ɯ5 k
+từ	 t ɯ2
+từng	 t ɯ2 ŋ
+tử	 t ɯ4
+tửu	 t ɯ4 w
+tự	 t ɯ6
+tựa	 t ɯə6
+tựu	 t ɯ6 w
+tỳ	 t i2
+tỵ	 t i6
+tỷ	 t i4
+um	 u1 m
+un	 u1 n
+ung	 u1 ŋ͡m
+uy	 w ʷi1
+uyên	 w ʷiə1 n
+uyển	 w ʷiə4 n
+uất	 w ʷɤ̆5 t
+uế	 w ʷe5
+uốn	 uə5 n
+uống	 uə5 ŋ
+uổng	 uə4 ŋ
+uỷ	 w ʷi4
+va	 v a1
+vai	 v a1 j
+van	 v a1 n
+vang	 v a1 ŋ
+vanh	 v ɛ1 ɲ
+vay	 v ă1 j
+ve	 v ɛ1
+ven	 v ɛ1 n
+vi	 v i1
+via	 v iə1
+vim	 v i1 m
+vinh	 v i1 ɲ
+viên	 v iə1 n
+viếng	 v iə5 ŋ
+viết	 v iə5 t
+viền	 v iə2 n
+viển	 v iə4 n
+viễn	 v iə3 n
+việc	 v iə6 k
+viện	 v iə6 n
+việt	 v iə6 t
+vo	 v ɔ1
+voan	 vw ʷa1 n
+voi	 v ɔ1 j
+von	 v ɔ1 n
+vong	 v ɔ1 ŋ͡m
+vu	 v u1
+vua	 v uə1
+vui	 v u1 j
+vun	 v u1 n
+vung	 v u1 ŋ͡m
+vuông	 v uə1 ŋ
+vuốt	 v uə5 t
+và	 v a2
+vài	 v a2 j
+vàn	 v a2 n
+vàng	 v a2 ŋ
+vành	 v ɛ2 ɲ
+vào	 v a2 w
+vá	 v a5
+vác	 v a5 k
+vách	 v a5 tʃ
+vái	 v a5 j
+ván	 v a5 n
+váng	 v a5 ŋ
+váo	 v a5 w
+vát	 v a5 t
+váy	 v ă5 j
+vân	 v ɤ̆1 n
+vâng	 v ɤ̆1 ŋ
+vây	 v ɤ̆1 j
+vã	 v a3
+vãi	 v a3 j
+vãn	 v a3 n
+vãng	 v a3 ŋ
+vè	 v ɛ2
+vé	 v ɛ5
+vén	 v ɛ5 n
+vét	 v ɛ5 t
+vê	 v e1
+vênh	 v e1 ɲ
+vì	 v i2
+ví	 v i5
+vía	 v iə5
+vít	 v i5 t
+víu	 v i5 w
+vò	 v ɔ2
+vòm	 v ɔ2 m
+vòng	 v ɔ2 ŋ͡m
+vó	 v ɔ5
+vóc	 v ɔ5 k͡p
+vót	 v ɔ5 t
+vô	 v o1
+vôi	 v o1 j
+vông	 v o1 ŋ͡m
+võ	 v ɔ3
+võng	 v ɔ3 ŋ͡m
+vù	 v u2
+vùa	 v uə2
+vùi	 v u2 j
+vùn	 v u2 n
+vùng	 v u2 ŋ͡m
+vú	 v u5
+vút	 v u5 t
+văn	 v ă1 n
+văng	 v ă1 ŋ
+vĩ	 v i3
+vĩnh	 v i3 ɲ
+vũ	 v u3
+vũng	 v u3 ŋ͡m
+vơ	 v ɤ1
+vơi	 v ɤ1 j
+vươn	 v ɯə1 n
+vương	 v ɯə1 ŋ
+vướng	 v ɯə5 ŋ
+vườn	 v ɯə2 n
+vượng	 v ɯə6 ŋ
+vượt	 v ɯə6 t
+vạ	 v a6
+vạc	 v a6 k
+vạch	 v a6 tʃ
+vại	 v a6 j
+vạm	 v a6 m
+vạn	 v a6 n
+vạng	 v a6 ŋ
+vạt	 v a6 t
+vạy	 v ă6 j
+vả	 v a4
+vải	 v a4 j
+vảng	 v a4 ŋ
+vảy	 v ă4 j
+vấn	 v ɤ̆5 n
+vấp	 v ɤ̆5 p
+vất	 v ɤ̆5 t
+vấy	 v ɤ̆5 j
+vần	 v ɤ̆2 n
+vầng	 v ɤ̆2 ŋ
+vầy	 v ɤ̆2 j
+vẩn	 v ɤ̆4 n
+vẩy	 v ɤ̆4 j
+vẫn	 v ɤ̆3 n
+vẫy	 v ɤ̆3 j
+vận	 v ɤ̆6 n
+vật	 v ɤ̆6 t
+vậy	 v ɤ̆6 j
+vắn	 v ă5 n
+vắng	 v ă5 ŋ
+vắt	 v ă5 t
+vằn	 v ă2 n
+vẳng	 v ă4 ŋ
+vặn	 v ă6 n
+vặt	 v ă6 t
+vẹn	 v ɛ6 n
+vẹo	 v eo6
+vẹt	 v ɛ6 t
+vẻ	 v ɛ4
+vẽ	 v ɛ3
+vết	 v e5 t
+về	 v e2
+vệ	 v e6
+vện	 v e6 n
+vệt	 v e6 t
+vỉ	 v i4
+vị	 v i6
+vịn	 v i6 n
+vịnh	 v i6 ɲ
+vịt	 v i6 t
+vọ	 v ɔ6
+vọng	 v ɔ6 ŋ͡m
+vọt	 v ɔ6 t
+vỏ	 v ɔ4
+vỏn	 v ɔ4 n
+vốc	 v o5 k͡p
+vốn	 v o5 n
+vốt	 v o5 t
+vồ	 v o2
+vồng	 v o2 ŋ͡m
+vỗ	 v o3
+vội	 v o6 j
+vớ	 v ɤ5
+với	 v ɤ5 j
+vớt	 v ɤ5 t
+vờ	 v ɤ2
+vời	 v ɤ2 j
+vở	 v ɤ4
+vỡ	 v ɤ3
+vợ	 v ɤ6
+vợi	 v ɤ6 j
+vụ	 v u6
+vụn	 v u6 n
+vụng	 v u6 ŋ͡m
+vụt	 v u6 t
+vức	 v ɯ5 k
+vứt	 v ɯ5 t
+vừa	 v ɯə2
+vững	 v ɯ3 ŋ
+vựa	 v ɯə6
+vực	 v ɯ6 k
+xa	 s a1
+xai	 s a1 j
+xam	 s a1 m
+xan	 s a1 n
+xang	 s a1 ŋ
+xanh	 s ɛ1 ɲ
+xao	 s a1 w
+xay	 s ă1 j
+xe	 s ɛ1
+xem	 s ɛ1 m
+xen	 s ɛ1 n
+xi	 s i1
+xia	 s iə1
+xim	 s i1 m
+xin	 s i1 n
+xinh	 s i1 ɲ
+xiên	 s iə1 n
+xiêu	 s iə1 w
+xiếc	 s iə5 k
+xiết	 s iə5 t
+xiềng	 s iə2 ŋ
+xiểm	 s iə4 m
+xoa	 sw ʷa1
+xoay	 sw ă1 j
+xong	 s ɔ1 ŋ͡m
+xoá	 sw ʷa5
+xoáy	 sw ă5 j
+xoè	 sw ʷɛ2
+xoắn	 sw ʷă5 n
+xu	 s u1
+xua	 s uə1
+xui	 s u1 j
+xung	 s u1 ŋ͡m
+xuyên	 sw ʷiə1 n
+xuyến	 sw ʷiə5 n
+xuân	 sw ʷɤ̆1 n
+xuôi	 s uə1 j
+xuất	 sw ʷɤ̆5 t
+xuẩn	 sw ʷɤ̆4 n
+xuể	 sw ʷe4
+xuống	 s uə5 ŋ
+xuồng	 s uə2 ŋ
+xuổng	 s uə4 ŋ
+xuội	 s uə6 j
+xà	 s a2
+xài	 s a2 j
+xàm	 s a2 m
+xào	 s a2 w
+xá	 s a5
+xác	 s a5 k
+xách	 s a5 tʃ
+xám	 s a5 m
+xáo	 s a5 w
+xáp	 s a5 p
+xát	 s a5 t
+xâm	 s ɤ̆1 m
+xâu	 s ɤ̆1 w
+xây	 s ɤ̆1 j
+xã	 s a3
+xé	 s ɛ5
+xéc	 s ɛ5 k
+xén	 s ɛ5 n
+xéo	 s eo5
+xép	 s ɛ5 p
+xét	 s ɛ5 t
+xê	 s e1
+xên	 s e1 n
+xì	 s i2
+xí	 s i5
+xích	 s i5 tʃ
+xíp	 s i5 p
+xít	 s i5 t
+xòe	 sw ʷɛ2
+xó	 s ɔ5
+xóa	 sw ʷa5
+xóc	 s ɔ5 k͡p
+xóm	 s ɔ5 m
+xót	 s ɔ5 t
+xô	 s o1
+xôi	 s o1 j
+xôn	 s o1 n
+xông	 s o1 ŋ͡m
+xõa	 sw ʷa3
+xúc	 s u5 k͡p
+xúi	 s u5 j
+xúm	 s u5 m
+xúp	 s u5 p
+xăm	 s ă1 m
+xăng	 s ă1 ŋ
+xơ	 s ɤ1
+xưa	 s ɯə1
+xưng	 s ɯ1 ŋ
+xương	 s ɯə1 ŋ
+xướng	 s ɯə5 ŋ
+xược	 s ɯə6 k
+xạ	 s a6
+xạc	 s a6 k
+xạt	 s a6 t
+xả	 s a4
+xảo	 s a4 w
+xảy	 s ă4 j
+xấc	 s ɤ̆5 k
+xấp	 s ɤ̆5 p
+xấu	 s ɤ̆5 w
+xầm	 s ɤ̆2 m
+xẩm	 s ɤ̆4 m
+xắt	 s ă5 t
+xằng	 s ă2 ŋ
+xẳng	 s ă4 ŋ
+xẵng	 s ă3 ŋ
+xẹo	 s eo6
+xẻ	 s ɛ4
+xẻng	 s ɛ4 ŋ
+xế	 s e5
+xếp	 s e5 p
+xết	 s e5 t
+xỉ	 s i4
+xỉa	 s iə4
+xỉn	 s i4 n
+xỉu	 s i4 w
+xỏ	 s ɔ4
+xốc	 s o5 k͡p
+xốn	 s o5 n
+xống	 s o5 ŋ͡m
+xốp	 s o5 p
+xốt	 s o5 t
+xổ	 s o4
+xộn	 s o6 n
+xới	 s ɤ5 j
+xớm	 s ɤ5 m
+xở	 s ɤ4
+xụi	 s u6 j
+xứ	 s ɯ5
+xức	 s ɯ5 k
+xứng	 s ɯ5 ŋ
+xử	 s ɯ4
+yên	 iɛ1 n
+yêu	 iə1 w
+yếm	 iɛ5 m
+yến	 iɛ5 n
+yết	 iɛ5 t
+yếu	 iə5 w
+yểm	 iɛ4 m
+yểu	 iə4 w
+ào	 a2 w
+ác	 a5 k
+ách	 a5 tʃ
+ái	 a5 j
+ám	 a5 m
+án	 a5 n
+áng	 a5 ŋ
+ánh	 ɛ5 ɲ
+áo	 a5 w
+áp	 a5 p
+át	 a5 t
+âm	 ɤ̆1 m
+ân	 ɤ̆1 n
+âu	 ɤ̆1 w
+éc	 ɛ5 k
+én	 ɛ5 n
+ép	 ɛ5 p
+ét	 ɛ5 t
+êm	 e1 m
+ên	 e1 n
+êp	 e1 p
+ích	 i5 tʃ
+íp	 i5 p
+ít	 i5 t
+òa	 w ʷa2
+óc	 ɔ5 k͡p
+ói	 ɔ5 j
+óng	 ɔ5 ŋ͡m
+óp	 ɔ5 p
+ôi	 o1 j
+ôm	 o1 m
+ôn	 o1 n
+ông	 o1 ŋ͡m
+õng	 ɔ3 ŋ͡m
+ùm	 u2 m
+ùn	 u2 n
+úc	 u5 k͡p
+úng	 u5 ŋ͡m
+úp	 u5 p
+út	 u5 t
+ăn	 ă1 n
+đa	 d a1
+đai	 d a1 j
+đam	 d a1 m
+đan	 d a1 n
+đang	 d a1 ŋ
+đanh	 d ɛ1 ɲ
+đao	 d a1 w
+đau	 d ă1 w
+đay	 d ă1 j
+đe	 d ɛ1
+đem	 d ɛ1 m
+đen	 d ɛ1 n
+đeo	 d eo1
+đi	 d i1
+đia	 d iə1
+đim	 z i1 m
+đin	 d i1 n
+đinh	 d i1 ɲ
+điêm	 d iə1 m
+điên	 d iə1 n
+điêu	 d iə1 w
+điếc	 d iə5 k
+điếm	 d iə5 m
+điếng	 d iə5 ŋ
+điết	 d iə5 t
+điếu	 d iə5 w
+điềm	 d iə2 m
+điền	 d iə2 n
+điều	 d iə2 w
+điểm	 d iə4 m
+điển	 d iə4 n
+điểu	 d iə4 w
+điện	 d iə6 n
+điệp	 d iə6 p
+điệu	 d iə6 w
+đo	 d ɔ1
+đoan	 dw ʷa1 n
+đon	 d ɔ1 n
+đong	 d ɔ1 ŋ͡m
+đoàn	 dw ʷa2 n
+đoá	 dw ʷa5
+đoái	 dw a5 j
+đoán	 dw ʷa5 n
+đoạn	 dw ʷa6 n
+đoạt	 dw ʷa6 t
+đu	 d u1
+đua	 d uə1
+đui	 d u1 j
+đun	 d u1 n
+đuôi	 d uə1 j
+đuốc	 d uə5 k
+đuối	 d uə5 j
+đuổi	 d uə4 j
+đà	 d a2
+đài	 d a2 j
+đàm	 d a2 m
+đàn	 d a2 n
+đàng	 d a2 ŋ
+đành	 d ɛ2 ɲ
+đào	 d a2 w
+đày	 d ă2 j
+đá	 d a5
+đác	 d a5 k
+đám	 d a5 m
+đáng	 d a5 ŋ
+đánh	 d ɛ5 ɲ
+đáo	 d a5 w
+đáp	 d a5 p
+đát	 d a5 t
+đáy	 d ă5 j
+đâm	 d ɤ̆1 m
+đâu	 d ɤ̆1 w
+đây	 d ɤ̆1 j
+đã	 d a3
+đãi	 d a3 j
+đãng	 d a3 ŋ
+đè	 d ɛ2
+đèn	 d ɛ2 n
+đèo	 d eo2
+đéc	 d ɛ5 k
+đét	 d ɛ5 t
+đê	 d e1
+đêm	 d e1 m
+đên	 d e1 n
+đênh	 d e1 ɲ
+đêu	 d ɛu1
+đìa	 d iə2
+đình	 d i2 ɲ
+đích	 d i5 tʃ
+đính	 d i5 ɲ
+đíp	 d i5 p
+đít	 d i5 t
+đòi	 d ɔ2 j
+đòn	 d ɔ2 n
+đòng	 d ɔ2 ŋ͡m
+đó	 d ɔ5
+đóa	 dw ʷa5
+đói	 d ɔ5 j
+đón	 d ɔ5 n
+đóng	 d ɔ5 ŋ͡m
+đót	 d ɔ5 t
+đô	 d o1
+đôi	 d o1 j
+đôm	 d o1 m
+đôn	 d o1 n
+đông	 d o1 ŋ͡m
+đùa	 d uə2
+đùi	 d u2 j
+đùm	 d u2 m
+đùng	 d u2 ŋ͡m
+đúc	 d u5 k͡p
+đúng	 d u5 ŋ͡m
+đút	 d u5 t
+đăm	 d ă1 m
+đăng	 d ă1 ŋ
+đĩ	 d i3
+đĩa	 d iə3
+đũa	 d uə3
+đơ	 d ɤ1
+đơm	 d ɤ1 m
+đơn	 d ɤ1 n
+đưa	 d ɯə1
+đươc	 d ɯə1 k
+đương	 d ɯə1 ŋ
+đường	 d ɯə2 ŋ
+được	 d ɯə6 k
+đượm	 d ɯə6 m
+đạc	 d a6 k
+đại	 d a6 j
+đạm	 d a6 m
+đạn	 d a6 n
+đạo	 d a6 w
+đạp	 d a6 p
+đạt	 d a6 t
+đả	 d a4
+đảm	 d a4 m
+đảng	 d a4 ŋ
+đảo	 d a4 w
+đấm	 d ɤ̆5 m
+đấng	 d ɤ̆5 ŋ
+đất	 d ɤ̆5 t
+đấu	 d ɤ̆5 w
+đấy	 d ɤ̆5 j
+đầm	 d ɤ̆2 m
+đần	 d ɤ̆2 n
+đầu	 d ɤ̆2 w
+đầy	 d ɤ̆2 j
+đẩu	 d ɤ̆4 w
+đẩy	 d ɤ̆4 j
+đẫm	 d ɤ̆3 m
+đẫy	 d ɤ̆3 j
+đậm	 d ɤ̆6 m
+đập	 d ɤ̆6 p
+đậu	 d ɤ̆6 w
+đậy	 d ɤ̆6 j
+đắc	 d ă5 k
+đắm	 d ă5 m
+đắn	 d ă5 n
+đắng	 d ă5 ŋ
+đắp	 d ă5 p
+đắt	 d ă5 t
+đằng	 d ă2 ŋ
+đẳng	 d ă4 ŋ
+đẵng	 d ă3 ŋ
+đặc	 d ă6 k
+đặn	 d ă6 n
+đặt	 d ă6 t
+đẹp	 d ɛ6 p
+đẹt	 d ɛ6 t
+đẻ	 d ɛ4
+đẽ	 d ɛ3
+đẽo	 d eo3
+đế	 d e5
+đếm	 d e5 m
+đến	 d e5 n
+đết	 d e5 t
+đề	 d e2
+đềm	 d e2 m
+đền	 d e2 n
+đều	 d ɛu2
+để	 d e4
+đệ	 d e6
+đệm	 d e6 m
+đỉa	 d iə4
+đỉnh	 d i4 ɲ
+địa	 d iə6
+địch	 d i6 tʃ
+định	 d i6 ɲ
+đọ	 d ɔ6
+đọa	 dw ʷa6
+đọc	 d ɔ6 k͡p
+đọng	 d ɔ6 ŋ͡m
+đọt	 d ɔ6 t
+đỏ	 d ɔ4
+đố	 d o5
+đốc	 d o5 k͡p
+đối	 d o5 j
+đốm	 d o5 m
+đốn	 d o5 n
+đống	 d o5 ŋ͡m
+đốt	 d o5 t
+đồ	 d o2
+đồi	 d o2 j
+đồn	 d o2 n
+đồng	 d o2 ŋ͡m
+đổ	 d o4
+đổi	 d o4 j
+đỗi	 d o3 j
+độ	 d o6
+độc	 d o6 k͡p
+đội	 d o6 j
+độn	 d o6 n
+động	 d o6 ŋ͡m
+đột	 d o6 t
+đớn	 d ɤ5 n
+đờ	 d ɤ2
+đời	 d ɤ2 j
+đỡ	 d ɤ3
+đợ	 d ɤ6
+đợi	 d ɤ6 j
+đợt	 d ɤ6 t
+đục	 d u6 k͡p
+đụng	 d u6 ŋ͡m
+đủ	 d u4
+đủi	 d u4 j
+đứa	 d ɯə5
+đức	 d ɯ5 k
+đứng	 d ɯ5 ŋ
+đứt	 d ɯ5 t
+đừ	 d ɯ2
+đừng	 d ɯ2 ŋ
+đực	 d ɯ6 k
+đựng	 d ɯ6 ŋ
+ơi	 ɤ1 j
+ơn	 ɤ1 n
+ưng	 ɯ1 ŋ
+ưu	 ɯ1 w
+ươm	 ɯə1 m
+ương	 ɯə1 ŋ
+ước	 ɯə5 k
+ướp	 ɯə5 p
+ướt	 ɯə5 t
+ạc	 a6 k
+ạt	 a6 t
+ải	 a4 j
+ảm	 a4 m
+ảnh	 ɛ4 ɲ
+ảo	 a4 w
+ấm	 ɤ̆5 m
+ấn	 ɤ̆5 n
+ấp	 ɤ̆5 p
+ấu	 ɤ̆5 w
+ấy	 ɤ̆5 j
+ầm	 ɤ̆2 m
+ẩm	 ɤ̆4 m
+ẩn	 ɤ̆4 n
+ập	 ɤ̆6 p
+ắp	 ă5 p
+ắt	 ă5 t
+ẵm	 ă3 m
+ếch	 e5 tʃ
+ếm	 e5 m
+ếp	 e5 p
+ết	 e5 t
+ọt	 ɔ6 t
+ỏi	 ɔ4 j
+ốc	 o5 k͡p
+ốm	 o5 m
+ống	 o5 ŋ͡m
+ốp	 o5 p
+ốt	 o5 t
+ồn	 o2 n
+ổi	 o4 j
+ổn	 o4 n
+ớt	 ɤ5 t
+ủi	 u4 j
+ủng	 u4 ŋ͡m
+ủy	 u4 j
+ức	 ɯ5 k
+ứng	 ɯ5 ŋ
+ửng	 ɯ4 ŋ
