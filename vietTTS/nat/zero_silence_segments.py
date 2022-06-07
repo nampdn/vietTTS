@@ -10,13 +10,14 @@ from .config import FLAGS
 
 parser = ArgumentParser()
 
+parser.add_argument("-i", "--input-dir", type=Path, required=True)
 parser.add_argument("-o", "--output-dir", type=Path, required=True)
 args = parser.parse_args()
 
-files = sorted(FLAGS.data_dir.glob("*.TextGrid"))
+files = sorted(args.input_dir.glob("*.TextGrid"))
 for fn in tqdm(files):
     tg = TextGrid.fromFile(str(fn.resolve()))
-    wav_fn = FLAGS.data_dir / f"{fn.stem}.wav"
+    wav_fn = args.input_dir / f"{fn.stem}.wav"
     sr, y = wavfile.read(wav_fn)
     y = np.copy(y)
     for phone in tg[1]:
