@@ -43,10 +43,10 @@ def forward_fn_(params, aux, rng, inputs: AcousticInput):
 forward_fn = jax.jit(forward_fn_)
 
 
-def generate_gta(out_dir: Path):
+def generate_gta(in_dir: Path, out_dir: Path):
     out_dir.mkdir(parents=True, exist_ok=True)
     data_iter = load_textgrid_wav(
-        FLAGS.data_dir,
+        in_dir,
         FLAGS.max_phoneme_seq_len,
         FLAGS.batch_size,
         FLAGS.max_wave_len,
@@ -63,11 +63,13 @@ def generate_gta(out_dir: Path):
             dic["rng"],
             dic["optim_state"],
         )
+        print("Acoustic step at:", dic["step"])
 
     tr = tqdm(data_iter)
     for names, batch in tr:
         lengths = batch.wav_lengths
         predicted_mel = forward_fn(params, aux, rng, batch)
+        print("predicted mel", predicted_mel)
         mel = jax.device_get(predicted_mel)
         for idx, fn in enumerate(names):
             file = out_dir / f"{fn}.npy"
@@ -78,5 +80,9 @@ def generate_gta(out_dir: Path):
 
 if __name__ == "__main__":
     parser = ArgumentParser()
+    parser.add_argument("-i", "--input-dir", type=Path)
     parser.add_argument("-o", "--output-dir", type=Path, default="gta")
-    generate_gta(parser.parse_args().output_dir)
+    args = parser.parse_args()
+    input_dir = args.input_dir
+    output_dir = args.output_dir
+    generate_gta(input_dir, output_dir)
