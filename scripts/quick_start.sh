@@ -8,5 +8,5 @@ if [ ! -f assets/infore/hifigan/g_01140000 ]; then
 fi
 
 echo "Generate audio clip"
-text=`cat assets/transcript.txt`
+text=$(cat assets/transcript.txt)
 python3 -m vietTTS.synthesizer --text "$text" --output assets/infore/clip.wav --lexicon-file assets/infore/lexicon.txt --silence-duration 0.2
