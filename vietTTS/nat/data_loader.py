@@ -17,10 +17,11 @@ def load_phonemes_set():
 
 def pad_seq(s, maxlen, value=0):
     assert maxlen >= len(s)
-    return tuple(s) + (value,) * (maxlen - len(s))
+    return tuple(s) + (value, ) * (maxlen - len(s))
 
 
 def is_in_word(phone, word):
+
     def time_in_word(time, word):
         return (word.minTime - 1e-3) < time and (word.maxTime + 1e-3) > time
 
@@ -84,9 +85,7 @@ def textgrid_data_loader(data_dir: Path, seq_len: int, batch_size: int, mode: st
                 batch = []
 
 
-def load_textgrid_wav(
-    data_dir: Path, token_seq_len: int, batch_size, pad_wav_len, mode: str
-):
+def load_textgrid_wav(data_dir: Path, token_seq_len: int, batch_size, pad_wav_len, mode: str):
     """load wav and textgrid files to memory."""
     tg_files = sorted(data_dir.glob("*.TextGrid"))
     random.Random(42).shuffle(tg_files)

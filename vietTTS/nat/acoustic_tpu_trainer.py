@@ -48,9 +48,7 @@ def train(
 
     @partial(jax.pmap, axis_name="i")
     def update(params, aux, rng, optim_state, inputs):
-        states, losses = jax.lax.scan(
-            update_step, (params, aux, rng, optim_state), inputs
-        )
+        states, losses = jax.lax.scan(update_step, (params, aux, rng, optim_state), inputs)
         return states, jnp.mean(losses)
 
     print(jax.devices())
@@ -100,17 +98,13 @@ def train(
             )
 
     tr = tqdm(
-        range(
-            last_step + steps_per_update, FLAGS.num_training_steps + 1, steps_per_update
-        ),
+        range(last_step + steps_per_update, FLAGS.num_training_steps + 1, steps_per_update),
         desc="training",
         total=FLAGS.num_training_steps // steps_per_update + 1,
         initial=last_step // steps_per_update + 1,
     )
 
-    params, aux, rng, optim_state = jax.device_put_replicated(
-        (params, aux, rng, optim_state), jax.devices()
-    )
+    params, aux, rng, optim_state = jax.device_put_replicated((params, aux, rng, optim_state), jax.devices())
 
     def batch_reshape(batch):
         return jax.tree_map(
@@ -121,16 +115,13 @@ def train(
     for step in tr:
         batch = next(train_data_iter)
         batch = batch_reshape(batch)
-        (params, aux, rng, optim_state), loss = update(
-            params, aux, rng, optim_state, batch
-        )
+        (params, aux, rng, optim_state), loss = update(params, aux, rng, optim_state, batch)
         losses.append(loss)
 
         if step % 10 == 0:
             val_batch = next(val_data_iter)
-            val_loss, val_aux, predicted_mel, gt_mel = val_loss_fn(
-                *jax.tree_map(lambda x: x[0], (params, aux, rng)), val_batch
-            )
+            val_loss, val_aux, predicted_mel, gt_mel = val_loss_fn(*jax.tree_map(lambda x: x[0], (params, aux, rng)),
+                                                                   val_batch)
             val_losses.append(val_loss)
             attn = jax.device_get(val_aux["acoustic_model"]["attn"])
             predicted_mel = jax.device_get(predicted_mel[0])
@@ -155,9 +146,7 @@ def train(
 
             # saving checkpoint
             with open(ckpt_fn, "wb") as f:
-                params_, aux_, rng_, optim_state_ = jax.tree_map(
-                    lambda x: x[0], (params, aux, rng, optim_state)
-                )
+                params_, aux_, rng_, optim_state_ = jax.tree_map(lambda x: x[0], (params, aux, rng, optim_state))
                 pickle.dump(
                     {
                         "step": step,

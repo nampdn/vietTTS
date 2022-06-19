@@ -22,6 +22,7 @@ def load_lexicon(fn):
 
 
 def predict_duration(tokens):
+
     def fwd_(x):
         return DurationModel(is_training=False)(x)
 
@@ -84,9 +85,7 @@ def predict_mel(tokens, durations):
     return predict_fn(params, aux, rng, tokens, durations, n_frames)[0]
 
 
-def text2mel(
-    text: str, lexicon_fn=FLAGS.data_dir / "lexicon.txt", silence_duration: float = -1.0
-):
+def text2mel(text: str, lexicon_fn=FLAGS.data_dir / "lexicon.txt", silence_duration: float = -1.0):
     tokens = text2tokens(text, lexicon_fn)
     durations = predict_duration(tokens)
     durations = jnp.where(
@@ -94,14 +93,12 @@ def text2mel(
         jnp.clip(durations, a_min=silence_duration, a_max=None),
         durations,
     )
-    durations = jnp.where(
-        np.array(tokens)[None, :] == FLAGS.word_end_index, 0.0, durations
-    )
+    durations = jnp.where(np.array(tokens)[None, :] == FLAGS.word_end_index, 0.0, durations)
     mels = predict_mel(tokens, durations)
     if tokens[-1] == FLAGS.sil_index:
         end_silence = durations[0, -1].item()
         silence_frame = int(end_silence * FLAGS.sample_rate / (FLAGS.n_fft // 4))
-        mels = mels[:, : (mels.shape[1] - silence_frame)]
+        mels = mels[:, :(mels.shape[1] - silence_frame)]
     return mels
 
 

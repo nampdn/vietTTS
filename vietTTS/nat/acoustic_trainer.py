@@ -30,9 +30,7 @@ def val_net(x):
 
 def loss_fn(params, aux, rng, inputs: AcousticInput, is_training=True):
     """Compute loss"""
-    melfilter = MelFilter(
-        FLAGS.sample_rate, FLAGS.n_fft, FLAGS.mel_dim, FLAGS.fmin, FLAGS.fmax
-    )
+    melfilter = MelFilter(FLAGS.sample_rate, FLAGS.n_fft, FLAGS.mel_dim, FLAGS.fmin, FLAGS.fmax)
     wavs = inputs.wavs.astype(jnp.float32) / (2**15)
     mels = melfilter(wavs)
     B, L, D = mels.shape
@@ -59,9 +57,7 @@ loss_vag = jax.value_and_grad(train_loss_fn, has_aux=True)
 
 def initial_state(optimizer, batch):
     rng = jax.random.PRNGKey(42)
-    params, aux = hk.transform_with_state(lambda x: AcousticModel(True)(x)).init(
-        rng, batch
-    )
+    params, aux = hk.transform_with_state(lambda x: AcousticModel(True)(x)).init(rng, batch)
     optim_state = optimizer.init(params)
     return params, aux, rng, optim_state
 
@@ -95,9 +91,7 @@ def train():
         FLAGS.max_wave_len,
         "val",
     )
-    melfilter = MelFilter(
-        FLAGS.sample_rate, FLAGS.n_fft, FLAGS.mel_dim, FLAGS.fmin, FLAGS.fmax
-    )
+    melfilter = MelFilter(FLAGS.sample_rate, FLAGS.n_fft, FLAGS.mel_dim, FLAGS.fmin, FLAGS.fmax)
     batch = next(train_data_iter)
     batch = batch._replace(mels=melfilter(batch.wavs.astype(jnp.float32) / (2**15)))
     params, aux, rng, optim_state = initial_state(optimizer, batch)
@@ -128,16 +122,12 @@ def train():
     )
     for step in tr:
         batch = next(train_data_iter)
-        loss, (params, aux, rng, optim_state) = update(
-            params, aux, rng, optim_state, batch
-        )
+        loss, (params, aux, rng, optim_state) = update(params, aux, rng, optim_state, batch)
         losses.append(loss)
 
         if step % 10 == 0:
             val_batch = next(val_data_iter)
-            val_loss, val_aux, predicted_mel, gt_mel = val_loss_fn(
-                params, aux, rng, val_batch
-            )
+            val_loss, val_aux, predicted_mel, gt_mel = val_loss_fn(params, aux, rng, val_batch)
             val_losses.append(val_loss)
             attn = jax.device_get(val_aux["acoustic_model"]["attn"])
             predicted_mel = jax.device_get(predicted_mel[0])

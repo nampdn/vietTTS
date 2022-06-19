@@ -40,9 +40,7 @@ def loss_fn(params, aux, rng, x: DurationInput, is_training=True):
     return loss, aux
 
 
-forward_fn = jax.jit(
-    hk.transform_with_state(lambda x: DurationModel(is_training=False)(x)).apply
-)
+forward_fn = jax.jit(hk.transform_with_state(lambda x: DurationModel(is_training=False)(x)).apply)
 
 
 def predict_duration(params, aux, rng, x: DurationInput):
@@ -71,9 +69,7 @@ def update(params, aux, rng, optim_state, inputs: DurationInput):
 
 def initial_state(batch):
     rng = jax.random.PRNGKey(42)
-    params, aux = hk.transform_with_state(lambda x: DurationModel(True)(x)).init(
-        rng, batch
-    )
+    params, aux = hk.transform_with_state(lambda x: DurationModel(True)(x)).init(rng, batch)
     optim_state = optimizer.init(params)
     return params, aux, rng, optim_state
 
@@ -92,12 +88,8 @@ def plot_val_duration(step: int, batch, params, aux, rng):
 
 
 def train():
-    train_data_iter = textgrid_data_loader(
-        FLAGS.data_dir, FLAGS.max_phoneme_seq_len, FLAGS.batch_size, mode="train"
-    )
-    val_data_iter = textgrid_data_loader(
-        FLAGS.data_dir, FLAGS.max_phoneme_seq_len, FLAGS.batch_size, mode="val"
-    )
+    train_data_iter = textgrid_data_loader(FLAGS.data_dir, FLAGS.max_phoneme_seq_len, FLAGS.batch_size, mode="train")
+    val_data_iter = textgrid_data_loader(FLAGS.data_dir, FLAGS.max_phoneme_seq_len, FLAGS.batch_size, mode="val")
     losses = Deque(maxlen=1000)
     val_losses = Deque(maxlen=100)
     latest_ckpt = load_latest_ckpt(FLAGS.ckpt_dir)
@@ -117,9 +109,7 @@ def train():
     )
     for step in tr:
         batch = next(train_data_iter)
-        loss, (params, aux, rng, optim_state) = update(
-            params, aux, rng, optim_state, batch
-        )
+        loss, (params, aux, rng, optim_state) = update(params, aux, rng, optim_state, batch)
         losses.append(loss)
 
         if step % 10 == 0:
@@ -130,9 +120,7 @@ def train():
             loss = sum(losses).item() / len(losses)
             val_loss = sum(val_losses).item() / len(val_losses)
             plot_val_duration(step, next(val_data_iter), params, aux, rng)
-            tr.write(
-                f" {step:>6d}/{FLAGS.num_training_steps:>6d} | train loss {loss:.5f} | val loss {val_loss:.5f}"
-            )
+            tr.write(f" {step:>6d}/{FLAGS.num_training_steps:>6d} | train loss {loss:.5f} | val loss {val_loss:.5f}")
             save_ckpt(step, params, aux, rng, optim_state, ckpt_dir=FLAGS.ckpt_dir)
 
 

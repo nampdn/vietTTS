@@ -42,9 +42,7 @@ class TokenEncoder(hk.Module):
         new_hx_fwd, _ = hk.dynamic_unroll(self.lstm_fwd, x, h0c0_fwd, time_major=False)
         x_bwd, mask_bwd = jax.tree_map(lambda x: jnp.flip(x, axis=1), (x, mask))
         h0c0_bwd = self.lstm_bwd.initial_state(B)
-        new_hx_bwd, _ = hk.dynamic_unroll(
-            self.lstm_bwd, (x_bwd, mask_bwd), h0c0_bwd, time_major=False
-        )
+        new_hx_bwd, _ = hk.dynamic_unroll(self.lstm_bwd, (x_bwd, mask_bwd), h0c0_bwd, time_major=False)
         x = jnp.concatenate((new_hx_fwd, jnp.flip(new_hx_bwd, axis=1)), axis=-1)
         return x
 
@@ -61,9 +59,7 @@ class DurationModel(hk.Module):
             FLAGS.duration_embed_dropout_rate,
             is_training,
         )
-        self.projection = hk.Sequential(
-            [hk.Linear(FLAGS.duration_lstm_dim), jax.nn.gelu, hk.Linear(1)]
-        )
+        self.projection = hk.Sequential([hk.Linear(FLAGS.duration_lstm_dim), jax.nn.gelu, hk.Linear(1)])
 
     def __call__(self, inputs: DurationInput):
         x = self.encoder(inputs.phonemes, inputs.lengths)
@@ -78,12 +74,10 @@ class AcousticModel(hk.Module):
     def __init__(self, is_training=True):
         super().__init__()
         self.is_training = is_training
-        self.encoder = TokenEncoder(
-            FLAGS.vocab_size, FLAGS.acoustic_encoder_dim, 0.5, is_training
-        )
+        self.encoder = TokenEncoder(FLAGS.vocab_size, FLAGS.acoustic_encoder_dim, 0.5, is_training)
         self.decoder = hk.deep_rnn_with_skip_connections(
-            [hk.LSTM(FLAGS.acoustic_decoder_dim), hk.LSTM(FLAGS.acoustic_decoder_dim)]
-        )
+            [hk.LSTM(FLAGS.acoustic_decoder_dim),
+             hk.LSTM(FLAGS.acoustic_decoder_dim)])
         self.projection = hk.Linear(FLAGS.mel_dim)
 
         # prenet
@@ -156,9 +150,7 @@ class AcousticModel(hk.Module):
         def zoneout_decoder(inputs, prev_state):
             x, mask = inputs
             x, state = self.decoder(x, prev_state)
-            state = jax.tree_map(
-                lambda m, s1, s2: s1 * m + s2 * (1 - m), mask, prev_state, state
-            )
+            state = jax.tree_map(lambda m, s1, s2: s1 * m + s2 * (1 - m), mask, prev_state, state)
             return x, state
 
         mask = jax.tree_map(
