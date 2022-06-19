@@ -1,5 +1,4 @@
-A Vietnamese TTS
-================
+# A Vietnamese TTS
 
 Duration model + Acoustic model + HiFiGAN vocoder for vietnamese text-to-speech application.
 
@@ -7,29 +6,23 @@ Online demo at https://huggingface.co/spaces/ntt123/vietTTS.
 
 A synthesized audio clip: [clip.wav](assets/infore/clip.wav). A colab notebook: [notebook](https://colab.research.google.com/drive/1oczrWOQOr1Y_qLdgis1twSlNZlfPVXoY?usp=sharing).
 
-
 🔔Checkout the experimental `multi-speaker` branch (`git checkout multi-speaker`) for multi-speaker support.🔔
 
-Install
--------
-
+## Install
 
 ```sh
 git clone https://github.com/NTT123/vietTTS.git
-cd vietTTS 
+cd vietTTS
 pip3 install -e .
 ```
 
+## Quick start using pretrained models
 
-Quick start using pretrained models
-----------------------------------
 ```sh
 bash ./scripts/quick_start.sh
 ```
 
-
-Download InfoRe dataset
------------------------
+## Download InfoRe dataset
 
 ```sh
 python ./scripts/download_aligned_infore_dataset.py
@@ -37,27 +30,22 @@ python ./scripts/download_aligned_infore_dataset.py
 
 **Note**: this is a denoised and aligned version of the original dataset which is donated by the InfoRe Technology company (see [here](https://www.facebook.com/groups/j2team.community/permalink/1010834009248719/)). You can download the original dataset (**InfoRe Technology 1**) at [here](https://github.com/TensorSpeech/TensorFlowASR/blob/main/README.md#vietnamese).
 
-See `notebooks/denoise_infore_dataset.ipynb` for instructions on how to denoise the dataset. We use the Montreal Forced Aligner (MFA) to align transcript and speech (textgrid files). 
+See `notebooks/denoise_infore_dataset.ipynb` for instructions on how to denoise the dataset. We use the Montreal Forced Aligner (MFA) to align transcript and speech (textgrid files).
 See `notebooks/align_text_audio_infore_mfa.ipynb` for instructions on how to create textgrid files.
 
-Train duration model
---------------------
+## Train duration model
 
 ```sh
 python -m vietTTS.nat.duration_trainer
 ```
 
+## Train acoustic model
 
-Train acoustic model
---------------------
 ```sh
 python -m vietTTS.nat.acoustic_trainer
 ```
 
-
-
-Train HiFiGAN vocoder
--------------
+## Train HiFiGAN vocoder
 
 We use the original implementation from HiFiGAN authors at https://github.com/jik876/hifi-gan. Use the config file at `assets/hifigan/config.json` to train your model.
 
@@ -82,6 +70,7 @@ python train.py \
 ```
 
 Finetune on Ground-Truth Aligned melspectrograms:
+
 ```sh
 cd /path/to/vietTTS # go to vietTTS directory
 python -m vietTTS.nat.zero_silence_segments -o train_data # zero all [sil, sp, spn] segments
@@ -98,6 +87,7 @@ python train.py \
 ```
 
 Then, use the following command to convert pytorch model to haiku format:
+
 ```sh
 cd ..
 python -m vietTTS.hifigan.convert_torch_model_to_haiku \
@@ -105,8 +95,7 @@ python -m vietTTS.hifigan.convert_torch_model_to_haiku \
   --checkpoint-file=hifi-gan/cp_hifigan/g_[latest_checkpoint]
 ```
 
-Synthesize speech
------------------
+## Synthesize speech
 
 ```sh
 python -m vietTTS.synthesizer \
