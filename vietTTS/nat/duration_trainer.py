@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import optax
 from tqdm.auto import tqdm
+
 from vietTTS.nat.config import DurationInput
 
 from .config import FLAGS

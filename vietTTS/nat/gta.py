@@ -7,6 +7,7 @@ import jax
 import jax.numpy as jnp
 import numpy as np
 from tqdm.auto import tqdm
+
 from vietTTS.nat.config import AcousticInput
 
 from .config import FLAGS, AcousticInput

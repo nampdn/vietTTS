@@ -8,6 +8,7 @@ import jax.numpy as jnp
 import matplotlib.pyplot as plt
 import optax
 from tqdm.auto import tqdm
+
 from vietTTS.nat.config import AcousticInput
 
 from .config import FLAGS, AcousticInput
