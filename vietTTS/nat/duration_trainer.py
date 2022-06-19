@@ -9,12 +9,13 @@ import numpy as np
 import optax
 from tqdm.auto import tqdm
 
-from vietTTS.nat.config import DurationInput
-
 from .config import FLAGS
 from .data_loader import textgrid_data_loader
 from .model import DurationModel
-from .utils import load_latest_ckpt, print_flags, save_ckpt
+from .utils import load_latest_ckpt
+from .utils import print_flags
+from .utils import save_ckpt
+from vietTTS.nat.config import DurationInput
 
 
 def loss_fn(params, aux, rng, x: DurationInput, is_training=True):

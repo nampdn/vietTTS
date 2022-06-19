@@ -8,9 +8,11 @@ import jax.numpy as jnp
 import matplotlib.pyplot as plt
 import numpy as np
 
-from .config import FLAGS, DurationInput
+from .config import DurationInput
+from .config import FLAGS
 from .data_loader import load_phonemes_set
-from .model import AcousticModel, DurationModel
+from .model import AcousticModel
+from .model import DurationModel
 
 
 def load_lexicon(fn):

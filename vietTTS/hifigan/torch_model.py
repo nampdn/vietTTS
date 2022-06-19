@@ -1,8 +1,13 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from torch.nn import AvgPool1d, Conv1d, Conv2d, ConvTranspose1d
-from torch.nn.utils import remove_weight_norm, spectral_norm, weight_norm
+from torch.nn import AvgPool1d
+from torch.nn import Conv1d
+from torch.nn import Conv2d
+from torch.nn import ConvTranspose1d
+from torch.nn.utils import remove_weight_norm
+from torch.nn.utils import spectral_norm
+from torch.nn.utils import weight_norm
 
 # from utils import init_weights, get_padding
 

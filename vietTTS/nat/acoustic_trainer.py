@@ -9,13 +9,13 @@ import matplotlib.pyplot as plt
 import optax
 from tqdm.auto import tqdm
 
-from vietTTS.nat.config import AcousticInput
-
-from .config import FLAGS, AcousticInput
+from .config import AcousticInput
+from .config import FLAGS
 from .data_loader import load_textgrid_wav
 from .dsp import MelFilter
 from .model import AcousticModel
 from .utils import print_flags
+from vietTTS.nat.config import AcousticInput
 
 
 @hk.transform_with_state

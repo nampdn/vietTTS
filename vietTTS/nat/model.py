@@ -3,7 +3,9 @@ import jax
 import jax.numpy as jnp
 from jax.numpy import ndarray
 
-from .config import FLAGS, AcousticInput, DurationInput
+from .config import AcousticInput
+from .config import DurationInput
+from .config import FLAGS
 
 
 class TokenEncoder(hk.Module):

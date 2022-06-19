@@ -4,14 +4,15 @@ from functools import partial
 from typing import Deque
 
 import fire
-import jax
 import jax.numpy as jnp
 import jax.tools.colab_tpu
 import matplotlib.pyplot as plt
 import optax
 from tqdm.auto import tqdm
 
-from .acoustic_trainer import initial_state, loss_vag, val_loss_fn
+from .acoustic_trainer import initial_state
+from .acoustic_trainer import loss_vag
+from .acoustic_trainer import val_loss_fn
 from .config import FLAGS
 from .data_loader import load_textgrid_wav
 from .dsp import MelFilter

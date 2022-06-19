@@ -5,7 +5,9 @@ import numpy as np
 import textgrid
 from scipy.io import wavfile
 
-from .config import FLAGS, AcousticInput, DurationInput
+from .config import AcousticInput
+from .config import DurationInput
+from .config import FLAGS
 
 
 def load_phonemes_set():
