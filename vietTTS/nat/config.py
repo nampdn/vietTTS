@@ -20,10 +20,10 @@ class FLAGS(Namespace):
     max_wave_len = 1024 * 64 * 3
 
     # Montreal Forced Aligner
-    special_phonemes = ["sil", "sp", "spn", " "]  # [sil], [sp] [spn] [word end]
+    special_phonemes = ["sil", "sp", "spn", ""]  # [sil], [sp] [spn] [word end]
     sil_index = special_phonemes.index("sil")
     sp_index = special_phonemes.index("sp")
-    word_end_index = special_phonemes.index(" ")
+    word_end_index = special_phonemes.index("")
 
     # dsp
     mel_dim = 80

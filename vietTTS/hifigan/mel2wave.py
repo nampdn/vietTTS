@@ -16,7 +16,6 @@ class AttrDict(dict):
         super(AttrDict, self).__init__(*args, **kwargs)
         self.__dict__ = self
 
-
 def mel2wave(
     mel,
     config_file="assets/hifigan/config.json",
