@@ -19,12 +19,12 @@ def load_lexicon(fn):
     return dict(lines)
 
 
-def predict_duration(tokens):
+def predict_duration(tokens, ckpt_file):
     def fwd_(x):
         return DurationModel(is_training=False)(x)
 
     forward_fn = jax.jit(hk.transform_with_state(fwd_).apply)
-    with open(FLAGS.ckpt_dir / "duration_latest_ckpt.pickle", "rb") as f:
+    with open(ckpt_file, "rb") as f:
         dic = pickle.load(f)
     x = DurationInput(
         np.array(tokens, dtype=np.int32)[None, :],
