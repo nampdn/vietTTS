@@ -88,7 +88,7 @@ def text2mel(
     duration_ckpt=FLAGS.ckpt_dir / "duration_latest_ckpt.pickle",
 ):
     tokens = text2tokens(text, lexicon_fn)
-    durations = predict_duration(tokens)
+    durations = predict_duration(tokens, duration_ckpt)
     durations = jnp.where(
         np.array(tokens)[None, :] == FLAGS.sp_index,
         jnp.clip(durations, a_min=silence_duration, a_max=None),
