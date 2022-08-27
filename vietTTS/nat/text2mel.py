@@ -54,7 +54,8 @@ def text2tokens(text, lexicon_fn):
                 if p in phonemes:
                     tokens.append(phonemes.index(p))
             tokens.append(FLAGS.word_end_index)
-    tokens.append(FLAGS.sil_index)  # silence
+    if not tokens[-1] == FLAGS.sil_index:
+        tokens.append(FLAGS.sil_index)  # silence
     return tokens
 
 def predict_mel(tokens, durations, ckpt_fn):    
@@ -98,10 +99,10 @@ def text2mel(
         np.array(tokens)[None, :] == FLAGS.word_end_index, 0.0, durations
     )
     mels = predict_mel(tokens, durations, acoustic_ckpt)
-    if tokens[-1] == FLAGS.sil_index:
-        end_silence = durations[0, -1].item()
-        silence_frame = int(end_silence * FLAGS.sample_rate / (FLAGS.n_fft // 4))
-        mels = mels[:, : (mels.shape[1] - silence_frame)]
+    # if tokens[-1] == FLAGS.sil_index:
+    #     end_silence = durations[0, -1].item()
+    #     silence_frame = int(end_silence * FLAGS.sample_rate / (FLAGS.n_fft // 4))
+    #     mels = mels[:, : (mels.shape[1] - silence_frame)]
     return mels
 
 
