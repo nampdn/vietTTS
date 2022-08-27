@@ -84,7 +84,8 @@ def text2mel(
     text: str,
     lexicon_fn=FLAGS.data_dir / "lexicon.txt",
     silence_duration: float = -1.0,
-    ckpt_fn=FLAGS.ckpt_dir / "acoustic_latest_ckpt.pickle",
+    acoustic_ckpt=FLAGS.ckpt_dir / "acoustic_latest_ckpt.pickle",
+    duration_ckpt=FLAGS.ckpt_dir / "duration_latest_ckpt.pickle",
 ):
     tokens = text2tokens(text, lexicon_fn)
     durations = predict_duration(tokens)
