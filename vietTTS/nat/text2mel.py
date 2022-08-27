@@ -97,7 +97,7 @@ def text2mel(
     durations = jnp.where(
         np.array(tokens)[None, :] == FLAGS.word_end_index, 0.0, durations
     )
-    mels = predict_mel(tokens, durations, ckpt_fn)
+    mels = predict_mel(tokens, durations, acoustic_ckpt)
     if tokens[-1] == FLAGS.sp_index:
         end_silence = durations[0, -1].item()
         silence_frame = int(end_silence * FLAGS.sample_rate / (FLAGS.n_fft // 4))
